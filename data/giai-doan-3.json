@@ -1,0 +1,1416 @@
+{
+  "phase": {
+    "id": "gd-3",
+    "title": "Giai đoạn 3 — 12 cung & 14 chính tinh",
+    "subtitle": "Bàn lá số · Cung Mệnh · Đối xung · Tam hợp · Chính tinh",
+    "summary": "Cấu trúc lá số Tử Vi: 12 cung phân định lĩnh vực đời sống, 14 chính tinh chủ vận mệnh.",
+    "modules": ["C"]
+  },
+  "lessons": [
+    {
+      "id": "12-cung-tong-quan",
+      "slug": "12-cung-tong-quan",
+      "title": "12 cung — Bản đồ cuộc đời trên lá số",
+      "module": "C",
+      "order": 1,
+      "duration_minutes": 18,
+      "story_hook": "Sau khi học can chi, bạn có một ngày sinh được đánh dấu. Nhưng để biết người này 'ra sao' — sự nghiệp, hôn nhân, sức khỏe... — cần một **bản đồ**. Tử Vi chia đời người thành **12 lĩnh vực** đặt trên 12 ô vuông — đó là 12 cung.",
+      "key_metaphor": "Như một căn nhà 12 phòng: phòng khách (Mệnh — bộ mặt bản thân), phòng làm việc (Quan Lộc — sự nghiệp), phòng ngủ (Phu Thê — bạn đời)... Xem từng phòng để biết cuộc sống ở khía cạnh đó ra sao.",
+      "content": {
+        "sections": [
+          {
+            "title": "Vì sao 12 cung?",
+            "body": "Người xưa thấy mọi vấn đề đời người có thể quy về **12 lĩnh vực cốt lõi**. Họ ghép số 12 với 12 Địa chi đã học — tạo thành bàn lá số 12 ô.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**12 cung** = 12 lĩnh vực đời sống (gia đình, sự nghiệp, sức khỏe, tài lộc...) — mỗi cung đứng trên một địa chi."
+              },
+              {
+                "type": "note",
+                "text": "Số 12 không tuỳ tiện — trùng với 12 Địa chi, 12 tháng, 12 giờ — tạo sự đối xứng đẹp giữa **thời gian** và **đời người**."
+              },
+              {
+                "type": "application",
+                "text": "Đọc lá số = lần lượt đọc 12 cung, kết hợp với **chính tinh** đứng tại đó, để có bức tranh tổng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Cấu trúc bàn lá số 4×4",
+            "body": "Bàn lá số là **hình vuông 4×4 = 16 ô**. 12 ô viền chứa 12 cung; **4 ô giữa** dùng để ghi thông tin người sinh (năm, tháng, giờ, mệnh nạp âm).",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tỵ ở góc trên-trái** — đi thuận chiều kim đồng hồ: Tỵ → Ngọ → Mùi → Thân (hàng trên) → Dậu → Tuất → Hợi (cột phải) → Tý → Sửu → Dần (hàng dưới ngược) → Mão → Thìn (cột trái lên)."
+              },
+              {
+                "type": "note",
+                "text": "Layout này CỐ ĐỊNH — không thay đổi giữa các lá số. Chỉ **tên cung** trong từng ô mới thay đổi tuỳ theo cung Mệnh ở đâu."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "12 cung — tên gọi và lĩnh vực phụ trách",
+            "body": "Mỗi cung có tên Hán Việt thi vị và phụ trách một lĩnh vực. Hãy đọc qua bảng tổng — sẽ học chi tiết từng cung ở các bài tiếp theo.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Trí nhớ nhanh:** chia 12 cung thành 4 nhóm: **Bản thân** (Mệnh, Thân), **Gia đình** (Phụ Mẫu, Huynh Đệ, Tử Tức, Phu Thê), **Tài-Quan** (Tài Bạch, Quan Lộc, Điền Trạch, Phúc Đức), **Tương tác bên ngoài** (Thiên Di, Nô Bộc, Tật Ách)."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "12 cung — tên, Hán tự, lĩnh vực phụ trách",
+              "data": {
+                "headers": ["Cung", "Hán", "Lĩnh vực"],
+                "rows": [
+                  ["Mệnh", "命", "Bản thân — tính cách, vận mệnh cốt lõi"],
+                  ["Phụ Mẫu", "父母", "Cha mẹ, bề trên, người dẫn dắt đầu đời"],
+                  ["Phúc Đức", "福德", "Phúc khí tổ tiên, niềm vui tinh thần"],
+                  ["Điền Trạch", "田宅", "Nhà cửa, đất đai, tài sản cố định"],
+                  ["Quan Lộc", "官祿", "Sự nghiệp, công danh, chức vụ"],
+                  ["Nô Bộc", "奴僕", "Bạn bè, đồng nghiệp, cấp dưới"],
+                  ["Thiên Di", "遷移", "Đi xa, ra ngoài, đối ngoại"],
+                  ["Tật Ách", "疾厄", "Sức khỏe, bệnh tật bẩm sinh"],
+                  ["Tài Bạch", "財帛", "Tiền bạc, dòng tiền, thu nhập"],
+                  ["Tử Tức", "子息", "Con cái, mối duyên với con"],
+                  ["Phu Thê", "夫妻", "Hôn nhân, vợ/chồng"],
+                  ["Huynh Đệ", "兄弟", "Anh chị em ruột"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Thử với sơ đồ tương tác",
+            "body": "Đây là bàn lá số mẫu — bấm vào từng ô để xem cung đó là gì, phụ trách lĩnh vực nào, và những câu hỏi nên đặt khi đọc.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Thử các thao tác: bấm vào **Tỵ** (cung Mệnh ở Tỵ trong ví dụ này), rồi xem **đối xung** và **tam hợp** — sẽ học chi tiết ở bài kế."
+              }
+            ],
+            "visual": {
+              "kind": "interactive-cung-bieu",
+              "caption": "Sơ đồ bàn lá số ví dụ — cung Mệnh tại Dần",
+              "data": { "cungMenh": "Dần" }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Có bao nhiêu cung trên lá số Tử Vi?",
+          "options": ["8", "10", "12", "16"],
+          "answer": 2,
+          "explanation": "**12 cung** — mỗi cung đứng trên một địa chi, phụ trách một lĩnh vực đời sống. Bàn lá số là hình 4×4 (16 ô) nhưng 4 ô giữa dành cho thông tin sinh, không phải cung."
+        },
+        {
+          "question": "Trên bàn lá số, cung nào ở **góc trên-trái** (theo quy ước truyền thống)?",
+          "options": ["Tý", "Tỵ", "Dần", "Ngọ"],
+          "answer": 1,
+          "explanation": "**Tỵ** ở góc trên-trái — bàn lá số luôn đặt **Tỵ trên-trái, Thân trên-phải, Hợi dưới-phải, Dần dưới-trái**. Đi thuận kim đồng hồ: Tỵ → Ngọ → Mùi → Thân → Dậu → ..."
+        },
+        {
+          "question": "Cung nào phụ trách lĩnh vực **'sự nghiệp công danh'**?",
+          "options": ["Tài Bạch", "Quan Lộc", "Điền Trạch", "Phúc Đức"],
+          "answer": 1,
+          "explanation": "**Quan Lộc** (官祿) phụ trách công danh, chức vụ, sự nghiệp. Tài Bạch = dòng tiền. Điền Trạch = nhà đất. Phúc Đức = phúc khí tinh thần. Quan Lộc + Tài Bạch + Mệnh = 'tam hợp tài-quan' quan trọng nhất."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Cung Thân không có trong 12 cung à?",
+          "answer": "Đúng. **Thân không phải 1 trong 12 cung** — Thân là 'sao bổ trợ' an kèm vào 1 trong 12 cung (thường là Mệnh, Tài, Quan, Thiên Di, Phu Thê, hoặc Phúc Đức). Cung Thân nằm chung địa chi với cung nào thì cung đó được nhấn mạnh đặc biệt."
+        },
+        {
+          "question": "Cung 'tốt' hay 'xấu' căn cứ vào đâu?",
+          "answer": "Không có cung tốt/xấu tuyệt đối. Tốt-xấu dựa vào: **(1) sao đứng tại cung** (chính tinh tốt hay xấu), **(2) tương sinh tương khắc** giữa hành cung và hành sao, **(3) cung đối xung và tam hợp**. Một cung có thể vừa có sao tốt vừa có sao xấu — phải đọc tổng thể."
+        },
+        {
+          "question": "Tại sao 4 ô giữa lại trống?",
+          "answer": "4 ô giữa **không phải cung** — dùng để **ghi thông tin sinh**: họ tên, ngày tháng năm sinh, giờ sinh, can chi năm, mệnh nạp âm, đại vận hiện tại... Đây là 'mặt đồng hồ' của lá số."
+        },
+        {
+          "question": "Hai người cùng năm sinh sẽ có lá số y hệt nhau?",
+          "answer": "KHÔNG. **Năm sinh** quyết định một số sao (theo can chi năm), nhưng **giờ sinh** quyết định **cung Mệnh ở đâu** — và tất cả các cung khác chạy theo. Cùng năm + khác giờ = lá số hoàn toàn khác."
+        }
+      ]
+    },
+    {
+      "id": "cung-menh-cung-than",
+      "slug": "cung-menh-cung-than",
+      "title": "Cung Mệnh & cung Thân — Hai cột mốc của đời người",
+      "module": "C",
+      "order": 2,
+      "duration_minutes": 17,
+      "story_hook": "Trong 12 cung, có **2 cung quan trọng nhất**: cung Mệnh và cung Thân. Tại sao? Vì Mệnh là 'con người bẩm sinh', Thân là 'con người sau 30 tuổi'. Hiểu hai cung này = hiểu phần lớn bản thân.",
+      "key_metaphor": "Như đời người có **hai chương sách**: chương đầu (đến ~30 tuổi) là 'mệnh trời cho' — Mệnh. Chương sau là 'thân tự xây' — Thân. Đôi khi hai chương trùng nhau (Mệnh-Thân đồng cung), đôi khi rất khác — tạo nên những bước ngoặt cuộc đời.",
+      "content": {
+        "sections": [
+          {
+            "title": "Cung Mệnh — Con người bẩm sinh",
+            "body": "**Cung Mệnh** là cung chính trên lá số — đại diện cho **tính cách bẩm sinh, hướng đi đời sống, khả năng tự nhiên**. Đây là điểm xuất phát giải đoán mọi lá số.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Cung Mệnh** = cung tính từ **tháng sinh + giờ sinh** (đếm thuận Dần đến tháng sinh, rồi đếm ngược chi giờ)."
+              },
+              {
+                "type": "application",
+                "text": "Sao chính tinh tại Mệnh quyết định **'kiểu người'** bạn là: lãnh đạo (Tử Vi), trí thức (Thiên Cơ), chiến binh (Thất Sát)... Bạn sẽ học 14 chính tinh ở bài cuối."
+              },
+              {
+                "type": "note",
+                "text": "Cung Mệnh ảnh hưởng mạnh trong **30 năm đầu** đời. Sau đó, cung Thân dần dần lên tiếng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Cung Thân — Con người 'tự xây'",
+            "body": "**Cung Thân** không thuộc 12 cung. Đó là một 'điểm mốc' an kèm vào một trong 12 cung — nơi mà **sau 30 tuổi**, đời bạn 'rẽ' theo hướng cung đó.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Cung Thân** tính bằng: từ cung tháng sinh, đếm **THUẬN** chi giờ (ngược chiều với cung Mệnh)."
+              },
+              {
+                "type": "definition",
+                "text": "**Cung Thân chỉ an vào 6 cung:** Mệnh, Phúc Đức, Quan Lộc, Thiên Di, Tài Bạch, Phu Thê. Không bao giờ an vào Phụ Mẫu, Huynh Đệ, Tử Tức, Tật Ách, Điền Trạch, Nô Bộc."
+              },
+              {
+                "type": "application",
+                "text": "Thân tại **Phúc Đức** → hậu vận trọng tâm hồn, an lạc. Thân tại **Quan Lộc** → hậu vận lo công danh. Thân tại **Tài Bạch** → hậu vận lo kinh tế..."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Khi Mệnh & Thân đồng cung",
+            "body": "Khi sinh **giờ Tý hoặc giờ Ngọ**, hai phép tính cho ra cùng địa chi → **Mệnh-Thân đồng cung**. Điều này có ý nghĩa đặc biệt.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Mệnh-Thân đồng cung** = con người 'thuần nhất' từ đầu đến cuối đời — tính cách bẩm sinh và hậu vận thống nhất."
+              },
+              {
+                "type": "application",
+                "text": "**Mệnh-Thân khác cung** = đời chia làm 2 giai đoạn — trước 30 tuổi sống theo Mệnh, sau 30 chuyển sang Thân. Có thể thay đổi nghề nghiệp, hoàn cảnh."
+              },
+              {
+                "type": "note",
+                "text": "Đây chỉ là **gợi ý đọc** — không phải định luật cứng. Mỗi lá số cụ thể còn phụ thuộc các sao."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "So sánh Cung Mệnh và Cung Thân",
+              "data": {
+                "headers": ["Đặc điểm", "Cung Mệnh", "Cung Thân"],
+                "rows": [
+                  ["Vai trò", "Tính cách bẩm sinh", "Hậu vận sau 30 tuổi"],
+                  ["Cách tính", "Đếm ngược chi giờ từ tháng sinh", "Đếm thuận chi giờ từ tháng sinh"],
+                  ["Vị trí khả dĩ", "1 trong 12 cung", "Chỉ 6 cung: Mệnh, Phúc, Quan, Thiên Di, Tài, Phu Thê"],
+                  ["Khi đồng cung", "Nhân vật chính của 30 năm đầu", "Cùng cung với Mệnh — đời thống nhất"],
+                  ["Ảnh hưởng nổi bật", "10-30 tuổi", "30 tuổi trở về sau"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Cách đọc Mệnh-Thân để hiểu cá tính",
+            "body": "Khi đọc lá số, bước đầu tiên: **xem cung Mệnh** (tính cách bẩm sinh) → **xem cung Thân** (hậu vận) → **xem cung đối xung của Mệnh = Thiên Di** (cách người khác nhìn bạn).",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Bước 1:** Mệnh có sao gì? → kết luận sơ bộ về tính cách."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 2:** Thân an ở cung nào? → kết luận về 'điểm rơi' hậu vận."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 3:** Thiên Di đối xung Mệnh có sao gì? → kết luận về 'hình ảnh xã hội' của bạn."
+              },
+              {
+                "type": "note",
+                "text": "Trình tự này = **bộ khung 30 phút** để có ấn tượng tổng thể về một lá số."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Cung Thân **không bao giờ** an vào cung nào sau đây?",
+          "options": ["Quan Lộc", "Phu Thê", "Huynh Đệ", "Phúc Đức"],
+          "answer": 2,
+          "explanation": "**Huynh Đệ** không bao giờ là cung Thân. Cung Thân CHỈ an vào 6 cung: Mệnh, Phúc Đức, Quan Lộc, Thiên Di, Tài Bạch, Phu Thê. Các cung còn lại (Phụ Mẫu, Huynh Đệ, Tử Tức, Tật Ách, Điền Trạch, Nô Bộc) không bao giờ là Thân."
+        },
+        {
+          "question": "Sinh **giờ Tý** thì Mệnh và Thân có quan hệ gì?",
+          "options": [
+            "Mệnh-Thân đồng cung (cùng địa chi)",
+            "Mệnh và Thân đối xung nhau",
+            "Thân nằm ngay cạnh Mệnh",
+            "Thân không tồn tại"
+          ],
+          "answer": 0,
+          "explanation": "Khi sinh **giờ Tý hoặc Ngọ** (chi giờ index = 0 hoặc 6), phép tính cung Mệnh (trừ chi giờ) và cung Thân (cộng chi giờ) cho ra **cùng địa chi** → **Mệnh-Thân đồng cung**. Người sinh giờ này có đời thống nhất giữa bẩm sinh và hậu vận."
+        },
+        {
+          "question": "Khi mới đọc một lá số, bước **đầu tiên** nên xem cung gì?",
+          "options": [
+            "Cung Tài Bạch — xem giàu nghèo trước",
+            "Cung Mệnh — xem tính cách cốt lõi trước",
+            "Cung Phu Thê — xem chuyện vợ chồng",
+            "Cung Thiên Di — xem đi nước ngoài"
+          ],
+          "answer": 1,
+          "explanation": "**Cung Mệnh** luôn là bước đầu tiên — đó là 'cái tôi cốt lõi'. Mọi cung khác chỉ có ý nghĩa khi đặt cạnh Mệnh. Sau Mệnh, đọc tiếp Thân (hậu vận) và Thiên Di (hình ảnh xã hội) — đó là **bộ 3 cung** đầu tiên cần nắm."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Vì sao Thân chỉ an được vào 6 cung mà không phải tất cả?",
+          "answer": "Vì 6 cung **Mệnh, Phúc, Quan, Thiên Di, Tài, Phu Thê** là 6 cung **dương** (đối xứng qua tâm bàn). Cung Thân — tính theo phép đếm thuận chi giờ — luôn rơi vào một trong 6 cung này, không bao giờ rơi vào 6 cung còn lại. Đây là tính chất hình học của bàn 4×4."
+        },
+        {
+          "question": "Tôi sinh giờ Tý, cung Mệnh-Thân tại Dần. Vậy hậu vận tôi giống bẩm sinh?",
+          "answer": "Có một phần đúng. Mệnh-Thân đồng cung tại Dần (Mộc) → **bẩm sinh và hậu vận cùng một hành Mộc** → con người thống nhất. Tuy nhiên, **đại vận** (10 năm 1 vận) vẫn thay đổi → các sao theo vận có thể tô màu khác — sẽ học ở Giai đoạn 4."
+        },
+        {
+          "question": "Có cách nào tự tính cung Mệnh và Thân không?",
+          "answer": "Có. Công thức trong app này: **Cung Mệnh index = (1 + thangSinh − chiGioIndex) mod 12**. **Cung Thân index = (1 + thangSinh + chiGioIndex) mod 12**. Trong đó chiGioIndex = chỉ số giờ địa chi (Tý=0, Sửu=1, ...). Hoặc dùng công cụ /la-so trên app."
+        }
+      ]
+    },
+    {
+      "id": "luc-doi-xung",
+      "slug": "luc-doi-xung",
+      "title": "Sáu cặp đối xung — Quy luật âm dương trên lá số",
+      "module": "C",
+      "order": 3,
+      "duration_minutes": 16,
+      "story_hook": "12 cung không xếp ngẫu nhiên — chúng **ghép thành 6 cặp đối xứng** qua tâm bàn. Mệnh đối Thiên Di. Phụ Mẫu đối Tật Ách. Cặp nào cũng kể **một câu chuyện ở hai mặt** — bên trong và bên ngoài.",
+      "key_metaphor": "Hai cánh tay — phải đối trái nhưng cùng phục vụ một cơ thể. Mỗi cặp cung đối xung là **một chủ đề** nhìn từ 2 phía: 'tôi-chính-tôi' và 'tôi-trong-mắt-người-khác'.",
+      "content": {
+        "sections": [
+          {
+            "title": "Đối xung là gì?",
+            "body": "Trên bàn lá số 4×4, mỗi cung có **một cung đối xứng qua tâm**. 12 cung tạo thành **6 cặp đối xung**. Đối xung không phải 'đối nghịch' — mà là **hai mặt của một chủ đề**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Đối xung** = hai cung cách nhau **6 ô** trên vòng địa chi (=180°)."
+              },
+              {
+                "type": "definition",
+                "text": "6 cặp địa chi đối xung: **Tý-Ngọ, Sửu-Mùi, Dần-Thân, Mão-Dậu, Thìn-Tuất, Tỵ-Hợi** (gọi là **lục xung**)."
+              },
+              {
+                "type": "note",
+                "text": "Sao tại cung đối xung **ảnh hưởng** sang cung kia — gọi là 'chiếu'. Đọc một cung mà bỏ qua đối xung → đọc nửa câu chuyện."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "6 cặp đối xung và ý nghĩa",
+            "body": "Mỗi cặp đối xung là **một chủ đề 2 mặt**. Hiểu cặp = hiểu bản chất chủ đề đó.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Mệnh ↔ Thiên Di** — Bản thân (trong) ↔ đối ngoại (ngoài). 'Tôi là ai' vs 'người khác thấy tôi'."
+              },
+              {
+                "type": "definition",
+                "text": "**Phụ Mẫu ↔ Tật Ách** — Cha mẹ (truyền lại) ↔ sức khỏe (kế thừa). Cha mẹ cho ta thể chất."
+              },
+              {
+                "type": "definition",
+                "text": "**Phúc Đức ↔ Tài Bạch** — Phúc khí (tinh thần) ↔ tiền bạc (vật chất). Hai mặt của 'sung túc'."
+              },
+              {
+                "type": "definition",
+                "text": "**Điền Trạch ↔ Tử Tức** — Nhà cửa (gia sản hiện tại) ↔ con cái (gia sản tương lai). Cả hai là 'tích lũy lâu dài'."
+              },
+              {
+                "type": "definition",
+                "text": "**Quan Lộc ↔ Phu Thê** — Sự nghiệp ↔ hôn nhân. Hai trụ cột đời người trưởng thành."
+              },
+              {
+                "type": "definition",
+                "text": "**Nô Bộc ↔ Huynh Đệ** — Bạn bè ↔ anh chị em. Hai loại 'người thân' — ngoài máu mủ và trong máu mủ."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "6 cặp đối xung — chủ đề 2 mặt",
+              "data": {
+                "headers": ["Cặp đối xung", "Mặt 'trong'", "Mặt 'ngoài'"],
+                "rows": [
+                  ["Mệnh ↔ Thiên Di", "Bản thân tự thấy", "Người khác thấy"],
+                  ["Phụ Mẫu ↔ Tật Ách", "Cha mẹ", "Sức khỏe bẩm sinh"],
+                  ["Phúc Đức ↔ Tài Bạch", "Phúc khí tinh thần", "Tiền bạc vật chất"],
+                  ["Điền Trạch ↔ Tử Tức", "Tài sản hiện tại", "Tài sản tương lai (con)"],
+                  ["Quan Lộc ↔ Phu Thê", "Sự nghiệp", "Hôn nhân"],
+                  ["Nô Bộc ↔ Huynh Đệ", "Bạn bè ngoài", "Ruột thịt cùng thế hệ"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Ý nghĩa thực hành — Đọc cặp thay vì đọc đơn",
+            "body": "Khi đọc bất kỳ cung nào, **luôn nhìn cả cung đối xung**. Vì sao? Vì sao tại đối xung **chiếu vào** cung gốc, ảnh hưởng kết quả.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Đọc Mệnh có sao tốt + Thiên Di có sao xấu → người tốt nhưng dễ bị hiểu sai bởi xã hội."
+              },
+              {
+                "type": "application",
+                "text": "Đọc Quan Lộc có sao mạnh + Phu Thê có sao xấu → sự nghiệp thành nhưng hôn nhân khó (hai chủ đề kéo trái chiều)."
+              },
+              {
+                "type": "note",
+                "text": "Đây cũng là lý do nhiều người 'sự nghiệp lên' thì 'gia đình xuống' — vì Quan Lộc và Phu Thê đối xung, năng lượng kéo qua lại."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Cung **đối xung** với cung Mệnh là cung nào?",
+          "options": ["Phụ Mẫu", "Thiên Di", "Tài Bạch", "Quan Lộc"],
+          "answer": 1,
+          "explanation": "**Mệnh ↔ Thiên Di** là cặp đối xung. Mệnh = bản thân (trong), Thiên Di = đối ngoại (ngoài). Đây là cặp đối xung **quan trọng nhất** vì luôn liên quan đến 'tôi là ai' và 'tôi xuất hiện ra sao'."
+        },
+        {
+          "question": "Cặp **Phúc Đức ↔ Tài Bạch** thể hiện điều gì?",
+          "options": [
+            "Hai mặt của sự giàu có: phúc tinh thần ↔ tiền vật chất",
+            "Hai chủ đề không liên quan, chỉ ngẫu nhiên đối xứng",
+            "Phúc Đức quan trọng hơn Tài Bạch",
+            "Người giàu thì không có phúc"
+          ],
+          "answer": 0,
+          "explanation": "**Phúc Đức** là phúc khí tinh thần (niềm vui, an lạc); **Tài Bạch** là tiền bạc vật chất. Đối xung này nói: sung túc có 2 mặt — vật chất và tinh thần. Người đầy phúc đức + tài lộc → trọn vẹn; người chỉ có một bên → mất cân bằng."
+        },
+        {
+          "question": "Tại sao đọc một cung mà bỏ qua cung đối xung là 'đọc nửa câu chuyện'?",
+          "options": [
+            "Vì sao tại cung đối xung **chiếu** vào cung gốc, ảnh hưởng kết quả",
+            "Vì cung đối xung quan trọng hơn cung gốc",
+            "Vì hai cung phải có cùng sao mới đọc được",
+            "Vì cung đối xung không thực sự tồn tại"
+          ],
+          "answer": 0,
+          "explanation": "Sao tại cung đối xung **chiếu** (ảnh hưởng) sang cung gốc — đây là quy tắc nền của Tử Vi. Đọc cung Mệnh mà bỏ Thiên Di → không biết người khác nhìn bạn ra sao. Đọc Quan Lộc mà bỏ Phu Thê → không thấy được sự nghiệp ảnh hưởng hôn nhân thế nào."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Đối xung có giống lục xung trong địa chi không?",
+          "answer": "**Cùng một khái niệm**. Lục xung trong địa chi = 6 cặp đối xung của 12 cung trên bàn lá số. Khi học can chi (bài Địa chi) bạn đã thấy: Tý-Ngọ, Sửu-Mùi... Đó chính là các cặp địa chi mà 12 cung 'sống trên'."
+        },
+        {
+          "question": "Có quan hệ nào khác giữa các cung không, ngoài đối xung?",
+          "answer": "Có. Quan trọng nhất là **tam hợp** (3 cung cách nhau 4 ô — sẽ học bài tiếp). Ngoài ra còn các quan hệ phức tạp hơn: nhị hợp (kề nhau), tam hội (3 cung tạo mùa)... — sẽ học ở Giai đoạn 4."
+        },
+        {
+          "question": "Khi sao tốt ở cung gốc + sao xấu ở đối xung — đọc như nào?",
+          "answer": "Đây là tình huống **'trong tốt - ngoài khó'**. Người này tự thân tốt, có khả năng — nhưng môi trường/xã hội nhìn họ không công bằng, dễ bị hiểu sai. Cần đọc kết hợp: làm sao 'điểm tốt bên trong' bù được 'khó khăn bên ngoài'."
+        }
+      ]
+    },
+    {
+      "id": "tam-phuong-tu-chinh",
+      "slug": "tam-phuong-tu-chinh",
+      "title": "Tam phương tứ chính — Đọc tương quan giữa các cung",
+      "module": "C",
+      "order": 4,
+      "duration_minutes": 16,
+      "story_hook": "Một cung **không tồn tại đơn lẻ**. Khi đọc cung Mệnh, ta nhìn cả **3 cung tam phương** (cách 4 ô — gọi là tam hợp) và **1 cung đối xung**. Tổng **4 cung = tứ chính** — bộ khung để đọc một chủ đề.",
+      "key_metaphor": "Như một bàn cờ vây — mỗi quân không đứng một mình mà phải xem cả các quân xung quanh. Đọc Mệnh không chỉ xem Mệnh — phải xem cả **Tài Bạch, Quan Lộc** (tam hợp) và **Thiên Di** (đối xung).",
+      "content": {
+        "sections": [
+          {
+            "title": "Tam phương là gì?",
+            "body": "**Tam phương** = 3 cung **cách nhau 4 ô** trên vòng địa chi, tạo thành **tam giác đều** ngầm. Trên bàn 12 cung, mỗi cung có **2 cung tam phương** cùng nó tạo nhóm 3.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tam phương** của một cung X = 2 cung cách X **4 ô** (cùng chiều và ngược chiều). Cộng X thành **3 cung 'tam hợp'**."
+              },
+              {
+                "type": "definition",
+                "text": "**Tam phương quan trọng nhất:** **Mệnh, Tài Bạch, Quan Lộc** — gọi là 'tam hợp tài-quan-mệnh', tạo nên **trục thành công** của đời người."
+              },
+              {
+                "type": "application",
+                "text": "Sao tại Tài và Quan **chiếu vào Mệnh** (theo tam hợp) — ảnh hưởng tính cách lẫn vận hội."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "4 nhóm tam hợp trên bàn lá số",
+            "body": "12 cung chia thành **4 nhóm tam hợp**, mỗi nhóm 3 cung. Đây là cấu trúc nền của lá số.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Nhóm 1 (Tài lộc):** Mệnh - Tài Bạch - Quan Lộc"
+              },
+              {
+                "type": "definition",
+                "text": "**Nhóm 2 (Gia đình):** Phụ Mẫu - Phúc Đức - Điền Trạch"
+              },
+              {
+                "type": "definition",
+                "text": "**Nhóm 3 (Quan hệ):** Phu Thê - Tật Ách - Huynh Đệ"
+              },
+              {
+                "type": "definition",
+                "text": "**Nhóm 4 (Đối ngoại):** Thiên Di - Nô Bộc - Tử Tức"
+              },
+              {
+                "type": "note",
+                "text": "**Trí nhớ nhanh:** mỗi nhóm 3 cung **luôn có cùng địa chi cùng tam hợp** (vd Mệnh-Tài-Quan ở 3 chi cách nhau 4 ô)."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "4 nhóm tam hợp — bộ 3 cung cùng chiếu cho nhau",
+              "data": {
+                "headers": ["Nhóm", "3 cung", "Chủ đề chung"],
+                "rows": [
+                  ["1", "Mệnh - Tài Bạch - Quan Lộc", "Thành công cá nhân: tài-quan"],
+                  ["2", "Phụ Mẫu - Phúc Đức - Điền Trạch", "Gia sản & phúc khí truyền lại"],
+                  ["3", "Phu Thê - Tật Ách - Huynh Đệ", "Quan hệ huyết thống & gắn bó"],
+                  ["4", "Thiên Di - Nô Bộc - Tử Tức", "Quan hệ ngoài huyết thống"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Tứ chính = Tam phương + Đối xung",
+            "body": "**Tứ chính** = bộ **4 cung quan trọng** khi đọc một chủ đề. Cụ thể: cung X + 2 cung tam phương của X + 1 cung đối xung của X.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Đọc Mệnh = đọc **Tứ chính của Mệnh**: Mệnh + Tài Bạch + Quan Lộc + Thiên Di."
+              },
+              {
+                "type": "application",
+                "text": "Đọc Phu Thê = đọc **Phu Thê + Tật Ách + Huynh Đệ + Quan Lộc** (đối xung)."
+              },
+              {
+                "type": "note",
+                "text": "**Quy tắc vàng:** sao tại tứ chính **đều có ảnh hưởng** lên cung gốc. Không bao giờ đọc một cung mà bỏ tứ chính."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Ví dụ thực hành — Đọc tứ chính Mệnh",
+            "body": "Giả sử lá số có: Mệnh có Tử Vi (lãnh đạo), Tài Bạch có Vũ Khúc (tiền tài bền), Quan Lộc có Thiên Cơ (trí), Thiên Di có Phá Quân (biến động). Đọc kết hợp như thế nào?",
+            "chunks": [
+              {
+                "type": "example",
+                "text": "**Mệnh + Tài** (Tử Vi + Vũ Khúc) → lãnh đạo có nền tài chính vững."
+              },
+              {
+                "type": "example",
+                "text": "**Mệnh + Quan** (Tử Vi + Thiên Cơ) → lãnh đạo có trí, không liều mạng."
+              },
+              {
+                "type": "example",
+                "text": "**Mệnh + Thiên Di** (Tử Vi + Phá Quân) → lãnh đạo trong môi trường nhiều biến động → có thể là khởi nghiệp, lĩnh vực mới."
+              },
+              {
+                "type": "note",
+                "text": "Đọc 4 cung kết hợp → **bức tranh đầy đủ** thay vì chỉ một mảnh. Đây là cách đọc 'chuyên nghiệp'."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "**Tam phương** của cung Mệnh gồm cung Mệnh + 2 cung nào?",
+          "options": [
+            "Phụ Mẫu - Huynh Đệ",
+            "Tài Bạch - Quan Lộc",
+            "Phu Thê - Tử Tức",
+            "Thiên Di - Phúc Đức"
+          ],
+          "answer": 1,
+          "explanation": "**Mệnh - Tài Bạch - Quan Lộc** = nhóm tam hợp số 1, trục **tài-quan-mệnh**. Đây là nhóm quan trọng nhất, đo lường **'thành công cá nhân'** của một người. Sao tại Tài và Quan đều chiếu sang Mệnh."
+        },
+        {
+          "question": "**Tứ chính** của một cung gồm những gì?",
+          "options": [
+            "4 cung kế nhau",
+            "Cung gốc + 2 cung tam phương + 1 cung đối xung",
+            "4 cung góc bàn lá số",
+            "Cung Mệnh + 3 cung gần Mệnh"
+          ],
+          "answer": 1,
+          "explanation": "**Tứ chính** = bộ 4 cung quan trọng khi đọc một chủ đề: **cung gốc + 2 cung tam phương + 1 cung đối xung**. Ví dụ tứ chính của Mệnh = Mệnh + Tài Bạch + Quan Lộc + Thiên Di."
+        },
+        {
+          "question": "Tại sao đọc một cung mà bỏ qua tam phương và đối xung là sai?",
+          "options": [
+            "Vì sao tại các cung trong tứ chính **chiếu sang cung gốc**, ảnh hưởng kết quả",
+            "Vì chỉ có cung gốc là quan trọng",
+            "Vì tam phương luôn xấu hơn cung gốc",
+            "Vì đối xung không có thật"
+          ],
+          "answer": 0,
+          "explanation": "Sao tại **tam phương + đối xung** đều **chiếu** vào cung gốc — đây là quy tắc nền tảng. Đọc cung Mệnh mà chỉ thấy sao tại Mệnh → mất nửa thông tin. Phải đọc cả 4 cung trong tứ chính để có bức tranh đầy đủ."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Sao 'chiếu' và sao 'tọa' khác nhau thế nào?",
+          "answer": "**Sao tọa** = sao **đứng ngay** tại cung — ảnh hưởng trực tiếp, mạnh nhất. **Sao chiếu** = sao **tại cung tam phương/đối xung** ảnh hưởng gián tiếp sang cung gốc — yếu hơn nhưng vẫn quan trọng. Khi đọc, sao tọa quyết định 80%, sao chiếu quyết định 20%."
+        },
+        {
+          "question": "Có cách nào nhớ nhanh các tam phương không?",
+          "answer": "Có. Để nhớ tam phương, bạn chỉ cần nhớ **4 nhóm chi đầu**: Tý-Thìn-Thân (Thủy cục), Sửu-Tỵ-Dậu (Kim cục), Dần-Ngọ-Tuất (Hỏa cục), Mão-Mùi-Hợi (Mộc cục). Mỗi nhóm 3 chi = một tam hợp địa chi → các cung trên 3 chi đó = một tam hợp cung."
+        },
+        {
+          "question": "Đọc tứ chính có khó cho người mới không?",
+          "answer": "Khó lúc đầu, dễ về sau. Mới học → tập đọc **từng cung một** + cung đối xung trước. Quen rồi → mở rộng ra tam phương. **Quy tắc thực tế:** mỗi lần đọc một chủ đề (vd 'sự nghiệp'), tự hỏi 'tứ chính của Quan Lộc là gì?' — viết ra → đọc đủ 4 cung."
+        }
+      ]
+    },
+    {
+      "id": "14-chinh-tinh-tong-quan",
+      "slug": "14-chinh-tinh-tong-quan",
+      "title": "14 chính tinh — Giới thiệu nhân vật chính trên lá số",
+      "module": "C",
+      "order": 5,
+      "duration_minutes": 19,
+      "story_hook": "Nếu 12 cung là 12 sân khấu, thì **14 chính tinh** là 14 **nhân vật chính** đứng trên các sân khấu đó. Tùy nhân vật nào ở đâu mà câu chuyện đời bạn sẽ khác hẳn. Bài này giới thiệu 14 nhân vật — chi tiết từng sao sẽ học ở Giai đoạn 4.",
+      "key_metaphor": "Như đoàn kịch 14 diễn viên — mỗi người có tính cách riêng. Một số là **chủ tướng** (Tử Vi, Thiên Phủ), một số là **mưu sĩ** (Thiên Cơ, Cự Môn), một số là **chiến tướng** (Thất Sát, Phá Quân). Lá số bạn = đoàn kịch nào được mời lên sân khấu Mệnh.",
+      "content": {
+        "sections": [
+          {
+            "title": "14 chính tinh là gì?",
+            "body": "**Chính tinh** = sao **chính** trên lá số, mang ý nghĩa cốt lõi nhất. Trên một lá số luôn có **14 chính tinh** an vào 12 cung (có cung có 2 sao, có cung không có).",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**14 chính tinh** chia làm 2 chòm: **chòm Tử Vi** (6 sao) và **chòm Thiên Phủ** (8 sao)."
+              },
+              {
+                "type": "definition",
+                "text": "Cách an: vị trí sao **Tử Vi** được tính từ ngày sinh + tháng sinh + cục số. Một khi Tử Vi vào cung nào, các sao còn lại đều an theo quy tắc cố định."
+              },
+              {
+                "type": "note",
+                "text": "Ngoài 14 chính tinh còn nhiều **phụ tinh** (sao phụ trợ) — sẽ học ở Giai đoạn 4. Hiện chỉ tập trung 14 chính tinh."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Chòm Tử Vi — 6 sao 'lãnh đạo'",
+            "body": "**Chòm Tử Vi** gồm 6 sao thuộc tính 'Bắc Đẩu' — chủ về **lãnh đạo, quản lý, sự ổn định**. Tử Vi là 'đế tinh' đứng đầu chòm.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tử Vi** (Thổ) — Đế tinh. Chủ tướng, ổn định, vương đạo. 'Người sinh ra để dẫn dắt'."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiên Cơ** (Mộc) — Mưu sĩ. Trí tuệ, biến hóa, nhanh nhẹn. 'Người sống bằng đầu óc'."
+              },
+              {
+                "type": "definition",
+                "text": "**Thái Dương** (Hỏa) — Mặt trời. Quang minh, ngay thẳng, hướng ngoại. 'Người tỏa sáng'."
+              },
+              {
+                "type": "definition",
+                "text": "**Vũ Khúc** (Kim) — Tài tinh. Cứng rắn, kỷ luật, giỏi tài chính. 'Người làm ra tiền'."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiên Đồng** (Thủy) — Phúc tinh. Hiền hòa, dễ chịu, hưởng phúc. 'Người có phúc khí'."
+              },
+              {
+                "type": "definition",
+                "text": "**Liêm Trinh** (Hỏa) — Tù tinh. Khắc kỷ, đam mê, có thể cực đoan. 'Người có nguyên tắc gắt'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Chòm Thiên Phủ — 8 sao 'hành động'",
+            "body": "**Chòm Thiên Phủ** gồm 8 sao thuộc tính 'Nam Đẩu' — chủ về **hành động, tài năng cụ thể, sự biến động**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Thiên Phủ** (Thổ) — Tài tinh số 2. Người 'kho báu', tích trữ, ổn định, có gia sản."
+              },
+              {
+                "type": "definition",
+                "text": "**Thái Âm** (Thủy) — Mặt trăng. Kín đáo, dịu dàng, giỏi tích lũy. 'Người tiền tài ẩn'."
+              },
+              {
+                "type": "definition",
+                "text": "**Tham Lang** (Mộc/Thủy) — Đào hoa tinh. Đa năng, mê đắm, dễ thay đổi. 'Người có nhiều tài nhiều thú'."
+              },
+              {
+                "type": "definition",
+                "text": "**Cự Môn** (Thủy) — Khẩu tinh. Giỏi nói, hay tranh luận, có thể thị phi. 'Người sống bằng lời'."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiên Tướng** (Thủy) — Ấn tinh. Trung thực, công bằng, làm chỗ dựa. 'Người tin được'."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiên Lương** (Thổ) — Phụ tinh. Già dặn, có lòng từ, hay giúp đỡ. 'Người trưởng thành'."
+              },
+              {
+                "type": "definition",
+                "text": "**Thất Sát** (Kim) — Tướng tinh. Quyết liệt, khắc nghiệt, có sức chiến đấu. 'Người có khí phách tướng'."
+              },
+              {
+                "type": "definition",
+                "text": "**Phá Quân** (Thủy) — Đột phá. Phá cũ-xây mới, đột biến, sáng tạo. 'Người khởi nghiệp'."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "14 chính tinh — tổng kết hai chòm",
+              "data": {
+                "headers": ["Chòm", "Sao", "Hành", "Vai trò"],
+                "rows": [
+                  ["Tử Vi", "Tử Vi", "Thổ", "Đế tinh - lãnh đạo"],
+                  ["Tử Vi", "Thiên Cơ", "Mộc", "Mưu sĩ - trí tuệ"],
+                  ["Tử Vi", "Thái Dương", "Hỏa", "Quang minh - hướng ngoại"],
+                  ["Tử Vi", "Vũ Khúc", "Kim", "Tài tinh - kỷ luật"],
+                  ["Tử Vi", "Thiên Đồng", "Thủy", "Phúc tinh - hiền hòa"],
+                  ["Tử Vi", "Liêm Trinh", "Hỏa", "Tù tinh - nguyên tắc"],
+                  ["Thiên Phủ", "Thiên Phủ", "Thổ", "Tài tinh 2 - tích trữ"],
+                  ["Thiên Phủ", "Thái Âm", "Thủy", "Mặt trăng - kín đáo"],
+                  ["Thiên Phủ", "Tham Lang", "Mộc", "Đào hoa - đa năng"],
+                  ["Thiên Phủ", "Cự Môn", "Thủy", "Khẩu tinh - giỏi nói"],
+                  ["Thiên Phủ", "Thiên Tướng", "Thủy", "Ấn tinh - trung thực"],
+                  ["Thiên Phủ", "Thiên Lương", "Thổ", "Phụ tinh - từ tâm"],
+                  ["Thiên Phủ", "Thất Sát", "Kim", "Tướng tinh - quyết liệt"],
+                  ["Thiên Phủ", "Phá Quân", "Thủy", "Đột phá - sáng tạo"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Vai trò chính tinh: định 'khung tính cách'",
+            "body": "Chính tinh tại **Mệnh** quyết định **'kiểu người'** bạn là. Hai người cùng năm sinh nhưng chính tinh Mệnh khác → tính cách khác hẳn.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Mệnh có Tử Vi** → thiên hướng lãnh đạo, làm sếp, có phong thái."
+              },
+              {
+                "type": "application",
+                "text": "**Mệnh có Thiên Cơ** → thiên hướng trí thức, làm việc bằng đầu óc, giỏi phân tích."
+              },
+              {
+                "type": "application",
+                "text": "**Mệnh có Thất Sát** → thiên hướng chiến binh, quyết đoán, sự nghiệp gắn với cạnh tranh."
+              },
+              {
+                "type": "note",
+                "text": "Một lá số có thể có **2 chính tinh ở Mệnh** (đồng cung) — tạo 'tính cách kép'. Sẽ học ở Giai đoạn 4."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Có **bao nhiêu** chính tinh trong Tử Vi Đẩu Số?",
+          "options": ["10", "12", "14", "60"],
+          "answer": 2,
+          "explanation": "**14 chính tinh**, chia thành 2 chòm: **Tử Vi** (6 sao: Tử Vi, Thiên Cơ, Thái Dương, Vũ Khúc, Thiên Đồng, Liêm Trinh) và **Thiên Phủ** (8 sao: Thiên Phủ, Thái Âm, Tham Lang, Cự Môn, Thiên Tướng, Thiên Lương, Thất Sát, Phá Quân)."
+        },
+        {
+          "question": "Sao nào là **'đế tinh'** đứng đầu chòm Tử Vi?",
+          "options": ["Thiên Cơ", "Tử Vi", "Vũ Khúc", "Thiên Phủ"],
+          "answer": 1,
+          "explanation": "**Tử Vi** là 'đế tinh' — sao chủ tướng, thuộc Thổ, đứng đầu chòm Tử Vi. Người Mệnh Tử Vi thường có phong thái lãnh đạo, vương đạo. Thiên Phủ cũng là 'đế' nhưng của chòm khác (chòm Thiên Phủ)."
+        },
+        {
+          "question": "Người Mệnh **Thất Sát** có khả năng nổi bật ở lĩnh vực nào?",
+          "options": [
+            "Nghệ thuật trừu tượng",
+            "Cạnh tranh, lãnh đạo trong môi trường khắc nghiệt",
+            "Giáo dục trẻ em",
+            "Nghiên cứu hàn lâm"
+          ],
+          "answer": 1,
+          "explanation": "**Thất Sát** = tướng tinh, hành Kim — quyết liệt, có sức chiến đấu, hợp môi trường **cạnh tranh cao** (kinh doanh, quân sự, thể thao, khởi nghiệp). Nét 'sắc bén' của Kim làm Thất Sát mạnh ở những việc cần ra quyết định nhanh."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Có thể có 0 chính tinh ở một cung không?",
+          "answer": "Có. Cung không có chính tinh gọi là **'cung vô chính diệu'**. Khi đó, cung **mượn** chính tinh từ cung đối xung (tam hợp chiếu) để đọc. Đây là tình huống đặc biệt, cần kỹ thuật cao."
+        },
+        {
+          "question": "Sao chính tinh có thay đổi theo năm không?",
+          "answer": "**Vị trí an** thì cố định cả đời (vì tính từ năm-tháng-giờ sinh). Nhưng **đại vận** (10 năm/vận) sẽ làm các cung di chuyển qua bàn lá số → mỗi vận một bộ sao 'tỏa sáng' khác. Sẽ học ở Giai đoạn 4."
+        },
+        {
+          "question": "Người Mệnh có Tử Vi chắc chắn làm sếp?",
+          "answer": "**KHÔNG đảm bảo**. Tử Vi cho **'tiềm năng lãnh đạo'**, nhưng có biểu hiện thực tế hay không còn phụ thuộc: (1) Tử Vi đắc địa hay hãm địa (hành cung tương ứng), (2) các sao phụ tinh hỗ trợ hay phá, (3) đại vận và nỗ lực cá nhân. Tử Vi xấu = lãnh đạo độc đoán; Tử Vi hãm = không phát huy được."
+        }
+      ]
+    },
+    {
+      "id": "chom-tu-vi-chi-tiet",
+      "slug": "chom-tu-vi-chi-tiet",
+      "title": "Chòm Tử Vi — 6 sao 'lãnh đạo' chi tiết",
+      "module": "C",
+      "order": 6,
+      "duration_minutes": 22,
+      "story_hook": "Bài trước bạn đã gặp 6 'nhân vật chính' của chòm Tử Vi. Giờ là lúc **làm quen kỹ** với từng người — họ có tính cách, sở trường, và cả góc khuất riêng. Hiểu sâu 6 sao này = hiểu phần lớn 'kiểu người lãnh đạo' trong Tử Vi.",
+      "key_metaphor": "Như một triều đình thu nhỏ: **Tử Vi** là hoàng đế, **Thiên Cơ** là tể tướng mưu lược, **Thái Dương** là vua sáng tỏ, **Vũ Khúc** là đại tướng nắm tiền lương, **Thiên Đồng** là vương gia hưởng phúc, **Liêm Trinh** là quan ngự sử giữ pháp luật.",
+      "content": {
+        "sections": [
+          {
+            "title": "Tử Vi — Đế tinh (帝星)",
+            "body": "**Tử Vi** thuộc **Thổ Âm**, là sao chủ tướng tối cao. Người Mệnh Tử Vi có **phong thái vương giả** — không cần cố gắng vẫn có khí chất 'người đứng đầu'.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** ổn định, có nguyên tắc, biết cân nhắc, đôi khi tự tôn quá. Khó hạ mình."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** lãnh đạo doanh nghiệp, quản lý cấp cao, chính trị, ngoại giao, lĩnh vực 'mặt tiền'."
+              },
+              {
+                "type": "application",
+                "text": "**Vị trí đắc địa:** Ngọ (Hỏa sinh Thổ) — Tử Vi mạnh nhất. Thân, Dậu (Kim — Tử Vi sinh) — vẫn tốt."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** dễ cô đơn ở vị trí cao; cần Tả Phụ - Hữu Bật (phụ tinh) trợ giúp mới phát huy hết."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Cơ — Mưu sĩ (天機)",
+            "body": "**Thiên Cơ** thuộc **Mộc Âm**, sao của **trí tuệ và biến hóa**. Người Mệnh Thiên Cơ sống bằng đầu óc — phản xạ nhanh, thích nghĩ.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** thông minh, nhanh nhạy, hay nghĩ ngợi, khéo léo, đôi khi do dự."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** kỹ sư, lập trình, nghiên cứu, tư vấn, phân tích, môi giới — mọi việc cần **tính toán**."
+              },
+              {
+                "type": "application",
+                "text": "**Vị trí đắc địa:** Thìn, Tuất (Thổ — Mộc khắc, nhưng tạo va chạm nuôi trí). Cung Mão, Tý (Mộc + Thủy) cũng tốt."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** dễ thay đổi ý kiến, lo nghĩ nhiều, mất ngủ. Khi gặp Hỏa - Linh thì biến thành 'mưu mô'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thái Dương — Mặt trời (太陽)",
+            "body": "**Thái Dương** thuộc **Hỏa Dương**, là **mặt trời** chiếu sáng vạn vật. Người Mệnh Thái Dương **hướng ngoại**, quang minh, nhiệt huyết.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** hào sảng, ngay thẳng, năng động, thích giao thiệp, không thích vòng vo."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** truyền thông, giảng dạy, sale, chính trị, lĩnh vực 'lên ánh sáng', hoạt động xã hội."
+              },
+              {
+                "type": "application",
+                "text": "**Vị trí đắc địa:** Tỵ, Ngọ (Hỏa) — mặt trời lên cao. Dần, Mão (Mộc sinh Hỏa) — sáng dần."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** dễ nóng nảy, làm quá sức, không giữ bí mật. Vị trí **hãm địa** (Tý, Hợi — Thủy khắc) = 'mặt trời lặn' → mờ nhạt."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Vũ Khúc — Tướng tài (武曲)",
+            "body": "**Vũ Khúc** thuộc **Kim Âm**, là **tướng quân nắm tiền lương**. Người Mệnh Vũ Khúc **cương trực**, có kỷ luật sắt, giỏi tài chính.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** quả quyết, kỷ luật, thực tế, nói ít làm nhiều, đôi khi cứng nhắc."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** tài chính, ngân hàng, kế toán, kỹ thuật cơ khí, quân đội — mọi việc đòi 'chính xác'."
+              },
+              {
+                "type": "application",
+                "text": "**Vị trí đắc địa:** Sửu, Mùi (Thổ sinh Kim) — Vũ Khúc 'có kho'. Thân, Dậu (Kim) — Vũ Khúc 'có vũ khí'."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** dễ cô độc, khó gần gũi, không biểu cảm. Vũ Khúc + Hỏa = sao cương khắc → dễ va chạm."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Đồng — Phúc tinh (天同)",
+            "body": "**Thiên Đồng** thuộc **Thủy Dương**, là **sao của hạnh phúc và hưởng thụ**. Người Mệnh Thiên Đồng **hiền hòa**, dễ chịu, được phúc khí.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** ôn hòa, lạc quan, dễ tha thứ, thích an nhàn, hơi thiếu chí tiến thủ."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** dịch vụ, du lịch, F&B, công tác xã hội, giáo dục mầm non, công việc nhẹ nhàng."
+              },
+              {
+                "type": "application",
+                "text": "**Vị trí đắc địa:** Tý, Hợi (Thủy) — Thiên Đồng 'về quê'. Tỵ, Ngọ (Hỏa khắc Thủy) — vẫn tốt vì tạo cân bằng."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** dễ lười, an phận, không chịu khổ. Cần Thất Sát hoặc Hỏa-Linh kích hoạt mới phấn đấu."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Liêm Trinh — Tù tinh (廉貞)",
+            "body": "**Liêm Trinh** thuộc **Hỏa Âm**, là **sao của khắc kỷ và đam mê cực đoan**. Người Mệnh Liêm Trinh **có nguyên tắc gắt** — yêu hết mình, ghét cũng hết mình.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** quyết liệt, có nguyên tắc cao, đam mê, đôi khi cố chấp đến mức cực đoan."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** luật, an ninh, kiểm toán, lĩnh vực cần 'thanh liêm', cũng hợp nghệ thuật biểu diễn."
+              },
+              {
+                "type": "application",
+                "text": "**Vị trí đắc địa:** Dần, Thân (Mộc, Kim — đối tương sinh-khắc Hỏa, tạo cân bằng). Hãm tại Tỵ, Hợi (Hỏa cực thịnh hoặc cực âm)."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** dễ vướng pháp luật, đào hoa quá mức, khắc khẩu. 'Liêm Trinh' tốt → người chính nghĩa; xấu → người cố chấp."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Tổng kết 6 sao chòm Tử Vi — bảng tra nhanh",
+              "data": {
+                "headers": ["Sao", "Hành", "Vai trò", "Nghề hợp", "Yếu điểm"],
+                "rows": [
+                  ["Tử Vi", "Thổ Âm", "Đế tinh - lãnh đạo", "Quản lý cấp cao", "Cô độc đỉnh cao"],
+                  ["Thiên Cơ", "Mộc Âm", "Mưu sĩ - trí", "Kỹ thuật, phân tích", "Hay do dự"],
+                  ["Thái Dương", "Hỏa Dương", "Mặt trời - quang", "Truyền thông, sale", "Nóng nảy"],
+                  ["Vũ Khúc", "Kim Âm", "Tướng tài", "Tài chính, kỹ thuật", "Cứng nhắc"],
+                  ["Thiên Đồng", "Thủy Dương", "Phúc tinh", "Dịch vụ, an nhàn", "Dễ lười"],
+                  ["Liêm Trinh", "Hỏa Âm", "Tù tinh - kỷ luật", "Luật, an ninh", "Cực đoan"]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Sao nào sau đây là **đế tinh** của chòm Tử Vi?",
+          "options": ["Thiên Cơ", "Vũ Khúc", "Tử Vi", "Thiên Đồng"],
+          "answer": 2,
+          "explanation": "**Tử Vi** là 'đế tinh' — sao chủ tướng tối cao, đứng đầu chòm. Thuộc Thổ Âm. Người Mệnh Tử Vi có phong thái 'người đứng đầu' bẩm sinh. Các sao còn lại là 'tướng' phục vụ — vai trò khác."
+        },
+        {
+          "question": "Người mệnh **Vũ Khúc** thường hợp nghề nào nhất?",
+          "options": [
+            "Nghệ thuật trừu tượng",
+            "Tài chính, ngân hàng, kỹ thuật",
+            "Truyền thông giải trí",
+            "Giáo dục mầm non"
+          ],
+          "answer": 1,
+          "explanation": "**Vũ Khúc** = Kim Âm, tướng tài — cương trực, kỷ luật, giỏi tài chính. Các nghề đòi 'chính xác và tuân thủ quy tắc' như tài chính, kỹ thuật, kế toán, quân đội rất hợp. Nghệ thuật trừu tượng cần 'mềm' — không phải sở trường Vũ Khúc."
+        },
+        {
+          "question": "Sao nào có thiên hướng 'dễ lười, an phận, thích hưởng thụ'?",
+          "options": ["Thái Dương", "Thiên Đồng", "Liêm Trinh", "Tử Vi"],
+          "answer": 1,
+          "explanation": "**Thiên Đồng** = Thủy Dương, phúc tinh — hiền hòa, dễ chịu, ưa an nhàn. Đây là 'sao của hạnh phúc' nhưng cũng là điểm yếu khi cần phấn đấu. Cần Thất Sát hoặc Hỏa-Linh kích hoạt để có động lực vươn lên."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tử Vi với Thiên Phủ — sao nào 'cao' hơn?",
+          "answer": "Đều là **đế tinh** của 2 chòm — không phải 'cao' hay 'thấp'. **Tử Vi** thiên về 'vương đạo' (lãnh đạo bằng đức), **Thiên Phủ** thiên về 'tài đạo' (lãnh đạo bằng tài). Hai sao đối xứng nhau qua **trục Dần-Thân** của bàn lá số — đồng cung khi Tử Vi rơi tại Dần hoặc Thân → 'song đế hội' rất quý."
+        },
+        {
+          "question": "Tôi mệnh Thái Dương ở cung Tý (Thủy) thì sao?",
+          "answer": "Đây là **Thái Dương hãm địa** — 'mặt trời lặn'. Quang minh giảm — tính cách vẫn ngay thẳng nhưng **khó tỏa sáng** ở môi trường lớn. Phù hợp công việc 'âm thầm' hơn là 'mặt tiền'. Có thể được Thái Âm chiếu (đối xung Ngọ) để bổ trợ."
+        },
+        {
+          "question": "Liêm Trinh xấu hay tốt?",
+          "answer": "**Tùy vị trí và phối hợp**. Liêm Trinh đắc địa (Dần, Thân) + có sao tốt = người chính nghĩa, có khả năng. Liêm Trinh hãm + Tham Lang đào hoa = dễ vướng pháp luật, đào hoa quá mức. Liêm Trinh là sao 'lưỡng cực' nhất chòm Tử Vi."
+        },
+        {
+          "question": "Tử Vi 'cô đơn' nghĩa là gì?",
+          "answer": "Tử Vi là đế tinh — ở cao thì xung quanh không ai bằng → **cô độc**. Vì vậy Tử Vi cần **Tả Phụ - Hữu Bật** (hai sao 'tả hữu') trợ giúp. Tử Vi đơn độc (không có Tả-Hữu) → 'cô quân vô tướng' — khó phát huy. Tử Vi có Tả-Hữu → 'có triều thần' — đại quý."
+        }
+      ]
+    },
+    {
+      "id": "chom-thien-phu-chi-tiet",
+      "slug": "chom-thien-phu-chi-tiet",
+      "title": "Chòm Thiên Phủ — 8 sao 'hành động' chi tiết",
+      "module": "C",
+      "order": 7,
+      "duration_minutes": 25,
+      "story_hook": "Bên cạnh chòm Tử Vi (6 sao 'lãnh đạo'), Tử Vi còn có **chòm Thiên Phủ** với 8 sao — đông hơn, đa dạng hơn, thiên về **hành động cụ thể**. Đây là các 'tướng tài' đa tài đa nghệ, kéo dài từ 'tích trữ' (Thiên Phủ) đến 'phá cũ' (Phá Quân).",
+      "key_metaphor": "Nếu chòm Tử Vi là 'triều đình', thì chòm Thiên Phủ là 'bộ máy thực thi': **Thiên Phủ** là quan kho, **Thái Âm** là nữ chủ, **Tham Lang** là người đa thú, **Cự Môn** là quan ngôn luận, **Thiên Tướng** là ấn quan, **Thiên Lương** là sĩ phu, **Thất Sát** là tướng chiến, **Phá Quân** là tướng phá thành.",
+      "content": {
+        "sections": [
+          {
+            "title": "Thiên Phủ — Tài tinh tích trữ (天府)",
+            "body": "**Thiên Phủ** thuộc **Thổ Dương**, là **'kho báu'** của bàn lá số. Người Mệnh Thiên Phủ **ổn định, có gia sản**, biết giữ và tích lũy.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** trung hậu, biết tính toán, thích an toàn, đôi khi bảo thủ. 'Nhân hậu mà có tâm địa'."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** tài chính, bất động sản, kinh doanh truyền thống, ngân hàng — mọi việc 'tích lũy lâu dài'."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** ngại thay đổi, dễ sa vào 'tích tài' mà quên thực sự dùng. Là 'kho' nên cần Lộc Tồn để 'mở kho'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thái Âm — Mặt trăng (太陰)",
+            "body": "**Thái Âm** thuộc **Thủy Âm**, là **'mặt trăng'** dịu dàng. Đối ngẫu với Thái Dương. Người Mệnh Thái Âm **kín đáo, sâu sắc**, giỏi tích lũy ngầm.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** hiền lành, tinh tế, hay nghĩ ngợi, giỏi quan sát, có thẩm mỹ."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** nghệ thuật, văn học, thiết kế, y tế, công việc 'làm cho phụ nữ', tài chính cá nhân."
+              },
+              {
+                "type": "note",
+                "text": "**Vị trí đắc địa:** Hợi, Tý (Thủy) — 'mặt trăng đầy'. Hãm tại Tỵ, Ngọ (Hỏa khắc Thủy) — 'mặt trăng mờ'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tham Lang — Đào hoa, đa năng (貪狼)",
+            "body": "**Tham Lang** thuộc **Mộc/Thủy** (sao 2 hành), là sao **'đào hoa'** và **'đa tài'**. Người Mệnh Tham Lang **giỏi nhiều thứ**, mê đắm, dễ thay đổi.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** đa năng, mê đắm, thích cái mới, giao thiệp giỏi, đôi khi tham lam."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** giải trí, marketing, bán hàng, sáng tạo nội dung, mọi việc cần 'duyên' và linh hoạt."
+              },
+              {
+                "type": "note",
+                "text": "**Tham Lang + Hỏa/Linh** = 'đào hoa kích hỏa' — đam mê cực đoan, dễ vướng tình ái. Tham Lang + Lộc Tồn → tài lộc dồi dào."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Cự Môn — Khẩu tinh (巨門)",
+            "body": "**Cự Môn** thuộc **Thủy Âm**, là **'cánh cửa lớn' của lời nói**. Người Mệnh Cự Môn **giỏi ngôn từ** — có thể là diễn giả, cũng có thể là người 'thị phi'.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** hay nói, lý luận chặt, thích phân tích, đôi khi đa nghi. Có thể là 'người cãi giỏi'."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** luật sư, diễn giả, MC, giảng viên, nhà báo, tư vấn — mọi việc cần **dùng miệng**."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** dễ thị phi, nói nhiều mất lòng. Cự Môn + Hỏa-Linh = 'khẩu thị tâm phi' — dễ tranh chấp pháp luật."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Tướng — Ấn tinh (天相)",
+            "body": "**Thiên Tướng** thuộc **Thủy Dương**, là **'ấn quan'** — sao của sự trung thực và đáng tin. Người Mệnh Thiên Tướng **làm chỗ dựa** cho người khác.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** công bằng, đáng tin, có trách nhiệm, lịch sự, biết quan tâm người khác."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** quản lý nhân sự, ngoại giao, dịch vụ cao cấp, hành chính, lĩnh vực cần 'chữ tín'."
+              },
+              {
+                "type": "note",
+                "text": "**Thiên Tướng đứng cạnh Tử Vi hoặc Liêm Trinh** = 'ấn quan trợ lý' rất mạnh. Tự đứng một mình thì hơi 'thiếu chủ kiến'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Lương — Phụ tinh (天梁)",
+            "body": "**Thiên Lương** thuộc **Thổ Dương**, là **'sĩ phu già'** có lòng từ. Người Mệnh Thiên Lương **trưởng thành sớm**, hay giúp đỡ, có tâm thiện.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** già dặn, có lòng từ, thích che chở, đôi khi gia trưởng, dạy đời."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** y tế, giáo dục, tư vấn tâm lý, công tác xã hội, lĩnh vực 'cứu người'."
+              },
+              {
+                "type": "note",
+                "text": "**Thiên Lương + Thiên Đồng** = 'song lương' — cuộc đời nhiều phúc đức nhưng ít 'sóng to'. Hợp người thích bình yên."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thất Sát — Tướng tinh (七殺)",
+            "body": "**Thất Sát** thuộc **Kim Âm**, là **'đại tướng'** sắc bén. Người Mệnh Thất Sát **quyết liệt**, có khí phách, không sợ thử thách.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** cứng cỏi, quyết đoán, không thích vòng vo, độc lập, có thể nóng tính."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** quân sự, an ninh, khởi nghiệp, thể thao, kinh doanh cạnh tranh — mọi việc cần 'chiến đấu'."
+              },
+              {
+                "type": "note",
+                "text": "**Thất Sát + Phá Quân + Tham Lang** = 'sát phá tham' tam tinh — 'tướng đại sự' nhưng cũng 'tướng đại biến'. Đời người nhiều thăng trầm."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Phá Quân — Đột phá (破軍)",
+            "body": "**Phá Quân** thuộc **Thủy Âm**, là **'tướng phá thành'** — sao của sự đột phá và đổi mới. Người Mệnh Phá Quân **không sợ phá cũ**, thích xây mới.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tính cách:** quyết liệt, sáng tạo, không tuân quy ước, có thể nổi loạn, đam mê thay đổi."
+              },
+              {
+                "type": "application",
+                "text": "**Nghề hợp:** khởi nghiệp công nghệ, R&D, nghệ thuật tiên phong, lĩnh vực 'phá cách'."
+              },
+              {
+                "type": "note",
+                "text": "**Yếu điểm:** đời nhiều biến động — phá rồi xây, xây rồi phá. Cần 'thái âm + thiên đồng' bổ trợ để ổn định."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Tổng kết 8 sao chòm Thiên Phủ — bảng tra nhanh",
+              "data": {
+                "headers": ["Sao", "Hành", "Vai trò", "Nghề hợp", "Yếu điểm"],
+                "rows": [
+                  ["Thiên Phủ", "Thổ Dương", "Tài tinh - kho", "Tài chính, BĐS", "Bảo thủ"],
+                  ["Thái Âm", "Thủy Âm", "Mặt trăng - kín", "Nghệ thuật, y tế", "Hay nghĩ ngợi"],
+                  ["Tham Lang", "Mộc/Thủy", "Đào hoa - đa năng", "Marketing, sáng tạo", "Mê đắm"],
+                  ["Cự Môn", "Thủy Âm", "Khẩu tinh - lời", "Luật, MC, tư vấn", "Thị phi"],
+                  ["Thiên Tướng", "Thủy Dương", "Ấn tinh - tin", "Nhân sự, ngoại giao", "Thiếu chủ kiến"],
+                  ["Thiên Lương", "Thổ Dương", "Phụ tinh - từ", "Y tế, giáo dục", "Hay dạy đời"],
+                  ["Thất Sát", "Kim Âm", "Tướng tinh - sắc", "Quân, KN, thể thao", "Nóng tính"],
+                  ["Phá Quân", "Thủy Âm", "Đột phá", "Tech, R&D, nghệ thuật", "Đời biến động"]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "**Sát - Phá - Tham** là bộ 3 sao nào trong Tử Vi?",
+          "options": [
+            "Thất Sát, Phá Quân, Tham Lang",
+            "Thái Âm, Phá Quân, Thiên Phủ",
+            "Thất Sát, Tham Lang, Cự Môn",
+            "Phá Quân, Tham Lang, Liêm Trinh"
+          ],
+          "answer": 0,
+          "explanation": "**Thất Sát + Phá Quân + Tham Lang** = bộ 3 'sát phá tham' — luôn tạo thế tam hợp trên lá số (không bao giờ tách rời). Bộ này tạo 'tướng đại sự' nhưng cũng 'tướng đại biến' — đời nhiều thăng trầm. Đây là một trong những bộ sao quan trọng nhất Tử Vi."
+        },
+        {
+          "question": "Sao **Cự Môn** nổi bật ở khả năng nào?",
+          "options": [
+            "Tích lũy tài sản",
+            "Ngôn từ, lý luận, tranh luận",
+            "Lãnh đạo bằng đức",
+            "Đào hoa, giao thiệp"
+          ],
+          "answer": 1,
+          "explanation": "**Cự Môn** = Thủy Âm, 'khẩu tinh' — sao của **lời nói**. Người Mệnh Cự Môn giỏi lý luận, hợp nghề luật, MC, tư vấn, giảng dạy. Mặt trái: dễ thị phi, hay tranh chấp pháp luật khi đồng cung Hỏa-Linh."
+        },
+        {
+          "question": "Người Mệnh **Phá Quân** có đặc điểm gì nổi bật?",
+          "options": [
+            "Thích sự ổn định, ngại thay đổi",
+            "Đam mê đổi mới, không sợ phá cũ để xây mới",
+            "Luôn vâng lời cấp trên",
+            "Chỉ giỏi nghệ thuật trừu tượng"
+          ],
+          "answer": 1,
+          "explanation": "**Phá Quân** = sao đột phá, 'tướng phá thành'. Người Mệnh Phá Quân thích thay đổi, dám phá quy ước cũ để xây cái mới — hợp khởi nghiệp công nghệ, R&D, nghệ thuật tiên phong. Yếu điểm: đời nhiều biến động."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hai chòm Tử Vi và Thiên Phủ có 'kỵ' nhau không?",
+          "answer": "Không kỵ — chúng **bổ trợ** nhau. Chòm Tử Vi thiên 'lãnh đạo bằng đức', chòm Thiên Phủ thiên 'thực thi bằng tài'. Một lá số tốt thường có sự **đan xen** giữa 2 chòm — ví dụ Mệnh có Tử Vi (chòm 1) + Tài có Thiên Phủ (chòm 2) → 'song đế'."
+        },
+        {
+          "question": "Thái Âm có giống Thái Dương đối ngẫu không?",
+          "answer": "Có. **Thái Âm ↔ Thái Dương** là cặp đối ngẫu hoàn hảo: Thủy ↔ Hỏa, Âm ↔ Dương, kín đáo ↔ hướng ngoại, mặt trăng ↔ mặt trời. Trên lá số, hai sao này thường đối xung hoặc tam hợp, ảnh hưởng lẫn nhau."
+        },
+        {
+          "question": "Tôi Mệnh Tham Lang ở cung đào hoa — có sao không?",
+          "answer": "**Cung đào hoa** = Tý, Ngọ, Mão, Dậu. Tham Lang ở cung này → 'đào hoa kép' — rất nổi tiếng về quan hệ, có duyên với người khác giới. Có thể tốt (giao thiệp giỏi) nhưng cũng cần cẩn trọng tình ái. Nếu gặp Hỏa-Linh = 'tham hỏa' → biến đam mê thành 'cuồng nhiệt'."
+        },
+        {
+          "question": "Thiên Tướng và Thiên Phủ có giống nhau không?",
+          "answer": "Cả hai đều 'phụ tá' nhưng khác chức năng. **Thiên Phủ** = quan kho — quản lý tài sản. **Thiên Tướng** = ấn quan — quản lý chữ tín và quy củ. Thường đứng cạnh nhau trên bàn lá số (cung tam hợp). Cùng có thì cuộc đời có cả 'tài' và 'tín' → quý."
+        }
+      ]
+    },
+    {
+      "id": "tu-hoa",
+      "slug": "tu-hoa",
+      "title": "Tứ Hóa — Lộc · Quyền · Khoa · Kỵ",
+      "module": "C",
+      "order": 8,
+      "duration_minutes": 20,
+      "story_hook": "14 chính tinh đã đủ phức tạp. Nhưng Tử Vi còn một lớp **'biến hóa'** nữa: **Tứ Hóa** — 4 sao 'kích hoạt' biến đổi tính chất của chính tinh. Đây là **hệ thống vận hạn** quan trọng nhất, quyết định **năm nào tốt, năm nào xấu**.",
+      "key_metaphor": "Như 4 nút bấm trên bảng điều khiển: **Lộc** = nút 'tăng tài lộc', **Quyền** = nút 'tăng quyền lực', **Khoa** = nút 'tăng danh tiếng', **Kỵ** = nút 'gây trở ngại'. Mỗi năm có 4 sao được 'kích hoạt' — quyết định kịch bản năm đó.",
+      "content": {
+        "sections": [
+          {
+            "title": "Tứ Hóa là gì?",
+            "body": "**Tứ Hóa** = 4 sao **Hóa Lộc, Hóa Quyền, Hóa Khoa, Hóa Kỵ** — chúng không phải sao đứng riêng mà **'đậu' vào các chính tinh**, biến tính chất của sao đó.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Hóa Lộc** (祿): tăng **tài lộc, may mắn, hưởng thụ**. Sao mang Hóa Lộc → cung đó có tài."
+              },
+              {
+                "type": "definition",
+                "text": "**Hóa Quyền** (權): tăng **quyền lực, chủ động, năng lực**. Sao mang Hóa Quyền → cung đó có quyền."
+              },
+              {
+                "type": "definition",
+                "text": "**Hóa Khoa** (科): tăng **danh tiếng, văn vẻ, được giúp đỡ**. Sao mang Hóa Khoa → cung đó có tiếng."
+              },
+              {
+                "type": "definition",
+                "text": "**Hóa Kỵ** (忌): tăng **trở ngại, mất mát, lo lắng**. Sao mang Hóa Kỵ → cung đó có khó."
+              },
+              {
+                "type": "note",
+                "text": "Một cung có thể được nhiều Hóa cùng đậu → tăng cả tốt lẫn xấu. Đọc cần xem tổng thể."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tứ Hóa đậu vào sao nào — phụ thuộc Thiên Can",
+            "body": "**Mỗi Thiên Can** (10 can) có **một bộ Tứ Hóa riêng** — quy định sao nào mang Lộc, Quyền, Khoa, Kỵ.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Can Giáp:** Lộc đậu Liêm Trinh, Quyền đậu Phá Quân, Khoa đậu Vũ Khúc, Kỵ đậu Thái Dương."
+              },
+              {
+                "type": "application",
+                "text": "**Can Ất:** Lộc đậu Thiên Cơ, Quyền đậu Thiên Lương, Khoa đậu Tử Vi, Kỵ đậu Thái Âm."
+              },
+              {
+                "type": "note",
+                "text": "Bảng đầy đủ 10 can ở phần dưới. Đây là **bảng quan trọng** cần thuộc khi đọc lá số."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Bảng Tứ Hóa theo 10 Thiên can — bảng cốt lõi cần ghi nhớ",
+              "data": {
+                "headers": ["Can", "Hóa Lộc", "Hóa Quyền", "Hóa Khoa", "Hóa Kỵ"],
+                "rows": [
+                  ["Giáp", "Liêm Trinh", "Phá Quân", "Vũ Khúc", "Thái Dương"],
+                  ["Ất", "Thiên Cơ", "Thiên Lương", "Tử Vi", "Thái Âm"],
+                  ["Bính", "Thiên Đồng", "Thiên Cơ", "Văn Xương", "Liêm Trinh"],
+                  ["Đinh", "Thái Âm", "Thiên Đồng", "Thiên Cơ", "Cự Môn"],
+                  ["Mậu", "Tham Lang", "Thái Âm", "Hữu Bật", "Thiên Cơ"],
+                  ["Kỷ", "Vũ Khúc", "Tham Lang", "Thiên Lương", "Văn Khúc"],
+                  ["Canh", "Thái Dương", "Vũ Khúc", "Thái Âm", "Thiên Đồng"],
+                  ["Tân", "Cự Môn", "Thái Dương", "Văn Khúc", "Văn Xương"],
+                  ["Nhâm", "Thiên Lương", "Tử Vi", "Tả Phụ", "Vũ Khúc"],
+                  ["Quý", "Phá Quân", "Cự Môn", "Thái Âm", "Tham Lang"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "2 cấp Tứ Hóa: Sinh Hóa và Vận Hóa",
+            "body": "Tứ Hóa có **2 cấp** ảnh hưởng đời người: **Sinh Hóa** (theo can năm sinh — cố định cả đời) và **Vận Hóa** (theo can đại vận / lưu niên — thay đổi mỗi 10 năm hoặc mỗi năm).",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Sinh Hóa:** dùng can năm sinh để xác định 4 Hóa, đậu vào 4 chính tinh tương ứng. **Cố định cả đời**."
+              },
+              {
+                "type": "definition",
+                "text": "**Vận Hóa:** dùng can đại vận hoặc can năm lưu (lưu niên) → 4 Hóa **thay đổi mỗi vận / mỗi năm**."
+              },
+              {
+                "type": "application",
+                "text": "Ví dụ: sinh năm Canh Ngọ (can Canh). Sinh Hóa: Lộc đậu Thái Dương, Quyền đậu Vũ Khúc, Khoa đậu Thái Âm, Kỵ đậu Thiên Đồng. → 4 sao này có 'kích hoạt' suốt đời."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Cách đọc Tứ Hóa thực hành",
+            "body": "Khi xem một cung trên lá số, ngoài chính tinh tọa thủ, **luôn check Tứ Hóa**: cung này có sao nào đang mang Hóa? Hóa gì?",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Cung Tài Bạch có sao Vũ Khúc Hóa Lộc** → tài lộc dồi dào, làm giàu dễ."
+              },
+              {
+                "type": "application",
+                "text": "**Cung Quan Lộc có Phá Quân Hóa Quyền** → có quyền lực, làm lãnh đạo trong môi trường đổi mới."
+              },
+              {
+                "type": "application",
+                "text": "**Cung Phu Thê có Thái Âm Hóa Kỵ** → hôn nhân có khó khăn (mâu thuẫn ngầm, hoặc bạn đời gặp trục trặc)."
+              },
+              {
+                "type": "note",
+                "text": "**Quy tắc vàng:** Hóa Lộc + Hóa Quyền hoặc Lộc + Khoa = rất tốt. Hóa Kỵ ở cung quan trọng = cần đặc biệt chú ý."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Vận hạn năm — Lưu niên Hóa",
+            "body": "Mỗi năm có một **can riêng** (từ Lục thập hoa giáp). Can năm hiện tại → quyết định **'Hóa Lộc/Quyền/Khoa/Kỵ' của năm đó** đậu vào sao nào trên lá số bạn.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Năm 2024 = Giáp Thìn** (can Giáp): Hóa Lộc đậu Liêm Trinh, Hóa Kỵ đậu Thái Dương. → Người nào có Liêm Trinh ở Mệnh/Tài → năm 2024 có 'Hóa Lộc đến nhà', năm tốt. Người có Thái Dương ở Mệnh/Quan → năm 2024 'Hóa Kỵ phá Thái Dương' → cẩn trọng."
+              },
+              {
+                "type": "application",
+                "text": "**Năm 2025 = Ất Tỵ** (can Ất): Hóa Lộc đậu Thiên Cơ. → Người Mệnh Thiên Cơ năm 2025 có tài lộc bất ngờ."
+              },
+              {
+                "type": "note",
+                "text": "Đây là cơ sở của 'đoán vận năm' — sẽ kết hợp Đại Vận + Lưu Niên ở bài Module D."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "**Hóa Lộc** chủ về điều gì?",
+          "options": [
+            "Quyền lực và chủ động",
+            "Tài lộc, may mắn, hưởng thụ",
+            "Danh tiếng và văn vẻ",
+            "Trở ngại và mất mát"
+          ],
+          "answer": 1,
+          "explanation": "**Hóa Lộc** (祿) = tăng **tài lộc, may mắn, hưởng thụ**. Sao mang Hóa Lộc → cung đó có tài. Đây là Hóa 'tốt nhất' trong 4 Hóa. Hóa Quyền = quyền lực, Hóa Khoa = danh tiếng, Hóa Kỵ = trở ngại."
+        },
+        {
+          "question": "Người sinh năm **can Giáp** thì Hóa Kỵ đậu vào sao nào?",
+          "options": ["Thái Âm", "Thiên Đồng", "Thái Dương", "Liêm Trinh"],
+          "answer": 2,
+          "explanation": "Bảng Tứ Hóa: **Can Giáp** → Lộc Liêm Trinh, Quyền Phá Quân, Khoa Vũ Khúc, **Kỵ Thái Dương**. Người sinh năm Giáp (Giáp Tý, Giáp Dần, Giáp Thìn, Giáp Ngọ, Giáp Thân, Giáp Tuất) đều có Thái Dương trên lá số mang Hóa Kỵ."
+        },
+        {
+          "question": "Tại sao Tứ Hóa được coi là 'hệ thống vận hạn' quan trọng nhất?",
+          "options": [
+            "Vì chỉ có 4 sao nên dễ nhớ",
+            "Vì Tứ Hóa thay đổi theo năm (lưu niên) — quyết định năm nào tốt, năm nào xấu",
+            "Vì Tứ Hóa quan trọng hơn 14 chính tinh",
+            "Vì Tứ Hóa giống Ngũ Hành"
+          ],
+          "answer": 1,
+          "explanation": "**Tứ Hóa thay đổi theo năm** — mỗi năm có một can riêng, kích hoạt 4 sao khác nhau trên lá số bạn. Đây chính là cơ chế **'năm nay vận này, năm sau vận khác'**. 14 chính tinh cố định cả đời, nhưng Tứ Hóa biến hóa — đó là lý do nó là 'hệ vận hạn' cốt lõi."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Một sao có thể mang nhiều Hóa cùng lúc không?",
+          "answer": "**Có**. Sao Sinh Hóa (theo can năm sinh — cố định) + Vận Hóa (theo can đại vận hoặc lưu niên) → một sao có thể 'kép hóa'. Ví dụ Vũ Khúc Hóa Lộc bẩm sinh + năm hiện tại Vũ Khúc lại Hóa Quyền → 'Lộc + Quyền cùng đậu' → năm đó cực mạnh về tài quyền."
+        },
+        {
+          "question": "Hóa Kỵ có phải lúc nào cũng xấu?",
+          "answer": "Không. **Hóa Kỵ ở cung không quan trọng** (ví dụ Nô Bộc) → ảnh hưởng nhẹ. Hóa Kỵ **ở cung tốt** (Mệnh, Tài, Quan) → cần chú ý. Một số trường phái còn cho rằng 'Hóa Kỵ kích thích nỗ lực' — người có Hóa Kỵ thường có động lực vượt khó."
+        },
+        {
+          "question": "Tôi có cần thuộc lòng bảng Tứ Hóa 10 can không?",
+          "answer": "**Học dần — không cần thuộc ngay**. Cách dễ: nhớ Hóa của can năm sinh bạn (cố định cả đời) + Hóa của năm hiện tại (chỉ 1 dòng). Khi xem lá số cho người khác, có thể tra bảng nhanh. Sau 5-10 lá số bạn sẽ tự nhớ."
+        },
+        {
+          "question": "Năm 2025 tôi (sinh năm Bính Dần) thì có Hóa nào đến?",
+          "answer": "Năm 2025 = Ất Tỵ → can Ất: Hóa Lộc Thiên Cơ, Quyền Thiên Lương, Khoa Tử Vi, Kỵ Thái Âm. Bạn sinh Bính Dần (can Bính, không phải Ất) — nên bạn nhận **Hóa của năm 2025 (can Ất)**. Xem các sao đó ở cung nào trên lá số → đó là 'điểm rơi' của vận năm."
+        }
+      ]
+    }
+  ]
+}

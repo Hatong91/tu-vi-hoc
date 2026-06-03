@@ -1,0 +1,184 @@
+{
+  "cung": [
+    {
+      "id": "menh",
+      "name": "Mệnh",
+      "han": "命",
+      "domain": "Bản thân — Tính cách & vận mệnh cốt lõi",
+      "short_desc": "Cung quan trọng nhất — đại diện cho 'cái tôi' của bạn.",
+      "description": "Cung Mệnh phản ánh **tính cách, khí chất, hướng đời** cơ bản nhất. Các sao tại Mệnh chỉ ra thiên hướng tự nhiên: hướng nội/hướng ngoại, chủ động/thụ động, lãnh đạo/hỗ trợ. Đây là điểm xuất phát mọi giải đoán.",
+      "key_questions": [
+        "Người này có tính cách thiên hướng nào?",
+        "Đời sống tinh thần dồi dào hay khô khan?",
+        "Có khả năng lãnh đạo, sáng tạo, ổn định?"
+      ],
+      "doi_xung": "Thiên Di",
+      "tam_hop": ["Mệnh", "Tài Bạch", "Quan Lộc"]
+    },
+    {
+      "id": "phu-mau",
+      "name": "Phụ Mẫu",
+      "han": "父母",
+      "domain": "Gia đình — Cha mẹ và bề trên",
+      "short_desc": "Mối quan hệ với cha mẹ, người dẫn dắt, cấp trên đầu đời.",
+      "description": "Cung Phụ Mẫu xem **mối duyên với cha mẹ** — có hợp hay khắc, được dạy dỗ thế nào, có thừa hưởng phúc lộc từ tổ tiên. Cũng chỉ ra quan hệ với thầy cô, người đỡ đầu trong sự nghiệp ban đầu.",
+      "key_questions": [
+        "Quan hệ với cha mẹ thuận hay nghịch?",
+        "Có được dạy dỗ chu đáo, gia thế tốt?",
+        "Có gặp người đỡ đầu, thầy giỏi không?"
+      ],
+      "doi_xung": "Tật Ách",
+      "tam_hop": ["Phụ Mẫu", "Phúc Đức", "Điền Trạch"]
+    },
+    {
+      "id": "phuc-duc",
+      "name": "Phúc Đức",
+      "han": "福德",
+      "domain": "Phúc khí — Niềm vui, thiện duyên, tổ tiên",
+      "short_desc": "Phúc khí thừa hưởng từ tổ tiên + cách bạn hưởng thụ cuộc đời.",
+      "description": "Cung Phúc Đức xem **niềm vui tinh thần** và **phúc khí từ tổ tiên**. Cung tốt → cuộc đời an lành, ít sóng gió, có niềm vui giản dị. Cung xấu → tâm hồn dễ phiền muộn, phúc khí mỏng.",
+      "key_questions": [
+        "Đời người có an lạc hay nhiều phiền muộn?",
+        "Phúc khí tổ tiên dày hay mỏng?",
+        "Có biết cách hưởng thụ cuộc sống?"
+      ],
+      "doi_xung": "Tài Bạch",
+      "tam_hop": ["Phúc Đức", "Phụ Mẫu", "Điền Trạch"]
+    },
+    {
+      "id": "dien-trach",
+      "name": "Điền Trạch",
+      "han": "田宅",
+      "domain": "Tài sản — Nhà cửa, đất đai, gia sản",
+      "short_desc": "Khả năng sở hữu nhà cửa, đất đai, tích lũy bất động sản.",
+      "description": "Cung Điền Trạch xem **tài sản cố định**: nhà cửa, đất đai, gia sản truyền lại. Cung tốt → an cư lập nghiệp dễ, có nhiều tài sản; cung yếu → khó tích lũy, hay di chuyển chỗ ở.",
+      "key_questions": [
+        "Có nhà riêng, đất đai sớm hay muộn?",
+        "Tài sản bất động sản nhiều hay ít?",
+        "Có thừa kế gia sản tổ tiên?"
+      ],
+      "doi_xung": "Tử Tức",
+      "tam_hop": ["Điền Trạch", "Phụ Mẫu", "Phúc Đức"]
+    },
+    {
+      "id": "quan-loc",
+      "name": "Quan Lộc",
+      "han": "官祿",
+      "domain": "Sự nghiệp — Công danh, chức vụ, công việc",
+      "short_desc": "Hướng đi sự nghiệp, vị trí xã hội, thành tựu công danh.",
+      "description": "Cung Quan Lộc xem **sự nghiệp công danh**: làm nghề gì hợp, có quyền chức, vị trí trong xã hội. Cùng với cung Tài Bạch tạo trục **'tài-quan'** — đo lường thành bại đời người.",
+      "key_questions": [
+        "Hướng nghề nghiệp nào hợp nhất?",
+        "Có khả năng thăng tiến, làm sếp?",
+        "Sự nghiệp ổn định hay nhiều biến động?"
+      ],
+      "doi_xung": "Phu Thê",
+      "tam_hop": ["Quan Lộc", "Mệnh", "Tài Bạch"]
+    },
+    {
+      "id": "no-boc",
+      "name": "Nô Bộc",
+      "han": "奴僕",
+      "domain": "Quan hệ — Bạn bè, đồng nghiệp, người giúp việc",
+      "short_desc": "Quan hệ với bạn bè, đồng nghiệp, cấp dưới — vòng tròn xã hội.",
+      "description": "Cung Nô Bộc (còn gọi 'Giao Hữu') xem **quan hệ ngoài huyết thống**: bạn bè, đồng nghiệp, cấp dưới. Cung tốt → có nhiều người giúp, vòng tròn hỗ trợ rộng; cung xấu → dễ bị bạn xấu, đồng nghiệp gây khó.",
+      "key_questions": [
+        "Có nhiều bạn tốt, đồng nghiệp hỗ trợ?",
+        "Cấp dưới có trung thành, đắc lực?",
+        "Dễ bị phản bội, lừa gạt không?"
+      ],
+      "doi_xung": "Huynh Đệ",
+      "tam_hop": ["Nô Bộc", "Thiên Di", "Tử Tức"]
+    },
+    {
+      "id": "thien-di",
+      "name": "Thiên Di",
+      "han": "遷移",
+      "domain": "Di động — Ra ngoài, đi xa, đối ngoại",
+      "short_desc": "Mọi việc 'ra khỏi nhà': đi học xa, làm ăn nơi khác, du lịch.",
+      "description": "Cung Thiên Di **đối xung với Mệnh** — xem mọi việc khi rời khỏi 'lãnh thổ' quen thuộc: đi học xa, làm việc nơi khác, di cư, du lịch. Cũng phản ánh **cách người khác nhìn bạn** trong xã hội.",
+      "key_questions": [
+        "Đi xa có lợi hay không?",
+        "Ra ngoài xã hội được người khác đánh giá ra sao?",
+        "Có duyên đi nước ngoài, làm việc xa nhà?"
+      ],
+      "doi_xung": "Mệnh",
+      "tam_hop": ["Thiên Di", "Nô Bộc", "Tử Tức"]
+    },
+    {
+      "id": "tat-ach",
+      "name": "Tật Ách",
+      "han": "疾厄",
+      "domain": "Sức khỏe — Bệnh tật, tai nạn, cơ thể",
+      "short_desc": "Tình trạng sức khỏe bẩm sinh, bệnh tật dễ mắc, tai họa.",
+      "description": "Cung Tật Ách xem **sức khỏe cơ thể**: bệnh tật bẩm sinh, cơ quan dễ yếu, tai nạn có thể gặp. Đối xung với Phụ Mẫu — có thể chỉ thừa hưởng thể chất từ cha mẹ.",
+      "key_questions": [
+        "Bộ phận nào trên cơ thể dễ yếu?",
+        "Có dễ mắc bệnh gì không?",
+        "Sức khỏe tổng thể tốt hay yếu?"
+      ],
+      "doi_xung": "Phụ Mẫu",
+      "tam_hop": ["Tật Ách", "Phu Thê", "Huynh Đệ"]
+    },
+    {
+      "id": "tai-bach",
+      "name": "Tài Bạch",
+      "han": "財帛",
+      "domain": "Tài lộc — Tiền bạc, thu nhập, dòng tiền",
+      "short_desc": "Khả năng kiếm tiền, dòng tiền hằng ngày, sự giàu có.",
+      "description": "Cung Tài Bạch xem **dòng tiền** vào ra: cách kiếm tiền (chính nghiệp/phụ nghiệp), khả năng giữ tiền, mức độ giàu có. Cùng với Quan Lộc tạo trục 'Tài-Quan' — xem **năng lực tạo của cải**.",
+      "key_questions": [
+        "Kiếm tiền dễ hay khó?",
+        "Có giữ được tiền hay tiêu hoang?",
+        "Phú quý lớn hay sống đủ dùng?"
+      ],
+      "doi_xung": "Phúc Đức",
+      "tam_hop": ["Tài Bạch", "Mệnh", "Quan Lộc"]
+    },
+    {
+      "id": "tu-tuc",
+      "name": "Tử Tức",
+      "han": "子息",
+      "domain": "Con cái — Số con, mối duyên với con",
+      "short_desc": "Số lượng con cái, mối quan hệ với con, khả năng dạy dỗ.",
+      "description": "Cung Tử Tức xem **mối duyên con cái**: có nhiều con không, quan hệ thân thiết hay xa cách, con có thành đạt. Đối xung với Điền Trạch — đôi khi chỉ 'của để dành' lâu dài.",
+      "key_questions": [
+        "Có nhiều con không, sớm hay muộn?",
+        "Con cái có hiếu thảo, gần gũi?",
+        "Con có thành đạt, hơn mình?"
+      ],
+      "doi_xung": "Điền Trạch",
+      "tam_hop": ["Tử Tức", "Nô Bộc", "Thiên Di"]
+    },
+    {
+      "id": "phu-the",
+      "name": "Phu Thê",
+      "han": "夫妻",
+      "domain": "Hôn nhân — Vợ/chồng, người bạn đời",
+      "short_desc": "Người bạn đời — tính cách, độ phù hợp, mối duyên trăm năm.",
+      "description": "Cung Phu Thê xem **mối duyên hôn nhân**: bạn đời thuộc kiểu người nào, hợp/khắc, sớm/muộn lập gia đình, có êm ấm hay sóng gió. Đối xung với Quan Lộc — ảnh hưởng đến sự nghiệp lẫn nhau.",
+      "key_questions": [
+        "Bạn đời có tính cách thế nào?",
+        "Hôn nhân êm ấm hay nhiều sóng gió?",
+        "Lập gia đình sớm hay muộn?"
+      ],
+      "doi_xung": "Quan Lộc",
+      "tam_hop": ["Phu Thê", "Tật Ách", "Huynh Đệ"]
+    },
+    {
+      "id": "huynh-de",
+      "name": "Huynh Đệ",
+      "han": "兄弟",
+      "domain": "Anh chị em — Mối duyên ruột thịt cùng thế hệ",
+      "short_desc": "Quan hệ với anh chị em ruột — số lượng, mức độ thân thiết.",
+      "description": "Cung Huynh Đệ xem **mối duyên anh chị em**: số lượng, hợp hay khắc, có giúp đỡ nhau. Đối xung với Nô Bộc — cân bằng giữa 'người thân ruột thịt' và 'bạn bè ngoài xã hội'.",
+      "key_questions": [
+        "Có nhiều anh chị em không?",
+        "Anh em hợp hay khắc, giúp đỡ hay xa cách?",
+        "Vị trí của mình trong nhà?"
+      ],
+      "doi_xung": "Nô Bộc",
+      "tam_hop": ["Huynh Đệ", "Phu Thê", "Tật Ách"]
+    }
+  ]
+}

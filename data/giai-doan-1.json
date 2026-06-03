@@ -1,0 +1,1027 @@
+{
+  "phase": {
+    "id": "gd-1",
+    "title": "Giai đoạn 1 — Nền tảng triết học",
+    "subtitle": "Âm dương · Ngũ hành · Quan hệ tương sinh tương khắc",
+    "summary": "Hiểu hai khái niệm gốc của Tử Vi: Âm dương và Ngũ hành. Đây là chìa khóa để đọc mọi sao, mọi cung sau này.",
+    "modules": ["A"]
+  },
+  "lessons": [
+    {
+      "id": "am-duong",
+      "slug": "am-duong",
+      "title": "Âm dương — Hai mặt của một sự vật",
+      "module": "A",
+      "order": 1,
+      "duration_minutes": 12,
+      "story_hook": "Tại sao đêm và ngày luôn nối tiếp nhau? Tại sao sau cơn mưa lại có nắng? Người xưa nhìn vào tự nhiên và thấy: vạn vật luôn có hai mặt — và chính hai mặt đó tạo ra chuyển động.",
+      "key_metaphor": "Ngày và đêm — không tách rời, mà luôn nối tiếp. Hết ngày là sang đêm, hết đêm lại là ngày.",
+      "content": {
+        "sections": [
+          {
+            "title": "Âm dương là gì?",
+            "body": "Âm dương là **hai mặt đối lập nhưng cùng tồn tại** trong mọi sự vật. Không có cái nào tách rời cái nào. Có Âm thì mới có Dương, có Dương thì mới có Âm.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Dương:** ánh sáng, nóng, động, ngoài, cứng, nam."
+              },
+              {
+                "type": "definition",
+                "text": "**Âm:** bóng tối, lạnh, tĩnh, trong, mềm, nữ."
+              },
+              {
+                "type": "note",
+                "text": "Âm dương KHÔNG phải tốt — xấu. Chúng chỉ là **hai cực** của cùng một thứ."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Đối chiếu Âm và Dương qua các thuộc tính tự nhiên",
+              "data": {
+                "headers": ["Thuộc tính", "Dương", "Âm"],
+                "rows": [
+                  ["Ánh sáng", "Sáng", "Tối"],
+                  ["Nhiệt độ", "Nóng", "Lạnh"],
+                  ["Trạng thái", "Động", "Tĩnh"],
+                  ["Vị trí", "Trên / Ngoài", "Dưới / Trong"],
+                  ["Thời gian", "Ngày", "Đêm"],
+                  ["Mùa", "Xuân - Hạ", "Thu - Đông"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Bốn quy luật của Âm dương",
+            "body": "Người xưa rút ra 4 quy luật mô tả cách Âm và Dương vận hành. Hiểu 4 quy luật này, bạn sẽ hiểu vì sao Tử Vi luôn nói về **cân bằng** chứ không nói về tốt — xấu tuyệt đối.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**1. Đối lập:** Âm và Dương luôn trái ngược nhau."
+              },
+              {
+                "type": "definition",
+                "text": "**2. Cùng tồn tại:** Không có cái này thì không có cái kia. Không có ngày thì không có đêm."
+              },
+              {
+                "type": "definition",
+                "text": "**3. Tiêu trưởng:** Một bên tăng thì bên kia giảm. Trời sáng dần thì đêm tan dần."
+              },
+              {
+                "type": "definition",
+                "text": "**4. Chuyển hóa:** Đến cực điểm, Âm sinh ra Dương và ngược lại. Đêm dài nhất là lúc ngày bắt đầu dài ra (Đông chí)."
+              }
+            ],
+            "visual": {
+              "kind": "infographic",
+              "caption": "Biểu đồ Thái cực — Âm Dương xoắn vào nhau, mỗi bên đều có một chấm của bên kia",
+              "data": {
+                "type": "taichi",
+                "labels": {
+                  "yang": "Dương trong Âm",
+                  "yin": "Âm trong Dương"
+                },
+                "description": "Chấm trắng trong vùng đen, chấm đen trong vùng trắng — biểu thị 'trong Âm có Dương, trong Dương có Âm'."
+              }
+            }
+          },
+          {
+            "title": "Vì sao Tử Vi cần Âm dương?",
+            "body": "Trong Tử Vi, mọi sao đều có thuộc tính **Âm hoặc Dương**. Mọi cung cũng có. Khi xem lá số, bạn không xem từng sao đơn lẻ — bạn xem **sự cân bằng** giữa các thuộc tính Âm và Dương trong cả lá số.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Ví dụ: Sao Thái Dương thuộc Dương — chủ về cha, chồng, công danh. Sao Thái Âm thuộc Âm — chủ về mẹ, vợ, tài sản tích lũy."
+              },
+              {
+                "type": "application",
+                "text": "Một lá số quá nhiều sao Dương có thể nóng nảy, hành động nhiều. Quá nhiều sao Âm có thể kín đáo, suy nghĩ nhiều mà ít hành động."
+              },
+              {
+                "type": "note",
+                "text": "Đây là lý do thầy Tử Vi luôn nhìn **toàn cục** chứ không bắt lỗi từng sao."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Câu nào sau đây mô tả ĐÚNG quan hệ Âm — Dương?",
+          "options": [
+            "Dương luôn tốt, Âm luôn xấu",
+            "Âm và Dương đối lập nhưng không tách rời",
+            "Dương mạnh hơn Âm",
+            "Âm dương chỉ áp dụng cho ngày và đêm"
+          ],
+          "answer": 1,
+          "explanation": "Âm và Dương là **hai cực đối lập** nhưng phải **cùng tồn tại** — đây là quy luật 1 và 2. Không có ngày thì không có đêm, không có Dương thì không có Âm. Đáp án A sai vì Âm dương không phải tốt — xấu, chúng chỉ là hai trạng thái khác nhau."
+        },
+        {
+          "question": "Khi đêm dài nhất trong năm (Đông chí), điều gì sắp xảy ra theo nguyên lý Âm dương?",
+          "options": [
+            "Đêm sẽ còn dài thêm nữa",
+            "Ngày bắt đầu dài ra — Âm cực sinh Dương",
+            "Mặt trời không mọc nữa",
+            "Không có gì thay đổi"
+          ],
+          "answer": 1,
+          "explanation": "Đây là quy luật **chuyển hóa**: khi Âm đến cực điểm, Dương sẽ sinh ra. Đông chí là lúc đêm dài nhất, nhưng cũng là khởi đầu cho ngày dài dần lên — đây là lý do người xưa coi Đông chí là ngày 'một dương sinh'."
+        },
+        {
+          "question": "Trong Tử Vi, vì sao không nên kết luận 'lá số xấu' chỉ vì có vài sao xấu?",
+          "options": [
+            "Vì các sao luôn thay đổi",
+            "Vì cần xem cả Âm dương và Ngũ hành để biết sự cân bằng tổng thể",
+            "Vì sao xấu không có thật",
+            "Vì lá số nào cũng tốt"
+          ],
+          "answer": 1,
+          "explanation": "Tử Vi nhìn **toàn cục** dựa trên sự cân bằng Âm dương và Ngũ hành. Một sao 'xấu' nằm cạnh sao 'tốt' có thể được hóa giải, hoặc ngược lại. Đây là tinh thần của Âm dương: vạn vật luôn có hai mặt nên phải xét tương quan."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Người mệnh Âm có yếu hơn người mệnh Dương không?",
+          "answer": "Không. Mệnh Âm hay Dương chỉ là thuộc tính, không phải mức độ mạnh — yếu. Người mệnh Âm thường kín đáo, sâu sắc, làm việc bằng tích lũy. Người mệnh Dương hướng ngoại, hành động nhanh. Cả hai đều có ưu điểm riêng."
+        },
+        {
+          "question": "Tôi sinh vào ban đêm có phải mệnh Âm không?",
+          "answer": "Không hoàn toàn. Âm — Dương trong Tử Vi được xác định qua **năm sinh và giới tính**, không trực tiếp qua giờ sinh. Tuy nhiên, giờ sinh ảnh hưởng đến cung Mệnh và các sao Tử Vi sẽ học ở giai đoạn sau."
+        },
+        {
+          "question": "Âm dương có thể chuyển thành nhau thật không?",
+          "answer": "Có — đây là **quy luật chuyển hóa**. Trong tự nhiên, đêm dài nhất là lúc ngày bắt đầu dài ra. Trong đời người, cực thịnh sinh suy, cực bĩ sinh thái. Tử Vi dùng quy luật này để giải thích vận hạn lên xuống."
+        }
+      ]
+    },
+    {
+      "id": "ngu-hanh-co-ban",
+      "slug": "ngu-hanh-co-ban",
+      "title": "Ngũ hành — 5 yếu tố làm nên trời đất",
+      "module": "A",
+      "order": 2,
+      "duration_minutes": 15,
+      "story_hook": "Người xưa hỏi: 'Vạn vật khác nhau muôn hình muôn vẻ, nhưng có thể quy về mấy nhóm cơ bản?' Sau nhiều đời quan sát, họ thấy mọi thứ đều có thể quy về **5 yếu tố**: Kim, Mộc, Thủy, Hỏa, Thổ.",
+      "key_metaphor": "Một khu rừng: cây cối là **Mộc**, suối nước là **Thủy**, đất nuôi cây là **Thổ**, ánh nắng là **Hỏa**, đá quặng dưới lòng đất là **Kim**. Cả khu rừng là một hệ thống Ngũ hành.",
+      "content": {
+        "sections": [
+          {
+            "title": "Vì sao chỉ có 5 hành?",
+            "body": "Không phải con số tùy ý. **5 hành** = 5 nhóm thuộc tính cơ bản người xưa quan sát thấy trong tự nhiên, vừa đủ để mô tả mọi sự vật mà không trùng lặp.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "Ngũ hành KHÔNG phải là 5 vật chất. Đó là **5 loại thuộc tính** — Mộc không chỉ là cây gỗ, mà là mọi thứ có tính chất 'sinh trưởng, vươn lên'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Đặc tính 5 hành",
+            "body": "Mỗi hành có **bản tính**, **biểu tượng**, **mùa**, **hướng** riêng. Học thuộc bảng này là chìa khóa để đọc sao trong Tử Vi.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Mộc** (木): vươn lên, sinh trưởng. Tượng cây cối. Mùa xuân. Hướng đông. Màu xanh."
+              },
+              {
+                "type": "definition",
+                "text": "**Hỏa** (火): bốc lên, lan tỏa. Tượng ngọn lửa. Mùa hạ. Hướng nam. Màu đỏ."
+              },
+              {
+                "type": "definition",
+                "text": "**Thổ** (土): nuôi dưỡng, dung chứa. Tượng đất đai. Cuối mỗi mùa. Trung ương. Màu vàng."
+              },
+              {
+                "type": "definition",
+                "text": "**Kim** (金): thu lại, sắc bén. Tượng kim loại. Mùa thu. Hướng tây. Màu trắng."
+              },
+              {
+                "type": "definition",
+                "text": "**Thủy** (水): chảy xuống, tích tụ. Tượng dòng nước. Mùa đông. Hướng bắc. Màu đen."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Bảng tra nhanh đặc tính 5 hành",
+              "data": {
+                "headers": ["Hành", "Bản tính", "Tượng", "Mùa", "Hướng", "Màu"],
+                "rows": [
+                  ["Mộc", "Sinh trưởng", "Cây cối", "Xuân", "Đông", "Xanh"],
+                  ["Hỏa", "Bốc lên", "Ngọn lửa", "Hạ", "Nam", "Đỏ"],
+                  ["Thổ", "Nuôi dưỡng", "Đất đai", "Cuối mùa", "Trung", "Vàng"],
+                  ["Kim", "Sắc bén", "Kim loại", "Thu", "Tây", "Trắng"],
+                  ["Thủy", "Chảy xuống", "Dòng nước", "Đông", "Bắc", "Đen"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Ngũ hành trong cuộc sống và Tử Vi",
+            "body": "Mỗi người sinh ra đều có **một bản mệnh Ngũ hành** dựa trên năm sinh. Đây gọi là **nạp âm**. Bản mệnh Ngũ hành cho biết khuynh hướng tự nhiên, sở trường, môi trường phù hợp.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Người mệnh Mộc — hợp nghề liên quan đến cây cối, giáo dục, sáng tạo, vươn lên."
+              },
+              {
+                "type": "application",
+                "text": "Người mệnh Hỏa — hợp nghề năng động, lan tỏa: kinh doanh, truyền thông, ánh sáng."
+              },
+              {
+                "type": "application",
+                "text": "Người mệnh Thổ — hợp nghề ổn định, nuôi dưỡng: bất động sản, nông nghiệp, y tế."
+              },
+              {
+                "type": "application",
+                "text": "Người mệnh Kim — hợp nghề kỷ luật, sắc bén: kỹ thuật, tài chính, luật."
+              },
+              {
+                "type": "application",
+                "text": "Người mệnh Thủy — hợp nghề linh hoạt, thông minh: nghiên cứu, du lịch, công nghệ."
+              }
+            ],
+            "visual": {
+              "kind": "mindmap",
+              "caption": "Sơ đồ tỏa: từ Ngũ hành tỏa ra các nhánh thuộc tính",
+              "data": {
+                "root": "Ngũ hành",
+                "children": [
+                  {
+                    "label": "Mộc",
+                    "color": "#1A6B5A",
+                    "children": [
+                      { "label": "Mùa xuân" },
+                      { "label": "Hướng đông" },
+                      { "label": "Màu xanh" },
+                      { "label": "Sinh trưởng" }
+                    ]
+                  },
+                  {
+                    "label": "Hỏa",
+                    "color": "#C0321E",
+                    "children": [
+                      { "label": "Mùa hạ" },
+                      { "label": "Hướng nam" },
+                      { "label": "Màu đỏ" },
+                      { "label": "Bốc lên" }
+                    ]
+                  },
+                  {
+                    "label": "Thổ",
+                    "color": "#C9881A",
+                    "children": [
+                      { "label": "Cuối mùa" },
+                      { "label": "Trung ương" },
+                      { "label": "Màu vàng" },
+                      { "label": "Nuôi dưỡng" }
+                    ]
+                  },
+                  {
+                    "label": "Kim",
+                    "color": "#6B3D10",
+                    "children": [
+                      { "label": "Mùa thu" },
+                      { "label": "Hướng tây" },
+                      { "label": "Màu trắng" },
+                      { "label": "Sắc bén" }
+                    ]
+                  },
+                  {
+                    "label": "Thủy",
+                    "color": "#0F4F41",
+                    "children": [
+                      { "label": "Mùa đông" },
+                      { "label": "Hướng bắc" },
+                      { "label": "Màu đen" },
+                      { "label": "Chảy xuống" }
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ngũ hành nào ứng với mùa xuân và sự sinh trưởng?",
+          "options": ["Hỏa", "Thổ", "Mộc", "Thủy"],
+          "answer": 2,
+          "explanation": "**Mộc** ứng với mùa xuân — mùa của cây cối đâm chồi nảy lộc. Bản tính của Mộc là **vươn lên, sinh trưởng**. Đây là lý do người ta dùng Mộc để chỉ mọi thứ có tính 'phát triển từ nhỏ ra to'."
+        },
+        {
+          "question": "Tại sao Thổ được xếp ở 'trung ương' chứ không phải một hướng cụ thể?",
+          "options": [
+            "Vì Thổ yếu hơn 4 hành kia",
+            "Vì Thổ là hành nuôi dưỡng — chứa và điều hòa cả 4 hành còn lại",
+            "Vì người xưa quên hướng của Thổ",
+            "Vì Thổ không quan trọng"
+          ],
+          "answer": 1,
+          "explanation": "**Thổ** = đất đai = nền tảng nuôi dưỡng. Đất chứa nước (Thủy), nuôi cây (Mộc), giữ kim loại (Kim), chịu lửa (Hỏa). Vì là trung tâm điều hòa nên Thổ không thuộc một hướng đơn lẻ mà ở **trung ương**."
+        },
+        {
+          "question": "Người sinh ra mệnh Kim thường hợp với nghề nào sau đây nhất?",
+          "options": [
+            "Trồng cây cảnh",
+            "Tài chính, kỹ thuật chính xác",
+            "Nghệ thuật trừu tượng",
+            "Du lịch tự do"
+          ],
+          "answer": 1,
+          "explanation": "**Kim** có bản tính **sắc bén, kỷ luật, có nguyên tắc**. Các nghề đòi hỏi sự chính xác, logic, và tuân thủ quy chuẩn — như tài chính, kỹ thuật, luật — là sở trường tự nhiên của người mệnh Kim."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ngũ hành có giống các nguyên tố hóa học không?",
+          "answer": "Không. Nguyên tố hóa học (carbon, oxy...) là **vật chất** cụ thể. Ngũ hành là **5 loại thuộc tính** dùng để phân loại mọi hiện tượng. Mộc không chỉ là cây — Mộc là 'mọi thứ có tính vươn lên', kể cả ý tưởng sáng tạo."
+        },
+        {
+          "question": "Làm sao biết mệnh Ngũ hành của tôi?",
+          "answer": "Mệnh Ngũ hành dựa trên **năm sinh âm lịch** (Thiên can + Địa chi → nạp âm). Ví dụ Giáp Tý — Hải trung Kim, Bính Dần — Lư trung Hỏa... Bạn sẽ học chi tiết cách tra mệnh ở Giai đoạn 2 (Thiên can — Địa chi)."
+        },
+        {
+          "question": "Có khi nào một người mang nhiều hành không?",
+          "answer": "Có. Bản mệnh là **một hành chính**, nhưng trong lá số Tử Vi có 12 cung, mỗi cung có các sao thuộc các hành khác nhau. Vì vậy một người có thể có 'Mệnh Mộc, Tài Thủy, Quan Kim' — và đọc lá số là đọc tương quan giữa các hành này."
+        }
+      ]
+    },
+    {
+      "id": "ngu-hanh-tuong-sinh-tuong-khac",
+      "slug": "ngu-hanh-tuong-sinh-tuong-khac",
+      "title": "Ngũ hành tương sinh & tương khắc — Vòng nuôi nhau và vòng chế ngự",
+      "module": "A",
+      "order": 3,
+      "duration_minutes": 18,
+      "story_hook": "Tại sao **nước** lại liên quan đến **cây**? Người xưa quan sát: nước tưới cây, cây mọc lên — đó là **Thủy sinh Mộc**. Từ một quan sát đơn giản, họ tìm ra cả vòng 5 hành nuôi nhau, và cả vòng 5 hành chế ngự nhau.",
+      "key_metaphor": "Nước tưới cây → cây mọc → cây đốt thành lửa → lửa tàn thành tro → tro đất nuôi quặng → quặng kim loại lạnh ngưng tụ thành nước. Vòng tròn không đầu không đuôi — đó là **tương sinh**.",
+      "content": {
+        "sections": [
+          {
+            "title": "Vòng tương sinh — Hành này nuôi hành kia",
+            "body": "**Tương sinh** = quan hệ **nuôi dưỡng, sinh ra, hỗ trợ**. Mỗi hành sinh ra hành đứng kế bên theo chiều kim đồng hồ.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Thủy sinh Mộc** — Nước tưới cây, cây lớn lên."
+              },
+              {
+                "type": "definition",
+                "text": "**Mộc sinh Hỏa** — Củi gỗ nhóm lửa."
+              },
+              {
+                "type": "definition",
+                "text": "**Hỏa sinh Thổ** — Tro tàn sau lửa thành đất màu mỡ."
+              },
+              {
+                "type": "definition",
+                "text": "**Thổ sinh Kim** — Lòng đất chứa quặng kim loại."
+              },
+              {
+                "type": "definition",
+                "text": "**Kim sinh Thủy** — Kim loại lạnh ngưng tụ thành giọt nước."
+              },
+              {
+                "type": "note",
+                "text": "Trí nhớ nhanh: **Thủy → Mộc → Hỏa → Thổ → Kim → Thủy** — một vòng kín."
+              }
+            ],
+            "visual": {
+              "kind": "infographic",
+              "caption": "Vòng tương sinh — mỗi hành sinh ra hành đứng kế bên theo chiều kim đồng hồ",
+              "data": {
+                "type": "pentagon",
+                "mode": "sinh",
+                "nodes": [
+                  { "label": "Thủy", "color": "#0F4F41", "position": "top" },
+                  { "label": "Mộc", "color": "#2A8A72", "position": "top-right" },
+                  { "label": "Hỏa", "color": "#C0321E", "position": "bottom-right" },
+                  { "label": "Thổ", "color": "#C9881A", "position": "bottom-left" },
+                  { "label": "Kim", "color": "#6B3D10", "position": "top-left" }
+                ],
+                "edges": [
+                  { "from": "Thủy", "to": "Mộc", "label": "tưới cây" },
+                  { "from": "Mộc", "to": "Hỏa", "label": "củi nhóm lửa" },
+                  { "from": "Hỏa", "to": "Thổ", "label": "tro tàn thành đất" },
+                  { "from": "Thổ", "to": "Kim", "label": "lòng đất chứa quặng" },
+                  { "from": "Kim", "to": "Thủy", "label": "ngưng tụ thành nước" }
+                ]
+              }
+            }
+          },
+          {
+            "title": "Vòng tương khắc — Hành này chế ngự hành kia",
+            "body": "**Tương khắc** = quan hệ **chế ngự, kiềm chế, tạo hình**. KHÔNG phải phá hoại — mà là **kiểm soát để cân bằng**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Thủy khắc Hỏa** — Nước dập lửa."
+              },
+              {
+                "type": "definition",
+                "text": "**Hỏa khắc Kim** — Lửa nung chảy kim loại."
+              },
+              {
+                "type": "definition",
+                "text": "**Kim khắc Mộc** — Dao (kim loại) chặt cây — tạo hình, không phá hoại."
+              },
+              {
+                "type": "definition",
+                "text": "**Mộc khắc Thổ** — Rễ cây hút chất từ đất, làm đất nghèo đi."
+              },
+              {
+                "type": "definition",
+                "text": "**Thổ khắc Thủy** — Đất chặn dòng nước, đắp đê ngăn lũ."
+              },
+              {
+                "type": "note",
+                "text": "Tương khắc giữ cho hệ thống không một hành nào phình quá mức. Nếu không có khắc, mọi thứ sẽ mất kiểm soát."
+              }
+            ],
+            "visual": {
+              "kind": "infographic",
+              "caption": "Vòng tương khắc — đường chéo xuyên qua ngũ giác (cách 1 đỉnh)",
+              "data": {
+                "type": "pentagon",
+                "mode": "khac",
+                "nodes": [
+                  { "label": "Thủy", "color": "#0F4F41", "position": "top" },
+                  { "label": "Mộc", "color": "#2A8A72", "position": "top-right" },
+                  { "label": "Hỏa", "color": "#C0321E", "position": "bottom-right" },
+                  { "label": "Thổ", "color": "#C9881A", "position": "bottom-left" },
+                  { "label": "Kim", "color": "#6B3D10", "position": "top-left" }
+                ],
+                "edges": [
+                  { "from": "Thủy", "to": "Hỏa", "label": "nước dập lửa" },
+                  { "from": "Hỏa", "to": "Kim", "label": "lửa nung kim loại" },
+                  { "from": "Kim", "to": "Mộc", "label": "dao chặt cây" },
+                  { "from": "Mộc", "to": "Thổ", "label": "rễ hút đất" },
+                  { "from": "Thổ", "to": "Thủy", "label": "đất chặn nước" }
+                ]
+              }
+            }
+          },
+          {
+            "title": "Ứng dụng trong Tử Vi",
+            "body": "Khi đọc lá số, bạn sẽ thấy các sao có **hành** riêng. Quan hệ giữa sao và **cung** (cũng có hành) sẽ quyết định sao đó **đắc địa** (sinh) hay **hãm địa** (khắc).",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Ví dụ: Sao Tử Vi thuộc **Thổ**. Khi vào cung có hành **Hỏa** (Hỏa sinh Thổ) → đắc địa, phát huy mạnh."
+              },
+              {
+                "type": "application",
+                "text": "Ngược lại, sao thuộc **Mộc** vào cung **Kim** (Kim khắc Mộc) → hãm địa, bị kiềm chế."
+              },
+              {
+                "type": "note",
+                "text": "Đây là một trong những lý do hai người cùng có sao Tử Vi mà số mệnh lại khác nhau — vì sao đó nằm ở cung có hành khác."
+              }
+            ],
+            "visual": {
+              "kind": "interactive-ngu-hanh",
+              "caption": "Sơ đồ Ngũ hành tương tác — bấm hành để xem quan hệ",
+              "data": {}
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Quan hệ nào sau đây là **tương sinh**?",
+          "options": [
+            "Thủy khắc Hỏa",
+            "Mộc sinh Hỏa",
+            "Kim khắc Mộc",
+            "Thổ khắc Thủy"
+          ],
+          "answer": 1,
+          "explanation": "**Mộc sinh Hỏa** — củi gỗ nhóm lửa. Đây là một mắt xích trong vòng tương sinh **Thủy → Mộc → Hỏa → Thổ → Kim → Thủy**. Các đáp án còn lại đều là quan hệ tương **khắc**."
+        },
+        {
+          "question": "Tại sao 'Kim khắc Mộc' không có nghĩa là 'phá hoại'?",
+          "options": [
+            "Vì Kim không thực sự chặt được Mộc",
+            "Vì khắc = chế ngự để cân bằng, không phải hủy hoại — như dao chặt cây để tạo hình",
+            "Vì Kim yếu hơn Mộc",
+            "Vì Tử Vi không dùng tương khắc"
+          ],
+          "answer": 1,
+          "explanation": "**Tương khắc** trong Ngũ hành = **chế ngự để giữ cân bằng**. Dao chặt cây không phải để giết cây, mà để **tạo hình** — biến gỗ thành đồ dùng. Tương tự, lửa nung kim loại để tôi luyện thành công cụ. Đây là cơ chế tự nhiên giữ hệ thống không phình ra."
+        },
+        {
+          "question": "Sao thuộc hành Hỏa khi vào cung có hành Mộc thì sẽ thế nào?",
+          "options": [
+            "Hãm địa, bị khắc",
+            "Đắc địa, được sinh — vì Mộc sinh Hỏa",
+            "Trung bình, không ảnh hưởng",
+            "Biến mất khỏi cung"
+          ],
+          "answer": 1,
+          "explanation": "**Mộc sinh Hỏa** — Mộc nuôi Hỏa. Khi sao Hỏa nằm trong cung Mộc, sao được **nuôi dưỡng** và phát huy mạnh — đây gọi là **đắc địa**. Đây là một trong các cách Tử Vi đánh giá sức mạnh của sao trong từng cung cụ thể."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Có cách nào nhớ nhanh vòng tương sinh không?",
+          "answer": "Có. Hình dung **một khu rừng**: **Thủy** (nước) → tưới **Mộc** (cây) → **Mộc** đốt thành **Hỏa** (lửa) → **Hỏa** tàn thành **Thổ** (tro đất) → **Thổ** chứa **Kim** (quặng) → **Kim** lạnh ngưng tụ thành **Thủy** (nước). Mỗi bước là một quan sát thực tế, không cần học thuộc lòng."
+        },
+        {
+          "question": "Tương khắc có phải lúc nào cũng xấu?",
+          "answer": "Không. Tương khắc **giữ cân bằng**. Nếu Mộc không bị Kim khắc, cây sẽ mọc không ngừng. Nếu Hỏa không bị Thủy khắc, lửa sẽ cháy mãi. Trong Tử Vi, một sao khắc có thể là điểm yếu — nhưng cũng có thể là **kỷ luật**, **giới hạn** giúp người ta không vượt quá sức."
+        },
+        {
+          "question": "Ngoài tương sinh và tương khắc còn quan hệ nào nữa không?",
+          "answer": "Có. Người xưa còn phân biệt **tương thừa** (khắc quá mức) và **tương vũ** (khắc ngược chiều) — khi cân bằng bị phá vỡ. Đây là nội dung nâng cao, sẽ học sau khi đã quen với hai vòng cơ bản."
+        }
+      ]
+    },
+    {
+      "id": "thai-cuc",
+      "slug": "thai-cuc",
+      "title": "Thái cực — Vô cực sinh Âm Dương",
+      "module": "A",
+      "order": 4,
+      "duration_minutes": 14,
+      "story_hook": "Trước khi có ngày và đêm, trước khi có nóng và lạnh — có gì? Người xưa đặt tên cho cái 'trước nhất' đó: **Vô cực**. Và từ Vô cực, mọi thứ bắt đầu.",
+      "key_metaphor": "Mặt hồ lúc nửa đêm — phẳng lì, không gợn sóng, không 'trên' cũng không 'dưới'. Đó là **Vô cực**. Một làn gió thổi qua, mặt nước chuyển động — sóng có đỉnh và đáy, sáng và tối. Đó là **Thái cực sinh Âm Dương**.",
+      "content": {
+        "sections": [
+          {
+            "title": "Vô cực — Trạng thái nguyên thủy",
+            "body": "**Vô cực** (無極) nghĩa đen là 'không có cực'. Đó là trạng thái **chưa phân chia**, chưa có đối lập, chưa có chuyển động.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Vô cực** = trạng thái nguyên thủy, đồng nhất, không phân biệt."
+              },
+              {
+                "type": "example",
+                "text": "Nước đứng yên trong bình kín — không có gió, không có nhiệt, không có chuyển động. Đó là hình ảnh gần nhất của Vô cực."
+              },
+              {
+                "type": "note",
+                "text": "Vô cực KHÔNG phải là 'hư không'. Nó là **tiềm năng** — chưa biểu hiện, nhưng chứa khả năng biểu hiện."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thái cực — Khoảnh khắc khởi đầu",
+            "body": "**Thái cực** (太極) nghĩa đen là 'cực lớn'. Khi Vô cực bắt đầu chuyển động, nó trở thành Thái cực — trạng thái **có khả năng phân chia** thành Âm và Dương.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Thái cực** = trạng thái khởi nguồn của vũ trụ, vẫn nhất thể nhưng đã có 'mầm' phân chia."
+              },
+              {
+                "type": "example",
+                "text": "Mặt hồ vừa nhận làn gió đầu tiên — chưa thấy sóng rõ rệt, nhưng đã có chuyển động. Đó là Thái cực."
+              },
+              {
+                "type": "note",
+                "text": "Biểu tượng Thái cực = vòng tròn chia hai cực xoắn vào nhau, có một chấm Dương trong Âm và một chấm Âm trong Dương."
+              }
+            ],
+            "visual": {
+              "kind": "infographic",
+              "caption": "Biểu tượng Thái cực — chứa cả Âm và Dương nhưng chưa tách rời",
+              "data": {
+                "type": "taichi",
+                "labels": {
+                  "yang": "Mầm Dương trong Âm",
+                  "yin": "Mầm Âm trong Dương"
+                },
+                "description": "Hai chấm nhỏ ngược màu biểu thị 'Vạn vật chưa tách hoàn toàn — trong cái này luôn có mầm cái kia'."
+              }
+            }
+          },
+          {
+            "title": "Trình tự sinh thành: Vô cực → Thái cực → Lưỡng nghi",
+            "body": "Trong triết học phương Đông, có một câu nổi tiếng: **'Vô cực nhi Thái cực, Thái cực sinh Lưỡng nghi'**. Đây là **3 bước** sinh thành mà mọi vật đều trải qua.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Bước 1:** Vô cực — chưa có gì, chỉ có tiềm năng."
+              },
+              {
+                "type": "definition",
+                "text": "**Bước 2:** Thái cực — bắt đầu chuyển động, chưa tách."
+              },
+              {
+                "type": "definition",
+                "text": "**Bước 3:** Lưỡng nghi — chính là **Âm và Dương** đã tách ra rõ rệt."
+              },
+              {
+                "type": "application",
+                "text": "Một ý tưởng trong đầu cũng vậy: ban đầu mơ hồ (Vô cực) → bắt đầu rõ dần (Thái cực) → cuối cùng phân thành 'điểm tốt — điểm xấu' để cân nhắc (Lưỡng nghi)."
+              }
+            ],
+            "visual": {
+              "kind": "timeline",
+              "caption": "3 bước sinh thành: từ trạng thái không phân biệt đến Âm Dương rõ rệt",
+              "data": {
+                "steps": [
+                  { "label": "Vô cực", "subtitle": "Chưa phân chia" },
+                  { "label": "Thái cực", "subtitle": "Bắt đầu chuyển động" },
+                  { "label": "Lưỡng nghi", "subtitle": "Âm — Dương tách rời" }
+                ]
+              }
+            }
+          },
+          {
+            "title": "Vì sao Tử Vi cần Thái cực?",
+            "body": "Tử Vi xem một lá số là một **'Thái cực thu nhỏ'** — chứa đủ Âm, Dương và 5 hành. Đọc lá số là đọc **chuyển động** của các cực, không phải đọc tĩnh.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Một sao 'xấu' không nằm yên — nó luôn ở trong dòng chuyển hóa. Đến lúc Âm cực thì Dương sinh, đến lúc xấu cực thì điều tốt xuất hiện."
+              },
+              {
+                "type": "note",
+                "text": "Đây là lý do thầy Tử Vi luôn nhìn vận hạn theo **chu kỳ** chứ không chốt một lần là 'tốt' hay 'xấu' suốt đời."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Câu nào sau đây mô tả ĐÚNG về Vô cực?",
+          "options": [
+            "Vô cực là hư không, không có gì",
+            "Vô cực là trạng thái chưa phân chia nhưng chứa tiềm năng biểu hiện",
+            "Vô cực là phần Âm của Thái cực",
+            "Vô cực chỉ tồn tại trong sách vở"
+          ],
+          "answer": 1,
+          "explanation": "**Vô cực** KHÔNG phải hư không. Nó là **trạng thái nguyên thủy** — chưa biểu hiện ra Âm/Dương, nhưng đã chứa **tiềm năng** biểu hiện. Ví như nước trong bình kín: yên lặng nhưng vẫn có thể chuyển động khi có tác nhân."
+        },
+        {
+          "question": "Câu 'Vô cực nhi Thái cực' có nghĩa là gì?",
+          "options": [
+            "Vô cực và Thái cực là hai trạng thái khác nhau hoàn toàn",
+            "Vô cực chính là Thái cực — chuyển trạng thái khi bắt đầu chuyển động",
+            "Thái cực sinh ra Vô cực",
+            "Không có quan hệ giữa hai khái niệm"
+          ],
+          "answer": 1,
+          "explanation": "'Vô cực nhi Thái cực' = Vô cực **chính là** Thái cực — chỉ khác nhau ở **trạng thái**. Khi tĩnh hoàn toàn là Vô cực, khi bắt đầu chuyển động là Thái cực. Cùng một thực thể, hai biểu hiện khác nhau."
+        },
+        {
+          "question": "Vì sao Tử Vi nhìn lá số như một 'Thái cực thu nhỏ'?",
+          "options": [
+            "Vì lá số có hình tròn",
+            "Vì lá số chứa các cực Âm/Dương đang chuyển hóa theo chu kỳ — không phải bảng tĩnh",
+            "Vì lá số dùng chữ Hán",
+            "Vì lá số chỉ áp dụng cho người sinh ra ban ngày"
+          ],
+          "answer": 1,
+          "explanation": "Lá số là một **hệ thống động** — các cung, các sao luôn ở trong dòng chuyển hóa giữa Âm và Dương. Đó là lý do **vận hạn** thay đổi: đến lúc Âm cực thì Dương sinh, đến lúc bĩ cực thì thái lai."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Vô cực có thật trong đời sống không, hay chỉ là khái niệm trừu tượng?",
+          "answer": "Vừa thật vừa trừu tượng. Trong thiền định, người ta gọi trạng thái 'tâm tĩnh lặng tuyệt đối' là Vô cực. Trong vật lý, không gian chân không gần với khái niệm này. Vô cực là **trạng thái lý tưởng** — ta tiệm cận nhưng khó đạt tuyệt đối."
+        },
+        {
+          "question": "Tại sao biểu tượng Thái cực lại có 2 chấm ngược màu?",
+          "answer": "Hai chấm ngược màu thể hiện nguyên lý: **trong Âm có mầm Dương, trong Dương có mầm Âm**. Không có cái nào tinh khiết 100%. Đây là lý do mọi sự vật đều có thể chuyển hóa — vì đã chứa sẵn mầm của đối lập."
+        },
+        {
+          "question": "Học Thái cực có giúp đọc lá số tốt hơn không?",
+          "answer": "Có. Hiểu Thái cực giúp bạn **không kết luận vội**. Khi thấy một sao xấu, bạn biết nó là một phần của chu kỳ — sẽ chuyển hóa. Khi thấy sao tốt, bạn biết nó cũng không tồn tại mãi. Đây là tinh thần cốt lõi của Tử Vi: **đọc chuyển động, không đọc tĩnh**."
+        }
+      ]
+    },
+    {
+      "id": "tu-tuong",
+      "slug": "tu-tuong",
+      "title": "Tứ tượng — Bốn trạng thái của Âm Dương",
+      "module": "A",
+      "order": 5,
+      "duration_minutes": 16,
+      "story_hook": "Chia Âm và Dương xong, người xưa thấy: 'Trong Dương đang lên cao, vẫn còn chút Âm. Trong Âm đang đậm, vẫn có mầm Dương'. Chia mịn ra thành **4 trạng thái** — gọi là **Tứ tượng**.",
+      "key_metaphor": "Bốn mùa trong năm — **Xuân** (Dương mới chớm), **Hạ** (Dương đỉnh cao), **Thu** (Âm bắt đầu), **Đông** (Âm cực thịnh). Mỗi mùa là một trạng thái, không bao giờ dừng — luôn chuyển sang mùa kế tiếp.",
+      "content": {
+        "sections": [
+          {
+            "title": "Vì sao chia thành 4, không phải 2?",
+            "body": "Chia Âm — Dương chỉ thành 2 thì **quá thô**. Không mô tả được giai đoạn 'Dương đang lên' khác với 'Dương đỉnh cao'. Chia thành 4 = chia mịn hơn, mô tả được cả **vận động** chứ không chỉ trạng thái.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lưỡng nghi** (2): Âm — Dương — mô tả trạng thái."
+              },
+              {
+                "type": "definition",
+                "text": "**Tứ tượng** (4): chia Âm và Dương thành các giai đoạn lên — đỉnh — xuống."
+              },
+              {
+                "type": "note",
+                "text": "Tứ tượng là **cầu nối** giữa Lưỡng nghi (2) và Bát quái (8). Không có Tứ tượng, không có Bát quái."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bốn trạng thái: Thái Dương, Thiếu Dương, Thiếu Âm, Thái Âm",
+            "body": "Mỗi trạng thái biểu thị một **giai đoạn** của Âm Dương. Hiểu 4 trạng thái này, bạn hiểu **chu kỳ** của mọi sự vật.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Thái Dương** (☰ hai vạch liền): Dương cực thịnh. Tương ứng: **Hạ chí, giữa trưa, mùa hè**."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiếu Dương** (☱ Dương trên Âm dưới): Dương đang lên. Tương ứng: **Xuân phân, sáng sớm, mùa xuân**."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiếu Âm** (☲ Âm trên Dương dưới): Âm đang lên. Tương ứng: **Thu phân, chiều tà, mùa thu**."
+              },
+              {
+                "type": "definition",
+                "text": "**Thái Âm** (☷ hai vạch đứt): Âm cực thịnh. Tương ứng: **Đông chí, nửa đêm, mùa đông**."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Đối chiếu Tứ tượng với mùa, giờ và hướng",
+              "data": {
+                "headers": ["Tượng", "Trạng thái", "Mùa", "Giờ", "Hướng"],
+                "rows": [
+                  ["Thái Dương", "Dương cực thịnh", "Hạ", "Giữa trưa", "Nam"],
+                  ["Thiếu Dương", "Dương đang lên", "Xuân", "Sáng sớm", "Đông"],
+                  ["Thiếu Âm", "Âm đang lên", "Thu", "Chiều tà", "Tây"],
+                  ["Thái Âm", "Âm cực thịnh", "Đông", "Nửa đêm", "Bắc"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Tứ tượng vận hành trong tự nhiên",
+            "body": "Bốn trạng thái KHÔNG cố định — chúng **xoay vòng** liên tục. Hết Thái Âm là Thiếu Dương xuất hiện. Hết Thái Dương là Thiếu Âm xuất hiện. Cứ thế, không bao giờ ngừng.",
+            "chunks": [
+              {
+                "type": "example",
+                "text": "**Trong ngày:** nửa đêm (Thái Âm) → sáng sớm (Thiếu Dương) → giữa trưa (Thái Dương) → chiều tà (Thiếu Âm) → quay lại nửa đêm."
+              },
+              {
+                "type": "example",
+                "text": "**Trong năm:** đông (Thái Âm) → xuân (Thiếu Dương) → hạ (Thái Dương) → thu (Thiếu Âm) → quay lại đông."
+              },
+              {
+                "type": "application",
+                "text": "**Trong đời người:** ấu thơ (Thiếu Dương) → trưởng thành (Thái Dương) → trung niên (Thiếu Âm) → tuổi già (Thái Âm) → tái sinh thế hệ mới."
+              }
+            ],
+            "visual": {
+              "kind": "infographic",
+              "caption": "Vòng xoay 4 trạng thái — không có điểm kết, chỉ có chuyển hóa liên tục",
+              "data": {
+                "type": "pentagon",
+                "mode": "sinh",
+                "nodes": [
+                  { "label": "Thái Dương", "color": "#C0321E", "position": "top" },
+                  { "label": "Thiếu Âm", "color": "#C9881A", "position": "top-right" },
+                  { "label": "Thái Âm", "color": "#0F4F41", "position": "bottom-right" },
+                  { "label": "Thiếu Dương", "color": "#2A8A72", "position": "bottom-left" },
+                  { "label": "Thái Dương", "color": "#C0321E", "position": "top-left" }
+                ],
+                "edges": [
+                  { "from": "Thái Dương", "to": "Thiếu Âm", "label": "đỉnh chuyển xuống" },
+                  { "from": "Thiếu Âm", "to": "Thái Âm", "label": "Âm sâu hơn" },
+                  { "from": "Thái Âm", "to": "Thiếu Dương", "label": "Âm cực sinh Dương" },
+                  { "from": "Thiếu Dương", "to": "Thái Dương", "label": "Dương lên đỉnh" }
+                ]
+              }
+            }
+          },
+          {
+            "title": "Liên hệ Tử Vi — Vì sao mỗi cung có 'khí' riêng",
+            "body": "Trong 12 cung của lá số Tử Vi, mỗi cung mang một **'khí'** của Tứ tượng. Đây là lý do **cùng một sao** vào hai cung khác nhau lại biểu hiện khác hẳn.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Cung **Ngọ** (giữa trưa, hướng Nam) mang khí **Thái Dương** — mọi sao vào đây đều có xu hướng phát huy mạnh nhất."
+              },
+              {
+                "type": "application",
+                "text": "Cung **Tý** (nửa đêm, hướng Bắc) mang khí **Thái Âm** — sao vào đây thường ẩn, sâu sắc, hướng nội."
+              },
+              {
+                "type": "note",
+                "text": "Bạn sẽ học chi tiết 12 cung và khí của chúng ở **Giai đoạn 3**."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Vì sao người xưa chia Âm Dương thành Tứ tượng (4) thay vì giữ ở Lưỡng nghi (2)?",
+          "options": [
+            "Vì số 4 đẹp hơn số 2",
+            "Vì cần mô tả các giai đoạn trung gian: Dương đang lên, Dương đỉnh, Âm đang lên, Âm đỉnh",
+            "Vì Bát quái yêu cầu phải có 4 tượng trước",
+            "Vì Âm và Dương không đủ chính xác"
+          ],
+          "answer": 1,
+          "explanation": "**Lưỡng nghi** (Âm — Dương) chỉ mô tả **trạng thái**. **Tứ tượng** chia mịn hơn để mô tả **vận động**: giai đoạn lên (Thiếu Dương), đỉnh (Thái Dương), giai đoạn xuống (Thiếu Âm), đáy (Thái Âm). Đây là cầu nối quan trọng dẫn tới Bát quái sau này."
+        },
+        {
+          "question": "Mùa nào sau đây ứng với Thiếu Dương — Dương mới chớm?",
+          "options": ["Xuân", "Hạ", "Thu", "Đông"],
+          "answer": 0,
+          "explanation": "**Xuân** = giai đoạn Dương **mới bắt đầu lên** sau mùa Đông. Tương ứng với **Thiếu Dương** — Dương còn yếu nhưng đang phát triển. Hạ = Thái Dương (đỉnh), Thu = Thiếu Âm (Âm chớm), Đông = Thái Âm (đáy)."
+        },
+        {
+          "question": "Tại sao Tử Vi nói cùng một sao Tử Vi ở cung Ngọ và cung Tý lại biểu hiện khác nhau?",
+          "options": [
+            "Vì hai cung dùng quy tắc tính khác nhau",
+            "Vì hai cung mang 'khí' Tứ tượng khác nhau — Ngọ là Thái Dương, Tý là Thái Âm",
+            "Vì cung Ngọ tốt hơn cung Tý",
+            "Vì người xưa nhầm lẫn"
+          ],
+          "answer": 1,
+          "explanation": "Mỗi cung mang một **'khí'** trong Tứ tượng — phản ánh thời gian/hướng tương ứng. **Ngọ** (giữa trưa, hướng Nam) = Thái Dương → mọi sao phát huy mạnh, hướng ngoại. **Tý** (nửa đêm, hướng Bắc) = Thái Âm → mọi sao trở nên ẩn, hướng nội."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tứ tượng có phải là Bát quái nhỏ không?",
+          "answer": "Không. Tứ tượng (4) và Bát quái (8) là **hai cấp** khác nhau. Tứ tượng = chia Âm Dương thành 4. Bát quái = chia tiếp Tứ tượng thành 8. Theo trình tự: **Lưỡng nghi (2) → Tứ tượng (4) → Bát quái (8)** — mỗi bước chia đôi."
+        },
+        {
+          "question": "Vì sao mùa hè được gọi là 'Thái Dương' chứ không phải 'Thái Hỏa'?",
+          "answer": "'Thái Dương' chỉ **trạng thái Âm Dương**, không chỉ Ngũ hành. Mùa hè vừa thuộc **Hỏa** (trong Ngũ hành) vừa thuộc **Thái Dương** (trong Tứ tượng) — hai hệ thống phân loại khác nhau cho cùng một hiện tượng. Đông y và Tử Vi dùng cả hai cùng lúc."
+        },
+        {
+          "question": "Tôi sinh vào lúc Thái Âm (nửa đêm) thì có ảnh hưởng gì không?",
+          "answer": "Có. Trong Tử Vi, **giờ sinh** quyết định cung Mệnh và 'khí' bản gốc của lá số. Sinh giờ Tý (Thái Âm) thường liên quan đến tính cách trầm tĩnh, suy nghĩ sâu, hướng nội. Tuy nhiên, đây chỉ là một yếu tố — cần kết hợp với cung Mệnh, sao chính tinh để có kết luận đầy đủ."
+        }
+      ]
+    },
+    {
+      "id": "bang-quy-chieu-ngu-hanh",
+      "slug": "bang-quy-chieu-ngu-hanh",
+      "title": "Bảng quy chiếu Âm Dương Ngũ Hành — Bản đồ vạn vật",
+      "module": "A",
+      "order": 6,
+      "duration_minutes": 20,
+      "story_hook": "Tại sao Đông y nói **gan thuộc Mộc**, **tim thuộc Hỏa**? Tại sao màu xanh tốt cho gan, màu đỏ tốt cho tim? Người xưa xếp **mọi thứ** vào một bảng — bảng này chính là 'bản đồ vạn vật' của triết học phương Đông.",
+      "key_metaphor": "Như bảng tuần hoàn hóa học — nhưng thay vì xếp nguyên tố, người xưa xếp **thuộc tính**. Mỗi cột là một hành, mỗi dòng là một lĩnh vực (tạng phủ, màu, vị, hướng, mùa...). Thuộc bảng này, bạn đọc được lá số, đọc được cơ thể, đọc được không gian.",
+      "content": {
+        "sections": [
+          {
+            "title": "Vì sao cần một bảng tổng?",
+            "body": "Học Âm Dương Ngũ Hành rời rạc thì khó nhớ và khó áp dụng. **Bảng quy chiếu** gom toàn bộ vào **một trang** — mỗi cột là một hành, mỗi dòng là một lĩnh vực đời sống.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "Bảng này KHÔNG phải để học thuộc lòng cứng nhắc. Quan trọng là **hiểu logic**: vì sao gan thuộc Mộc, vì sao tim thuộc Hỏa."
+              },
+              {
+                "type": "application",
+                "text": "Dùng bảng: 1) Đọc lá số Tử Vi (sao thuộc hành nào, cung thuộc hành nào). 2) Đông y (chữa bệnh theo hành). 3) Phong thủy (sắp xếp không gian theo hành)."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bảng quy chiếu chính — 7 lĩnh vực × 5 hành",
+            "body": "Đây là **bảng cốt lõi** bạn cần đọc đi đọc lại đến khi quen mặt. Học theo từng cột (một hành) sẽ dễ nhớ hơn học theo dòng.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Mộc:** gan, mật, mắt, mùa xuân, hướng đông, màu xanh, vị chua, cảm xúc giận."
+              },
+              {
+                "type": "definition",
+                "text": "**Hỏa:** tim, ruột non, lưỡi, mùa hạ, hướng nam, màu đỏ, vị đắng, cảm xúc vui."
+              },
+              {
+                "type": "definition",
+                "text": "**Thổ:** lách (tỳ), dạ dày, miệng, cuối mùa, hướng trung ương, màu vàng, vị ngọt, cảm xúc lo."
+              },
+              {
+                "type": "definition",
+                "text": "**Kim:** phổi, ruột già, mũi, mùa thu, hướng tây, màu trắng, vị cay, cảm xúc buồn."
+              },
+              {
+                "type": "definition",
+                "text": "**Thủy:** thận, bàng quang, tai, mùa đông, hướng bắc, màu đen, vị mặn, cảm xúc sợ."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Bảng tổng — học thuộc bảng này là bạn đã có 'từ điển' để đọc Tử Vi và Đông y",
+              "data": {
+                "headers": ["Lĩnh vực", "Mộc", "Hỏa", "Thổ", "Kim", "Thủy"],
+                "rows": [
+                  ["Mùa", "Xuân", "Hạ", "Cuối mùa", "Thu", "Đông"],
+                  ["Hướng", "Đông", "Nam", "Trung", "Tây", "Bắc"],
+                  ["Màu", "Xanh", "Đỏ", "Vàng", "Trắng", "Đen"],
+                  ["Vị", "Chua", "Đắng", "Ngọt", "Cay", "Mặn"],
+                  ["Ngũ tạng", "Gan", "Tim", "Lách (Tỳ)", "Phổi", "Thận"],
+                  ["Lục phủ", "Mật", "Ruột non", "Dạ dày", "Ruột già", "Bàng quang"],
+                  ["Giác quan", "Mắt", "Lưỡi", "Miệng", "Mũi", "Tai"],
+                  ["Cảm xúc", "Giận", "Vui", "Lo", "Buồn", "Sợ"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Cách dùng bảng — Đọc người qua Ngũ hành",
+            "body": "Khi quen bảng, bạn có thể **đoán hành nổi trội** của một người qua các dấu hiệu đơn giản. Đây là bài tập đầu tiên trước khi học lá số.",
+            "chunks": [
+              {
+                "type": "example",
+                "text": "Người **nói nhanh, hay cười, thích màu đỏ, ưa vị đắng (cafe), hay nóng nảy** → có thể **Hỏa nổi trội**."
+              },
+              {
+                "type": "example",
+                "text": "Người **chậm rãi, kiên nhẫn, thích ăn ngọt, hay lo lắng, dáng tròn đầy** → có thể **Thổ nổi trội**."
+              },
+              {
+                "type": "example",
+                "text": "Người **kỷ luật, thích trắng tinh, vị cay, hay trầm buồn, da trắng xanh** → có thể **Kim nổi trội**."
+              },
+              {
+                "type": "note",
+                "text": "Đây chỉ là **gợi ý sơ bộ**. Đoán đúng cần kết hợp nhiều dấu hiệu, không kết luận chỉ từ một."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Cầu nối sang Tử Vi — Sao có hành, cung có hành",
+            "body": "Trong Tử Vi, **mỗi sao** và **mỗi cung** đều thuộc một hành cụ thể. Đọc lá số = đọc tương quan Ngũ hành giữa sao và cung.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Sao Tử Vi** thuộc **Thổ** — chủ về 'đế tinh', đứng đầu. Khi vào cung có hành **Hỏa** (Hỏa sinh Thổ) → đắc địa, phát huy mạnh."
+              },
+              {
+                "type": "application",
+                "text": "**Sao Thiên Cơ** thuộc **Mộc** — chủ về trí tuệ, tính toán. Khi vào cung **Kim** (Kim khắc Mộc) → khả năng bị kìm hãm."
+              },
+              {
+                "type": "note",
+                "text": "Bạn sẽ học chi tiết **14 chính tinh** và hành của chúng ở **Giai đoạn 3**. Bảng quy chiếu là **nền tảng** để hiểu giai đoạn đó."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Theo bảng quy chiếu, **gan** thuộc hành nào?",
+          "options": ["Hỏa", "Mộc", "Kim", "Thủy"],
+          "answer": 1,
+          "explanation": "**Gan thuộc Mộc**. Logic: Mộc = mùa xuân = sinh trưởng. Gan trong Đông y là cơ quan **chủ về điều hòa, vận động** — giống tính chất 'vươn lên' của Mộc. Đây là lý do màu xanh (Mộc) tốt cho gan, vị chua (Mộc) kích thích gan."
+        },
+        {
+          "question": "Một người hay nóng nảy, thích màu đỏ, dáng cao gầy, nói nhanh — có thể nổi trội hành nào?",
+          "options": ["Thổ", "Thủy", "Hỏa", "Kim"],
+          "answer": 2,
+          "explanation": "**Hỏa**. Các dấu hiệu: nóng nảy (cảm xúc của Hỏa là 'vui' nhưng cực đoan thành 'nóng'), thích đỏ (màu của Hỏa), nói nhanh (Hỏa = bốc lên). Tuy nhiên đây chỉ là gợi ý — kết luận cần kết hợp nhiều dấu hiệu."
+        },
+        {
+          "question": "Khi nói 'sao thuộc Mộc đứng ở cung thuộc Kim sẽ bị hãm', logic dựa trên bảng quy chiếu là gì?",
+          "options": [
+            "Vì Mộc và Kim không liên quan",
+            "Vì Kim khắc Mộc theo vòng tương khắc — sao bị cung kìm hãm",
+            "Vì Mộc là hành yếu hơn Kim",
+            "Vì người xưa quy định ngẫu nhiên"
+          ],
+          "answer": 1,
+          "explanation": "Áp dụng quan hệ Ngũ hành đã học: **Kim khắc Mộc** (dao chặt cây). Trong Tử Vi, khi sao Mộc vào cung Kim → cung **chế ngự** sao → sao bị **hãm địa**. Đây là ứng dụng trực tiếp của vòng tương khắc đã học ở bài 3."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tôi không nhớ hết được bảng, có cần thuộc lòng không?",
+          "answer": "KHÔNG cần thuộc lòng từ đầu. Hãy nhớ **mẹo**: bắt đầu từ **mùa** (xuân-hạ-cuối-thu-đông) → tự suy ra hướng (đông-nam-trung-tây-bắc) → màu (xanh-đỏ-vàng-trắng-đen) theo logic tự nhiên. Tạng phủ thì học theo **chức năng** (gan vận động → Mộc, tim nóng → Hỏa)."
+        },
+        {
+          "question": "Đông y với Tử Vi dùng bảng này khác nhau thế nào?",
+          "answer": "Cùng bảng, nhưng **mục đích khác**. Đông y dùng để **chữa bệnh** (gan yếu → bổ vị chua, màu xanh). Tử Vi dùng để **đọc tương quan sao — cung** (sao thuộc hành A vào cung hành B → đắc hay hãm). Logic chung là **Ngũ hành sinh khắc**."
+        },
+        {
+          "question": "Một người có thể nổi trội nhiều hành cùng lúc không?",
+          "answer": "Có. **Bản mệnh là một hành**, nhưng tính cách và biểu hiện thường là **tổ hợp 2-3 hành**. Ví dụ một người có thể vừa **Hỏa** (năng động) vừa **Kim** (kỷ luật) — phù hợp nghề lãnh đạo cần cả nhiệt huyết và nguyên tắc. Tử Vi đọc cả lá số để hiểu tổ hợp này."
+        }
+      ]
+    }
+  ]
+}

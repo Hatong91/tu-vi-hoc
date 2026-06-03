@@ -1,0 +1,977 @@
+{
+  "phase": {
+    "id": "gd-4",
+    "title": "Giai đoạn 4 — Thực hành lập lá số & đọc vận hạn",
+    "subtitle": "Cục số · Đại vận · Lưu niên · Tiểu vận · Đọc lá số mẫu",
+    "summary": "Tổng hợp toàn bộ kiến thức để tự lập và đọc một lá số Tử Vi hoàn chỉnh — bao gồm hệ thống vận hạn theo thời gian.",
+    "modules": ["D"]
+  },
+  "lessons": [
+    {
+      "id": "dai-van-luu-nien",
+      "slug": "dai-van-luu-nien",
+      "title": "Đại vận & Lưu niên — Cách lá số chuyển động theo thời gian",
+      "module": "D",
+      "order": 1,
+      "duration_minutes": 22,
+      "story_hook": "Bạn có lá số cố định từ lúc sinh ra. Nhưng đời người **không đứng yên** — có những giai đoạn 'lên', có những giai đoạn 'xuống'. Tử Vi đo lường điều này bằng hệ thống **Đại Vận** (10 năm/lần) và **Lưu Niên** (1 năm/lần). Đây là cách lá số 'sống động' theo thời gian.",
+      "key_metaphor": "Như xem đồng hồ có 2 kim: **kim phút** (Lưu Niên) chạy nhanh — mỗi năm một bước; **kim giờ** (Đại Vận) chạy chậm — mỗi 10 năm một bước. Hai kim cùng chỉ vào một cung trên lá số = vận năm đó của bạn.",
+      "content": {
+        "sections": [
+          {
+            "title": "Cục số — Nền tảng của Đại Vận",
+            "body": "Trước khi tính Đại Vận, cần biết **'Cục'** — đại diện cho **chu kỳ bắt đầu vận**. Cục được tính từ **mệnh nạp âm**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**5 Cục** theo Ngũ hành: Kim Tứ Cục (4), Mộc Tam Cục (3), Thủy Nhị Cục (2), Hỏa Lục Cục (6), Thổ Ngũ Cục (5)."
+              },
+              {
+                "type": "definition",
+                "text": "**Số Cục = số năm bắt đầu Đại Vận đầu tiên**. Ví dụ: Hỏa Lục Cục → Đại Vận 1 bắt đầu từ 6 tuổi. Mỗi Đại Vận kéo dài 10 năm."
+              },
+              {
+                "type": "application",
+                "text": "Ví dụ: người mệnh **Lộ Bàng Thổ** (hành Thổ) → **Thổ Ngũ Cục** (số 5) → Đại Vận 1 từ 5 tuổi (5-14), Đại Vận 2 từ 15 tuổi (15-24), ..."
+              },
+              {
+                "type": "note",
+                "text": "Cách tính Cục từ mệnh nạp âm có quy tắc riêng — sẽ học chi tiết ở bài tiếp. Hiện chỉ cần biết: Cục quyết định **'bao nhiêu tuổi bắt đầu vận đầu tiên'**."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Bảng 5 Cục theo Ngũ hành — Số Cục = năm bắt đầu Đại Vận 1",
+              "data": {
+                "headers": ["Cục", "Hành", "Số Cục", "ĐV1 từ năm"],
+                "rows": [
+                  ["Thủy Nhị Cục", "Thủy", "2", "2 tuổi"],
+                  ["Mộc Tam Cục", "Mộc", "3", "3 tuổi"],
+                  ["Kim Tứ Cục", "Kim", "4", "4 tuổi"],
+                  ["Thổ Ngũ Cục", "Thổ", "5", "5 tuổi"],
+                  ["Hỏa Lục Cục", "Hỏa", "6", "6 tuổi"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Đại Vận — 10 năm một bước",
+            "body": "**Đại Vận** = vận lớn, mỗi vận **kéo dài 10 năm**. Đại Vận 1 đặt **TẠI CUNG MỆNH** (hoặc cung kế tiếp tùy giới tính). Các Đại Vận sau di chuyển sang cung kế.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Nam dương + Nữ âm:** Đại Vận đi **THUẬN** chiều kim đồng hồ qua 12 cung."
+              },
+              {
+                "type": "definition",
+                "text": "**Nam âm + Nữ dương:** Đại Vận đi **NGHỊCH** chiều kim đồng hồ."
+              },
+              {
+                "type": "application",
+                "text": "Ví dụ: Nam sinh Canh Ngọ (can Canh = Dương) → đại vận đi thuận. Đại Vận 1 ở cung Mệnh, Đại Vận 2 ở cung kế bên thuận, v.v."
+              },
+              {
+                "type": "note",
+                "text": "Sao tại cung Đại Vận hiện tại → quyết định 'kịch bản' 10 năm đó. Đây là lý do **vận 30s khác vận 40s** — cung khác → sao khác."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Lưu Niên — Vận năm",
+            "body": "**Lưu Niên** = vận năm hiện tại. Cung Lưu Niên = **cung trùng với Địa chi năm hiện tại**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lưu Niên ở cung có địa chi = chi năm hiện tại.** Ví dụ năm 2024 (Giáp Thìn) → Lưu Niên ở cung Thìn của lá số."
+              },
+              {
+                "type": "application",
+                "text": "Năm 2025 (Ất Tỵ) → Lưu Niên ở cung Tỵ. Bạn xem cung Tỵ có sao gì, **mang Hóa gì theo can Ất** (Hóa Lộc Thiên Cơ, Hóa Kỵ Thái Âm) → 'kịch bản' năm 2025."
+              },
+              {
+                "type": "note",
+                "text": "Quy tắc đọc: **Đại Vận + Lưu Niên cùng chiếu** = vận năm đó. Cả 2 tốt → năm cực thịnh. Cả 2 xấu → năm khó. Đối nghịch → cân bằng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tiểu Vận & các vòng khác",
+            "body": "Ngoài Đại Vận + Lưu Niên còn có **Tiểu Vận** (vận năm theo phương khác) và **Nguyệt** (vận tháng), **Nhật** (vận ngày). Ở mức cơ bản, **chỉ cần thuộc Đại Vận + Lưu Niên + Hóa năm**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tiểu Vận:** vận năm tính theo tuổi (giáp tý = 1, ất sửu = 2...). Một số trường phái dùng song song Lưu Niên."
+              },
+              {
+                "type": "definition",
+                "text": "**Nguyệt - Nhật vận:** vận tháng, vận ngày — chi tiết nhỏ hơn, dùng cho 'xem ngày tốt'."
+              },
+              {
+                "type": "note",
+                "text": "Nâng cao: kết hợp **Đại Vận + Lưu Niên + Tiểu Vận** để xác định 'năm nào trong vận có sự kiện gì'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Đọc vận hạn thực hành — Quy trình 4 bước",
+            "body": "Khi muốn xem vận năm cho ai đó, theo trình tự:",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Bước 1:** Xác định **Đại Vận hiện tại** (dựa theo tuổi + Cục). Cung Đại Vận này có sao gì?"
+              },
+              {
+                "type": "application",
+                "text": "**Bước 2:** Xác định **Lưu Niên** (cung có địa chi = năm hiện tại). Cung Lưu Niên có sao gì?"
+              },
+              {
+                "type": "application",
+                "text": "**Bước 3:** Tra **Hóa Lộc/Quyền/Khoa/Kỵ của năm** (theo can năm hiện tại) — chúng đậu vào sao nào trên lá số bạn?"
+              },
+              {
+                "type": "application",
+                "text": "**Bước 4:** Tổng hợp: Đại Vận + Lưu Niên + Hóa năm → kết luận 'năm này tốt cho lĩnh vực gì, cần tránh gì'."
+              },
+              {
+                "type": "note",
+                "text": "Quy trình này = **'30 phút đọc vận năm'** cho người mới. Càng làm nhiều càng nhanh và chính xác."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Một **Đại Vận** kéo dài bao nhiêu năm?",
+          "options": ["1", "5", "10", "12"],
+          "answer": 2,
+          "explanation": "**Đại Vận = 10 năm/vận**. Lưu Niên = 1 năm/vận (xem từng năm). 12 năm là chu kỳ Địa chi (không phải Đại Vận). Đại Vận di chuyển qua các cung 12 vòng → tròn 120 năm = một đời người."
+        },
+        {
+          "question": "Người mệnh **Hỏa Lục Cục** sẽ bắt đầu Đại Vận đầu tiên ở tuổi nào?",
+          "options": ["1 tuổi", "5 tuổi", "6 tuổi", "10 tuổi"],
+          "answer": 2,
+          "explanation": "**Hỏa Lục Cục → số 6 → Đại Vận 1 bắt đầu từ 6 tuổi**. Số Cục chính là **tuổi bắt đầu Đại Vận 1**. Vận 1 chạy 6-15 tuổi, Vận 2 chạy 16-25 tuổi, v.v. Cục khác nhau → mốc tuổi vận khác nhau."
+        },
+        {
+          "question": "Khi muốn biết **năm 2025 'kịch bản' gì** với mình, cần kết hợp những gì?",
+          "options": [
+            "Chỉ xem Đại Vận hiện tại",
+            "Đại Vận + Lưu Niên + Hóa năm (theo can năm)",
+            "Chỉ xem Lưu Niên",
+            "Chỉ tra Tứ Hóa năm"
+          ],
+          "answer": 1,
+          "explanation": "**Đại Vận + Lưu Niên + Hóa năm** = bộ 3 thông tin cần để xem vận năm. Đại Vận = 'kịch bản 10 năm', Lưu Niên = 'kịch bản 1 năm', Hóa năm = '4 sao kích hoạt theo can'. Kết hợp 3 → kết luận 'năm này tốt cho gì'."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Cách xác định Cục từ mệnh nạp âm như nào?",
+          "answer": "Quy tắc đơn giản: **Hành của mệnh nạp âm = hành của Cục**. Ví dụ Lộ Bàng Thổ → Thổ → Thổ Ngũ Cục (5). Hải Trung Kim → Kim → Kim Tứ Cục (4). Đại Lâm Mộc → Mộc → Mộc Tam Cục (3). Lư Trung Hỏa → Hỏa → Hỏa Lục Cục (6). Giản Hạ Thủy → Thủy → Thủy Nhị Cục (2)."
+        },
+        {
+          "question": "Đại Vận có chạy đến tuổi 90, 100 không?",
+          "answer": "Có. Đại Vận chạy hết 12 cung = 120 năm. Sau khi hết 12 vận, **lặp lại vòng** — nhưng đời người ít ai sống đủ 120 tuổi để 'gặp lại Đại Vận 1'. Người sống đến 80-90 thường đang ở Đại Vận thứ 7-8, các vận này thường nói về 'an dưỡng, gia tiên'."
+        },
+        {
+          "question": "Lưu Niên có ảnh hưởng mạnh hơn Đại Vận không?",
+          "answer": "**Đại Vận mạnh hơn về 'khung'** — quyết định 10 năm bạn 'ở giai đoạn nào của đời'. **Lưu Niên mạnh hơn về 'sự kiện cụ thể'** — quyết định năm cụ thể có chuyện gì. Hai cái bổ trợ: Đại Vận tốt + Lưu Niên xấu = năm khó trong giai đoạn tốt → vấn đề nhỏ. Đại Vận xấu + Lưu Niên xấu → năm khó thật."
+        },
+        {
+          "question": "Nam-Nữ tính Đại Vận khác nhau như nào?",
+          "answer": "**Quy tắc 'Nam dương + Nữ âm = thuận chiều'**. Nam sinh năm có can DƯƠNG (Giáp, Bính, Mậu, Canh, Nhâm) → Đại Vận đi thuận. Nữ sinh năm có can ÂM (Ất, Đinh, Kỷ, Tân, Quý) → cũng đi thuận. Ngược lại: Nam âm + Nữ dương → đi nghịch. Quy tắc này đảm bảo cân bằng âm dương trong tính vận."
+        }
+      ]
+    },
+    {
+      "id": "an-14-chinh-tinh",
+      "slug": "an-14-chinh-tinh",
+      "title": "An 14 chính tinh — Cách sao đứng vào cung",
+      "module": "D",
+      "order": 2,
+      "duration_minutes": 21,
+      "story_hook": "Đến giờ bạn đã biết 14 chính tinh và 12 cung. Nhưng làm sao **xác định sao nào ở cung nào** trên lá số cụ thể? Đó là **an sao** — bước cuối biến giờ sinh thành lá số đầy đủ.",
+      "key_metaphor": "Như xếp 14 quân cờ lên bàn 12 ô — mỗi quân có quy tắc đặt riêng. **Tử Vi** xếp đầu tiên (như tướng), các quân khác xếp theo dựa vào vị trí Tử Vi và Thiên Phủ. Một khi 'tướng' yên vị, cả đoàn quân tự xếp đúng.",
+      "content": {
+        "sections": [
+          {
+            "title": "Trình tự an 14 chính tinh",
+            "body": "Tử Vi đẩu số có quy tắc chặt: **không an sao tuỳ ý**. Trình tự cố định: Tử Vi → chòm Tử Vi → Thiên Phủ → chòm Thiên Phủ.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Bước 1:** An sao **Tử Vi** trước tiên — từ Cục số + ngày sinh."
+              },
+              {
+                "type": "definition",
+                "text": "**Bước 2:** An **5 sao còn lại của chòm Tử Vi** — Thiên Cơ, Thái Dương, Vũ Khúc, Thiên Đồng, Liêm Trinh — theo vị trí cố định so với Tử Vi."
+              },
+              {
+                "type": "definition",
+                "text": "**Bước 3:** An **Thiên Phủ** — luôn ở cung **đối xứng với Tử Vi qua trục Dần - Thân**."
+              },
+              {
+                "type": "definition",
+                "text": "**Bước 4:** An **7 sao còn lại của chòm Thiên Phủ** — Thái Âm, Tham Lang, Cự Môn, Thiên Tướng, Thiên Lương, Thất Sát, Phá Quân — theo vị trí cố định so với Thiên Phủ."
+              },
+              {
+                "type": "note",
+                "text": "Vì các vị trí đều cố định so với Tử Vi và Thiên Phủ, **chỉ cần biết Tử Vi ở đâu** là an được hết 14 sao."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "An Tử Vi — Cốt lõi của tất cả",
+            "body": "Vị trí Tử Vi phụ thuộc 2 yếu tố: **Cục số** (Thủy 2, Mộc 3, Kim 4, Thổ 5, Hỏa 6) và **ngày sinh âm lịch**. Công thức truyền thống dùng bảng tra.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Công thức nguyên lý:** lấy ngày sinh chia Cục số → được thương và dư → tra bảng quy đổi sang địa chi."
+              },
+              {
+                "type": "example",
+                "text": "Người **Hỏa Lục Cục** (Cục = 6), sinh **ngày 6** âm lịch: 6 ÷ 6 = 1, dư 0 → Tử Vi đặt tại **Dần** (vị trí khởi)."
+              },
+              {
+                "type": "example",
+                "text": "Người **Thổ Ngũ Cục** (Cục = 5), sinh **ngày 10** âm lịch: 10 ÷ 5 = 2, dư 0 → đếm thuận từ Dần 1 ô → Tử Vi tại **Mão**."
+              },
+              {
+                "type": "note",
+                "text": "**Trong thực tế:** dùng phần mềm hoặc bảng tra 30 ngày × 5 Cục (đã tính sẵn). Học thuộc công thức không bắt buộc — hiểu nguyên lý là đủ."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Chòm Tử Vi — Vị trí 6 sao",
+            "body": "Sau khi đặt Tử Vi, **5 sao còn lại của chòm Tử Vi** đặt theo trật tự cố định, **đi ngược chiều kim đồng hồ** từ Tử Vi.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "Vị trí so với Tử Vi: **Tử Vi (0), Thiên Cơ (-1), Thái Dương (-3), Vũ Khúc (-4), Thiên Đồng (-5), Liêm Trinh (-8)**."
+              },
+              {
+                "type": "example",
+                "text": "Tử Vi ở **Mão** → Thiên Cơ ở Dần, Thái Dương ở Tý, Vũ Khúc ở Hợi, Thiên Đồng ở Tuất, Liêm Trinh ở Mùi."
+              },
+              {
+                "type": "note",
+                "text": "Khoảng cách **không đều** (–1, –3, –4, –5, –8) — đây là quy luật cổ định không cần giải thích, học thuộc bảng là đủ."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Vị trí 6 sao chòm Tử Vi theo Tử Vi (đếm ngược chiều kim đồng hồ)",
+              "data": {
+                "headers": ["Sao", "Khoảng cách từ Tử Vi", "Ví dụ: Tử Vi tại Tý"],
+                "rows": [
+                  ["Tử Vi", "0 (gốc)", "Tý"],
+                  ["Thiên Cơ", "-1", "Hợi"],
+                  ["Thái Dương", "-3", "Dậu"],
+                  ["Vũ Khúc", "-4", "Thân"],
+                  ["Thiên Đồng", "-5", "Mùi"],
+                  ["Liêm Trinh", "-8", "Thìn"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Chòm Thiên Phủ — Vị trí 8 sao",
+            "body": "Sau Tử Vi, an **Thiên Phủ** — luôn nằm trên **trục Dần-Thân đối xứng với Tử Vi**. Từ Thiên Phủ, an tiếp 7 sao còn lại đi THUẬN chiều kim đồng hồ.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Thiên Phủ tại:** cung đối xứng Tử Vi qua **trục Dần-Thân** (đường chéo nối hai góc bàn lá số). Công thức: pos(Tử Vi) + pos(Thiên Phủ) ≡ **4 (mod 12)** — vì Dần (idx 2) + Dần = 4 và Thân (8) + Thân = 16 ≡ 4 (mod 12)."
+              },
+              {
+                "type": "example",
+                "text": "Tử Vi tại **Tý** → Thiên Phủ tại **Thìn** (0 + 4 = 4). Tử Vi tại **Mão** → Thiên Phủ tại **Sửu** (3 + 1 = 4). Tử Vi tại **Dần** hoặc **Thân** → Thiên Phủ trùng cung → **'đế tinh đồng cung'**, cách rất quý."
+              },
+              {
+                "type": "definition",
+                "text": "**Vị trí 7 sao còn lại so với Thiên Phủ** (đi THUẬN): Thái Âm (+1), Tham Lang (+2), Cự Môn (+3), Thiên Tướng (+4), Thiên Lương (+5), Thất Sát (+6), Phá Quân (+10)."
+              },
+              {
+                "type": "note",
+                "text": "**Trí nhớ nhanh:** chòm Tử Vi đi NGƯỢC chiều, chòm Thiên Phủ đi THUẬN chiều — hai chòm 'phản nhau'. Đây là biểu tượng Âm Dương đối ứng."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Vị trí 8 sao chòm Thiên Phủ (đếm thuận chiều kim đồng hồ)",
+              "data": {
+                "headers": ["Sao", "Khoảng cách từ Thiên Phủ", "Ví dụ: Thiên Phủ tại Thìn"],
+                "rows": [
+                  ["Thiên Phủ", "0 (gốc)", "Thìn"],
+                  ["Thái Âm", "+1", "Tỵ"],
+                  ["Tham Lang", "+2", "Ngọ"],
+                  ["Cự Môn", "+3", "Mùi"],
+                  ["Thiên Tướng", "+4", "Thân"],
+                  ["Thiên Lương", "+5", "Dậu"],
+                  ["Thất Sát", "+6", "Tuất"],
+                  ["Phá Quân", "+10", "Dần"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Đắc địa — Hãm địa: Sao có 'sướng' ở cung không?",
+            "body": "Sau khi an sao, kiểm tra **mỗi sao đắc hay hãm địa**. Quy tắc: hành của sao **tương sinh với hành cung** → đắc địa; **tương khắc** → hãm.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Tử Vi (Thổ) tại Ngọ (Hỏa)** → Hỏa sinh Thổ → đắc địa, sao 'phát huy'."
+              },
+              {
+                "type": "application",
+                "text": "**Thái Dương (Hỏa) tại Tý (Thủy)** → Thủy khắc Hỏa → hãm địa, 'mặt trời lặn'."
+              },
+              {
+                "type": "application",
+                "text": "**Thái Âm (Thủy) tại Hợi/Tý (Thủy)** → cùng hành → đắc địa, 'mặt trăng tròn'."
+              },
+              {
+                "type": "note",
+                "text": "Khi đọc lá số: **không chỉ xem sao gì** ở Mệnh — phải xem sao đó **mạnh hay yếu** ở vị trí đó. Sao tốt ở vị trí hãm có khi không bằng sao trung bình ở vị trí đắc."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Khi an sao Tử Vi, cần biết những thông tin gì?",
+          "options": [
+            "Năm sinh và giới tính",
+            "Cục số và ngày sinh âm lịch",
+            "Giờ sinh và tháng sinh",
+            "Chỉ cần năm sinh"
+          ],
+          "answer": 1,
+          "explanation": "**Cục số (từ mệnh nạp âm) + ngày sinh âm lịch** = 2 thông tin cần để an Tử Vi. Năm/tháng/giờ quyết định cung Mệnh, nhưng Tử Vi cần Cục số (Thủy 2, Mộc 3, Kim 4, Thổ 5, Hỏa 6) và ngày sinh để tính vị trí. Đây là sự kết hợp giữa **nạp âm** và **ngày âm lịch**."
+        },
+        {
+          "question": "Chòm Tử Vi an đi chiều nào, chòm Thiên Phủ đi chiều nào?",
+          "options": [
+            "Cả hai đều đi thuận",
+            "Cả hai đều đi nghịch",
+            "Chòm Tử Vi đi NGƯỢC, chòm Thiên Phủ đi THUẬN — phản nhau",
+            "Phụ thuộc giới tính"
+          ],
+          "answer": 2,
+          "explanation": "**Chòm Tử Vi đi ngược chiều kim đồng hồ, chòm Thiên Phủ đi thuận chiều** — hai chòm 'phản nhau' về hướng an, biểu tượng cho Âm-Dương đối ứng. Sau khi an Tử Vi, đi ngược để tìm 5 sao chòm Tử Vi. Sau khi an Thiên Phủ, đi thuận để tìm 7 sao chòm Thiên Phủ."
+        },
+        {
+          "question": "Sao **Tử Vi (Thổ)** tại cung **Ngọ (Hỏa)** thì sao?",
+          "options": [
+            "Hãm địa — Hỏa khắc Thổ",
+            "Đắc địa — Hỏa sinh Thổ, sao phát huy mạnh",
+            "Bình hòa — không ảnh hưởng",
+            "Biến mất khỏi cung"
+          ],
+          "answer": 1,
+          "explanation": "**Hỏa sinh Thổ** — vòng tương sinh đã học ở Module A. Tử Vi (Thổ) ở Ngọ (Hỏa) → cung **sinh** sao → sao **đắc địa** — phát huy hết tiềm năng. Đây là một trong những vị trí tốt nhất của Tử Vi (cùng với Sửu, Mùi — Thổ thuần)."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tôi không biết ngày sinh âm lịch — làm sao tra?",
+          "answer": "Dùng **bảng đổi dương-âm lịch** hoặc website lichvietnam.com. Lưu ý: **năm sinh âm có thể khác năm dương** nếu sinh đầu năm dương (ví dụ tháng 1, 2 dương) — vẫn thuộc năm âm trước đó. Khi sinh **trước Lập Xuân** (4-5/2 dương), thường vẫn dùng can chi năm dương trước."
+        },
+        {
+          "question": "Cách nhớ vị trí 14 sao có mẹo không?",
+          "answer": "Mẹo: nhớ **6 sao chòm Tử Vi** đi ngược: '0, -1, -3, -4, -5, -8' — bỏ khoảng -2, -6, -7. Nhớ **8 sao chòm Thiên Phủ** đi thuận: '0, +1, +2, +3, +4, +5, +6, +10' — đều cho đến +6, rồi nhảy lên +10 (Phá Quân). Sau 5-10 lá số sẽ tự nhớ."
+        },
+        {
+          "question": "Vì sao Thiên Phủ luôn đối xứng Tử Vi qua trục Dần-Thân?",
+          "answer": "Đây là quy tắc **'thiên-địa đối xứng'** — Tử Vi là 'đế của trời' (đi ngược), Thiên Phủ là 'đế của đất' (đi thuận). Hai đế phải **đối xứng qua trục giữa** của bàn lá số (trục Dần-Thân) để cân bằng. Khi Tử Vi và Thiên Phủ đồng cung tại Dần hoặc Thân → 'song đế đồng cung', rất đặc biệt."
+        },
+        {
+          "question": "App này có tự an 14 chính tinh không?",
+          "answer": "**Hiện tại chưa** — trang `/la-so` mới an 12 cung khung + nạp âm + cung Mệnh/Thân. Việc an 14 chính tinh là **deliverable tiếp theo** (Phase 4 nâng cao). Trong khi đó, bạn có thể dùng phần mềm Tử Vi miễn phí khác (như tuvi.cohoc.net) để xem lá số đầy đủ."
+        }
+      ]
+    },
+    {
+      "id": "phu-tinh-quan-trong",
+      "slug": "phu-tinh-quan-trong",
+      "title": "Phụ tinh quan trọng — 9 sao 'kích hoạt' chính tinh",
+      "module": "D",
+      "order": 3,
+      "duration_minutes": 19,
+      "story_hook": "14 chính tinh là 'nhân vật chính', nhưng lá số còn có **hơn 100 phụ tinh**. Trong số đó, **9 phụ tinh quan trọng nhất** quyết định 'kịch bản' của lá số — chúng làm 'sao tốt' tỏa sáng hơn, làm 'sao xấu' đỡ xấu đi.",
+      "key_metaphor": "Như diễn viên phụ trên sân khấu — không phải nhân vật chính nhưng đôi khi xuất hiện đúng lúc làm cả vở kịch sáng lên. Phụ tinh trong Tử Vi cũng vậy — một sao Lộc Tồn đến cung Tài có thể đổi cả vận tài lộc.",
+      "content": {
+        "sections": [
+          {
+            "title": "Tả Phụ - Hữu Bật — 2 trợ thủ đắc lực",
+            "body": "**Tả Phụ** (左輔) và **Hữu Bật** (右弼) là **2 sao trợ thủ** — chuyên 'phụ tá' chính tinh. Khi đứng cùng cung với Tử Vi → 'có triều thần', đắc đại quý.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tả Phụ:** Thổ Dương — phụ tá giàu kinh nghiệm, công khai."
+              },
+              {
+                "type": "definition",
+                "text": "**Hữu Bật:** Thủy Âm — phụ tá kín đáo, hậu trường."
+              },
+              {
+                "type": "application",
+                "text": "**Mệnh có Tử Vi + Tả Phụ + Hữu Bật** → 'có người trợ giúp' → thành công lớn, có cấp dưới đắc lực."
+              },
+              {
+                "type": "note",
+                "text": "Tả Phụ + Hữu Bật ở Quan Lộc → sự nghiệp vững. Ở Phu Thê → bạn đời là 'trợ thủ' tốt. Ở Tật Ách → sức khỏe có người chăm sóc."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Văn Xương - Văn Khúc — 2 sao văn chương",
+            "body": "**Văn Xương** (文昌) và **Văn Khúc** (文曲) là 2 sao **văn vẻ, học vấn, nghệ thuật**. Người Mệnh có 2 sao này → giỏi học hành, có tài viết lách.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Văn Xương:** Kim Dương — văn chính thống, học thuật, bằng cấp."
+              },
+              {
+                "type": "definition",
+                "text": "**Văn Khúc:** Thủy Âm — văn nghệ thuật, sáng tác, hùng biện."
+              },
+              {
+                "type": "application",
+                "text": "Văn Xương ở Mệnh → hợp học hành, thi cử, nghiên cứu. Văn Khúc ở Mệnh → hợp viết lách, sáng tạo, biểu diễn."
+              },
+              {
+                "type": "note",
+                "text": "**Văn Xương + Văn Khúc đồng cung** = 'song văn hội' → đại tài văn chương, có thể nổi tiếng. Tuy nhiên cũng dễ 'đa tình' do quá nhạy cảm."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Lộc Tồn - Thiên Mã — 2 sao tài lộc và di động",
+            "body": "**Lộc Tồn** (祿存) là **sao của tiền tài tích lũy**. **Thiên Mã** (天馬) là **sao của di động, đi xa**. Hai sao này quan trọng khi xem Tài Bạch và Thiên Di.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lộc Tồn:** Thổ Âm — sao chính của tiền tài. 'Lộc đến đâu, tiền đến đó'."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiên Mã:** Hỏa Dương — sao di động. Đi xa, du lịch, di cư, làm ăn nơi khác."
+              },
+              {
+                "type": "application",
+                "text": "**Lộc Tồn + Thiên Mã đồng cung** = 'Lộc Mã giao trì' → tài lộc đến từ di động, làm ăn xa rất phát. Người mệnh này hợp xuất ngoại."
+              },
+              {
+                "type": "note",
+                "text": "**Lộc Tồn rất 'thân' Hóa Lộc** — khi Lộc Tồn + Hóa Lộc cùng cung → 'song lộc' → tài vận đặc biệt mạnh."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Khôi Việt — 2 sao 'quý nhân'",
+            "body": "**Thiên Khôi** (天魁) và **Thiên Việt** (天鉞) là **2 sao quý nhân** — chỉ những người 'cứu giúp' bạn vào lúc khó khăn.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Thiên Khôi:** Hỏa Dương — quý nhân nam, người đứng tuổi, cấp trên giúp."
+              },
+              {
+                "type": "definition",
+                "text": "**Thiên Việt:** Hỏa Âm — quý nhân nữ, người trẻ hơn, hậu duệ giúp."
+              },
+              {
+                "type": "application",
+                "text": "**Mệnh có Khôi Việt** → cuộc đời nhiều người cứu giúp, gặp nguy biến vẫn có cách thoát."
+              },
+              {
+                "type": "note",
+                "text": "Khôi Việt **không tạo tiền** trực tiếp như Lộc Tồn, mà tạo 'cơ hội' — đến đúng người đúng lúc."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "4 sát tinh — Hỏa Tinh, Linh Tinh, Kình Dương, Đà La",
+            "body": "**4 sát tinh** (sao 'sắc') là **sao tiêu cực** — làm sao tốt giảm, sao xấu tăng. Nhưng cũng có mặt 'tích cực': **kích thích người ta nỗ lực**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Hỏa Tinh:** Hỏa Dương — sao 'lửa bốc' — nóng nảy, tai họa bất ngờ, nhưng cũng đam mê cuồng nhiệt."
+              },
+              {
+                "type": "definition",
+                "text": "**Linh Tinh:** Hỏa Âm — sao 'lửa ngầm' — uẩn ức, bệnh khó chữa, nhưng cũng trí mưu sâu."
+              },
+              {
+                "type": "definition",
+                "text": "**Kình Dương:** Kim Dương — sao 'lưỡi đao' — sắc bén, dễ va chạm, nhưng cũng quyết đoán."
+              },
+              {
+                "type": "definition",
+                "text": "**Đà La:** Kim Âm — sao 'dây trói' — vướng mắc, chậm chạp, nhưng cũng kiên trì."
+              },
+              {
+                "type": "note",
+                "text": "**Quy tắc đọc:** sát tinh ở cung **đắc địa** (cung Mộc cho Hỏa, cung Hỏa cho Kim) → 'sát tinh có công' → tạo nghịch cảnh tốt. Sát tinh ở cung **hãm địa** → tạo trở ngại thực sự."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Tổng kết 9 phụ tinh quan trọng",
+              "data": {
+                "headers": ["Phụ tinh", "Hành", "Ý nghĩa chính", "Tốt khi"],
+                "rows": [
+                  ["Tả Phụ", "Thổ Dương", "Trợ thủ công khai", "Cạnh Tử Vi/Quan"],
+                  ["Hữu Bật", "Thủy Âm", "Trợ thủ kín", "Cạnh Tử Vi/Quan"],
+                  ["Văn Xương", "Kim Dương", "Học thuật, bằng cấp", "Mệnh/Quan Lộc"],
+                  ["Văn Khúc", "Thủy Âm", "Nghệ thuật, sáng tác", "Mệnh/Tài Bạch"],
+                  ["Lộc Tồn", "Thổ Âm", "Tiền tài tích lũy", "Tài/Mệnh"],
+                  ["Thiên Mã", "Hỏa Dương", "Di động, đi xa", "Thiên Di/Tài"],
+                  ["Khôi Việt", "Hỏa", "Quý nhân giúp đỡ", "Mọi cung"],
+                  ["Hỏa Tinh", "Hỏa Dương", "Bốc đồng, tai họa", "Cung Mộc (cân bằng)"],
+                  ["Linh Tinh", "Hỏa Âm", "Uẩn ức, mưu sâu", "Cung Mộc (cân bằng)"],
+                  ["Kình Dương", "Kim Dương", "Sắc bén, va chạm", "Cung Mộc (chế Mộc)"],
+                  ["Đà La", "Kim Âm", "Vướng mắc, kiên trì", "Cung Mộc (chế Mộc)"]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Hai sao **trợ thủ** giúp Tử Vi 'có triều thần' là?",
+          "options": [
+            "Văn Xương - Văn Khúc",
+            "Tả Phụ - Hữu Bật",
+            "Khôi - Việt",
+            "Lộc Tồn - Thiên Mã"
+          ],
+          "answer": 1,
+          "explanation": "**Tả Phụ - Hữu Bật** = 2 sao trợ thủ chính. Khi đứng cùng Tử Vi → 'triều thần có mặt' → Tử Vi phát huy hết tiềm năng lãnh đạo. Tử Vi đơn độc (không có Tả-Hữu) gọi là 'cô quân vô tướng' → khó thành sự lớn."
+        },
+        {
+          "question": "Tổ hợp **'Lộc Mã giao trì'** xuất hiện khi sao nào đồng cung?",
+          "options": [
+            "Lộc Tồn + Thiên Mã",
+            "Lộc Tồn + Văn Xương",
+            "Thiên Mã + Khôi Việt",
+            "Lộc Tồn + Hữu Bật"
+          ],
+          "answer": 0,
+          "explanation": "**Lộc Tồn + Thiên Mã đồng cung** = 'Lộc Mã giao trì' (tài lộc + di động). Người mang tổ hợp này tài lộc đến từ **đi xa, làm ăn nơi khác**, xuất ngoại rất phát. Đây là một trong những tổ hợp quý nhất của tài vận."
+        },
+        {
+          "question": "Sát tinh (Hỏa, Linh, Kình, Đà) có phải lúc nào cũng xấu?",
+          "options": [
+            "Đúng — luôn xấu",
+            "Sai — ở cung đắc địa có thể tạo nghịch cảnh tốt, kích thích nỗ lực",
+            "Chỉ xấu cho nam, không xấu cho nữ",
+            "Chỉ xấu sau tuổi 40"
+          ],
+          "answer": 1,
+          "explanation": "**Sát tinh không tuyệt đối xấu**. Ở cung **đắc địa** (Hỏa-Linh ở cung Mộc, Kình-Đà ở cung Mộc) → tạo nghịch cảnh tốt, kích thích nỗ lực vươn lên. Sát tinh ở **hãm địa** mới gây trở ngại thực sự. Một số trường phái còn cho rằng 'người không có sát tinh đời quá êm dễ lười'."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Có phải mọi lá số đều có đủ 9 phụ tinh quan trọng?",
+          "answer": "**Có**. 9 phụ tinh này luôn xuất hiện trên mọi lá số — chỉ khác nhau **ở cung nào**. Tả Phụ - Hữu Bật vị trí phụ thuộc tháng sinh. Văn Xương - Văn Khúc theo giờ sinh. Lộc Tồn theo can năm. Khôi Việt theo can năm. Hỏa - Linh - Kình - Đà theo nhiều yếu tố. Bài học không đi sâu công thức, chỉ giới thiệu vai trò."
+        },
+        {
+          "question": "Văn Xương ở Mệnh có chắc đỗ đạt cao không?",
+          "answer": "**Không chắc** — chỉ là 'tiềm năng học vấn'. Cần kết hợp với: (1) chính tinh tại Mệnh (Thiên Cơ + Văn Xương = đại tài học), (2) Hóa Khoa đến Văn Xương = 'song khoa' rất quý, (3) cung Phụ Mẫu (cha mẹ có hỗ trợ học hành?). Văn Xương + sát tinh = 'có tài nhưng đường thi cử trắc trở'."
+        },
+        {
+          "question": "Tôi mệnh Vũ Khúc + Lộc Tồn — có giàu không?",
+          "answer": "**Cực kỳ tốt cho tài lộc**. Vũ Khúc = tài tinh (tướng tài) + Lộc Tồn = sao tích lũy tiền → 'kép tài'. Đặc biệt nếu thêm Hóa Lộc → 'tam tài hợp' → khả năng làm giàu rất cao. Tuy nhiên giàu hay không vẫn cần đại vận hỗ trợ và bản thân nỗ lực — Tử Vi cho 'tiềm năng' chứ không 'đảm bảo'."
+        },
+        {
+          "question": "Sao Hỏa Tinh hợp với chính tinh nào nhất?",
+          "answer": "**Hỏa Tinh + Tham Lang** = 'tham hỏa' — đam mê đến cuồng nhiệt, có thể bùng nổ tài năng nghệ thuật hoặc kinh doanh. **Hỏa Tinh + Thất Sát** = 'sát hỏa' — chiến binh máu lửa, hợp khởi nghiệp, quân sự. Hỏa Tinh **kỵ** đồng cung với Thiên Đồng, Thái Âm (làm 'phúc' và 'kín đáo' biến thành 'bốc đồng')."
+        }
+      ]
+    },
+    {
+      "id": "quy-trinh-doc-la-so",
+      "slug": "quy-trinh-doc-la-so",
+      "title": "Quy trình đọc lá số — 7 bước từ A đến Z",
+      "module": "D",
+      "order": 4,
+      "duration_minutes": 23,
+      "story_hook": "Cầm một lá số đầy đủ trong tay — bắt đầu đọc từ đâu? Đây là **quy trình 7 bước** áp dụng toàn bộ kiến thức đã học: từ năm sinh đến đại vận, từ Mệnh đến tứ hóa. Sau bài này bạn có **một phác đồ chuẩn** để đọc bất kỳ lá số nào.",
+      "key_metaphor": "Như bác sĩ khám bệnh: hỏi tiền sử (năm sinh) → khám tổng quát (Mệnh) → đo các chỉ số (tứ chính) → kiểm tra theo lĩnh vực → kết hợp tất cả → kết luận. Tử Vi cũng theo 'phác đồ' này — đảm bảo không bỏ sót.",
+      "content": {
+        "sections": [
+          {
+            "title": "Bước 1-2: Khung cơ bản — Năm sinh và Mệnh-Thân",
+            "body": "Hai bước đầu lấy 'khung gốc' của lá số: ai sinh năm nào, ở đâu trên bàn 12 cung.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Bước 1:** Năm sinh → can chi → nạp âm → Cục số. Ví dụ: 1990 Canh Ngọ → Lộ Bàng Thổ → Thổ Ngũ Cục."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 2:** Tháng + giờ sinh → cung Mệnh, cung Thân. Ghi nhớ: Mệnh = bẩm sinh, Thân = sau 30."
+              },
+              {
+                "type": "note",
+                "text": "Kết thúc 2 bước này, bạn đã biết 'người này thuộc loại nào về thời gian' và 'cung Mệnh ở đâu'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bước 3-4: Chính tinh & Tứ chính tại Mệnh",
+            "body": "Hai bước này định 'tính cách cốt lõi' và 'bộ khung 4 cung quan trọng'.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Bước 3:** Xem chính tinh tại Mệnh. Có sao gì? Đắc địa hay hãm? → kết luận 'kiểu người'."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 4:** Đọc **tứ chính của Mệnh** = Mệnh + Tài Bạch + Quan Lộc + Thiên Di. Mỗi cung có sao gì? Tổng hợp 4 cung → 'trục thành công' cá nhân."
+              },
+              {
+                "type": "note",
+                "text": "Sau bước 4: bạn có **ấn tượng 80%** về người này — tính cách, hướng nghề, hình ảnh xã hội."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bước 5: Tứ Hóa bẩm sinh — Sao nào 'tăng/giảm'",
+            "body": "Tứ Hóa Sinh (cố định cả đời) cho biết sao nào được 'kích hoạt' suốt đời.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Tra Hóa theo can năm sinh** — đậu vào 4 sao. Cung nào có sao mang Hóa Lộc/Quyền → cung đó vượng. Có Hóa Kỵ → cần lưu ý."
+              },
+              {
+                "type": "example",
+                "text": "Sinh Canh Ngọ: can Canh → Hóa Lộc đậu Thái Dương, Hóa Quyền đậu Vũ Khúc, Hóa Khoa đậu Thái Âm, Hóa Kỵ đậu Thiên Đồng. → Xem 4 sao này ở cung nào trên lá số."
+              },
+              {
+                "type": "note",
+                "text": "Hóa Lộc + Hóa Quyền cùng cung quan trọng = đại quý. Hóa Kỵ ở Mệnh hoặc Phu Thê = cần đặc biệt xem xét."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bước 6: Đại vận hiện tại",
+            "body": "Lá số 'tĩnh' không đủ — phải xem **vận đang đi**.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Tính tuổi → Đại Vận thứ mấy → cung Đại Vận ở đâu**. Cung này có sao gì? Là cung tốt hay xấu trên lá số?"
+              },
+              {
+                "type": "application",
+                "text": "Ví dụ: 35 tuổi, Thổ Ngũ Cục → Đại Vận 4 (35-44 tuổi). Cung Đại Vận đi thuận hay nghịch tùy giới tính + can năm."
+              },
+              {
+                "type": "note",
+                "text": "Đại Vận đang ở **cung tốt** (có Hóa Lộc, sao đắc địa) → 10 năm tới thuận. Ở **cung xấu** (có Hóa Kỵ, sao hãm) → 10 năm cần cẩn trọng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bước 7: Lưu Niên + Kết luận tổng hợp",
+            "body": "Cuối cùng, xem **năm hiện tại** trong khung đại vận và kết luận.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Lưu Niên** = cung trùng địa chi năm hiện tại. Năm 2025 (Ất Tỵ) → Lưu Niên ở cung Tỵ."
+              },
+              {
+                "type": "application",
+                "text": "**Hóa năm** theo can Ất: Hóa Lộc Thiên Cơ, Hóa Kỵ Thái Âm. Tra xem các sao này nằm cung nào trên lá số → 'điểm rơi' năm 2025."
+              },
+              {
+                "type": "application",
+                "text": "**Tổng hợp:** Đại Vận (10 năm) + Lưu Niên (1 năm) + Hóa năm = 'kịch bản 2025' cho người này."
+              },
+              {
+                "type": "note",
+                "text": "Kết luận theo công thức: '**Lĩnh vực X (vd sự nghiệp) trong năm 2025 sẽ có xu hướng Y vì lý do Z**'. Đây là **đọc lá số có cơ sở**, không phải 'phán đoán mò'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bảng tổng kết 7 bước",
+            "body": "Đây là phác đồ chuẩn — in ra và dùng mỗi lần đọc lá số.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Mục tiêu:** mỗi bước rút ra **1-2 kết luận**. Cuối 7 bước = 7-14 kết luận → bức tranh đầy đủ."
+              }
+            ],
+            "visual": {
+              "kind": "timeline",
+              "caption": "Quy trình 7 bước đọc lá số — phác đồ chuẩn",
+              "data": {
+                "steps": [
+                  { "label": "Năm sinh", "subtitle": "Can chi · Nạp âm · Cục số" },
+                  { "label": "Mệnh & Thân", "subtitle": "Từ tháng + giờ sinh" },
+                  { "label": "Chính tinh Mệnh", "subtitle": "Đắc hay hãm địa" },
+                  { "label": "Tứ chính Mệnh", "subtitle": "Mệnh + Tài + Quan + Thiên Di" },
+                  { "label": "Tứ Hóa bẩm sinh", "subtitle": "Theo can năm sinh" },
+                  { "label": "Đại Vận hiện tại", "subtitle": "Vận 10 năm đang chạy" },
+                  { "label": "Lưu Niên + Tổng hợp", "subtitle": "Kết luận năm hiện tại" }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Bước **đầu tiên** khi đọc lá số là gì?",
+          "options": [
+            "Xem Tứ Hóa năm hiện tại",
+            "Tra năm sinh → can chi → nạp âm → Cục",
+            "Xem cung Phu Thê",
+            "Xem Đại Vận đang đi"
+          ],
+          "answer": 1,
+          "explanation": "**Bước 1 luôn là 'khung thời gian'**: tra năm sinh ra can chi → nạp âm (bản mệnh) → Cục số. Đây là **gốc** của lá số, chưa có gốc thì không tính Đại Vận được. Các bước khác đều dựa trên thông tin của bước 1."
+        },
+        {
+          "question": "**Tứ chính Mệnh** (bước 4) bao gồm những cung nào?",
+          "options": [
+            "4 cung cạnh Mệnh",
+            "Mệnh + Tài Bạch + Quan Lộc + Thiên Di",
+            "Mệnh + Phụ Mẫu + Phu Thê + Tử Tức",
+            "Mệnh + Thân + Thiên Di + Phúc Đức"
+          ],
+          "answer": 1,
+          "explanation": "**Tứ chính Mệnh = Mệnh + 2 cung tam phương (Tài Bạch, Quan Lộc) + 1 cung đối xung (Thiên Di)**. Đây là 'bộ 4 cung' định nên 'trục thành công cá nhân'. Đọc 4 cung này = có 80% bức tranh người này."
+        },
+        {
+          "question": "Tại sao **bước 6 (Đại Vận)** và **bước 7 (Lưu Niên)** quan trọng?",
+          "options": [
+            "Vì chúng quyết định **vận đang đi** — lá số tĩnh không đủ",
+            "Vì chúng dễ tính",
+            "Vì cung Mệnh không quan trọng",
+            "Vì đại vận thay đổi tính cách"
+          ],
+          "answer": 0,
+          "explanation": "Lá số 'cố định' chỉ cho biết **tiềm năng**. Đại Vận + Lưu Niên cho biết **thời điểm tiềm năng đó được kích hoạt** hoặc bị ức chế. Không xem vận → không biết 'lúc nào tốt, lúc nào xấu'. Đây là phần **động** quan trọng nhất."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Đọc 1 lá số mất bao lâu khi quen?",
+          "answer": "**Người mới:** 30-60 phút cho lá số đầu tiên (tra cứu nhiều). **Quen rồi (sau 10-20 lá):** 10-15 phút cho khung tổng + 5-10 phút cho mỗi cung sâu. **Thầy nghề:** 5 phút có thể nói được 80%. Bí quyết: **tập trung vào 4 cung quan trọng** (Mệnh, Tài, Quan, Thiên Di) thay vì đọc đều 12 cung."
+        },
+        {
+          "question": "Nếu bước 3 thấy chính tinh hãm địa, bước 4 nên đọc gì?",
+          "answer": "Khi chính tinh ở Mệnh **hãm địa** → tiềm năng giảm. Bước 4 nên xem **'có sao chiếu hỗ trợ' từ tam phương + đối xung không**. Vd Tử Vi hãm tại Tỵ nhưng tam phương có Vũ Khúc + Thiên Phủ chiếu vào → vẫn 'có người trợ giúp', không quá xấu. Tử Vi hãm + tứ chính cũng yếu → mới thực sự là 'cô quân'."
+        },
+        {
+          "question": "Có thể bỏ qua bước 5 (Tứ Hóa) nếu không nhớ bảng được không?",
+          "answer": "**KHÔNG nên**. Tứ Hóa là **'đặc tính riêng'** của lá số — quyết định lá số này khác lá số khác. Bỏ Tứ Hóa = đọc 'lá số chung'. Mẹo: **chỉ cần nhớ Hóa của can năm sinh bạn** (1 dòng trong bảng 10 can). Khi đọc cho người khác, mở bảng tra nhanh."
+        },
+        {
+          "question": "7 bước này áp dụng cho bản thân và đọc cho người khác có khác không?",
+          "answer": "**Quy trình giống nhau**, nhưng **thái độ khác**. Đọc cho bản thân: trung thực, đào sâu cả mặt yếu. Đọc cho người khác: **bắt đầu bằng mặt mạnh**, dùng ngôn từ xây dựng, không 'phán xét'. Nguyên tắc: 'lá số chỉ ra xu hướng, không quyết định kết quả'. Đây là nội dung bài tiếp theo về **tinh thần đúng** khi học Tử Vi."
+        }
+      ]
+    },
+    {
+      "id": "sai-lam-thuong-gap",
+      "slug": "sai-lam-thuong-gap",
+      "title": "Sai lầm thường gặp & Tinh thần học Tử Vi",
+      "module": "D",
+      "order": 5,
+      "duration_minutes": 16,
+      "story_hook": "Bạn đã đi qua hơn 20 bài học — đã có 'kho công cụ' để đọc lá số. Nhưng có **công cụ** không có nghĩa là dùng **đúng**. Bài cuối này nói về **5 sai lầm thường gặp** và **tinh thần đúng** để Tử Vi trở thành **kim chỉ nam** chứ không phải **lời tiên đoán cứng**.",
+      "key_metaphor": "Như học võ: chiêu thức xong vẫn cần học **võ đạo**. Tử Vi cũng vậy — có công cụ mà không có thái độ đúng thì dễ thành mê tín, hoặc gây hại cho người được xem.",
+      "content": {
+        "sections": [
+          {
+            "title": "Sai lầm 1: Tin lá số tuyệt đối",
+            "body": "Đây là sai lầm phổ biến nhất, đặc biệt với người mới. Lá số chỉ **xác suất xu hướng** — không phải định mệnh cứng.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Biểu hiện sai:** 'Lá số nói tôi xấu nên tôi không cố nữa'. Hoặc: 'Lá số nói anh ta giàu nên chắc chắn giàu'."
+              },
+              {
+                "type": "application",
+                "text": "**Đúng hơn:** lá số là **'bản đồ địa hình'** — chỉ ra khu vực dễ đi, khu vực khó. Nhưng **đi đường nào** vẫn là quyết định của bạn."
+              },
+              {
+                "type": "example",
+                "text": "Hai người cùng lá số 'Mệnh Vũ Khúc + Hóa Lộc' — một người làm tài chính giàu lớn, một người tiêu xài hoang phí → cùng tiềm năng tài, kết quả khác do hành động."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Sai lầm 2: Đọc một sao bỏ qua tứ chính",
+            "body": "Người mới hay 'chỉ thấy cung Mệnh' rồi kết luận. Bỏ qua tứ chính (tam phương + đối xung) = đọc nửa câu chuyện.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Biểu hiện sai:** 'Mệnh có Thất Sát → người này thích chiến đấu' — kết luận ngay mà không xem Thất Sát đắc/hãm, không xem tam phương."
+              },
+              {
+                "type": "application",
+                "text": "**Đúng:** Thất Sát hãm địa + tam phương có sát tinh nhiều → có thể là 'thích va chạm nhưng không thắng'. Thất Sát đắc + Tả Phụ Hữu Bật chiếu → 'tướng có quân' → đại thành."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Sai lầm 3: Bỏ qua Đại Vận — Chỉ xem 'cố định'",
+            "body": "Người mới hay đọc 'lá số cố định' rồi nghĩ 'cuộc đời sẽ như vậy'. Quên rằng **Đại Vận thay đổi cung 10 năm/lần** → 'kịch bản' khác hẳn.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Biểu hiện sai:** 'Lá số tôi xấu nên cả đời sẽ xấu' — bỏ qua việc Đại Vận tốt có thể đến ở giai đoạn 40, 50, 60..."
+              },
+              {
+                "type": "application",
+                "text": "**Đúng:** một lá số có thể có Đại Vận 1-2 (tuổi nhỏ) khó, nhưng Đại Vận 4-5 (40-50 tuổi) tốt → **'phát muộn'**. Hoặc ngược lại: Đại Vận 1-2 tốt nhưng Đại Vận 3 vào cung Hóa Kỵ → 'tuổi nhỏ rực rỡ, tuổi trung niên gặp khó'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Sai lầm 4: Đọc cho người khác khi chưa hiểu mình",
+            "body": "Đây là sai lầm 'đạo đức nghề'. Khi chưa đọc kỹ lá số của mình → khó tránh **chiếu chủ quan** lên người khác.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Biểu hiện sai:** xem cho bạn bè rồi 'phán' giàu nghèo, hôn nhân — gây lo lắng hoặc ảo tưởng không đáng có."
+              },
+              {
+                "type": "application",
+                "text": "**Đúng:** học Tử Vi **để hiểu bản thân trước**. Sau khi đọc 10-20 lá số của chính mình ở các giai đoạn → mới có 'kinh nghiệm thực' để đọc cho người khác."
+              },
+              {
+                "type": "application",
+                "text": "Khi đọc cho ai: **bắt đầu bằng mặt mạnh**, dùng từ 'xu hướng', 'tiềm năng' — KHÔNG dùng 'chắc chắn', 'sẽ', 'không bao giờ'."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Sai lầm 5: Quên rằng Tử Vi là một góc nhìn",
+            "body": "Tử Vi đẩu số là **một hệ thống** trong nhiều hệ thống (Tử Bình, Kinh Dịch, Phong Thủy). Mỗi hệ có giới hạn riêng.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Biểu hiện sai:** 'Lá số nói anh ta xấu thì chắc chắn xấu — Tử Bình hay Kinh Dịch cũng phải đồng ý'."
+              },
+              {
+                "type": "application",
+                "text": "**Đúng:** mỗi hệ thống xem từ một góc. Có lá số Tử Vi 'không nổi bật' nhưng người đó có Bát Tự rất mạnh — vẫn thành công. Hoặc ngược lại."
+              },
+              {
+                "type": "note",
+                "text": "**Tử Vi mạnh ở:** xem tính cách, mối quan hệ, vận hạn 10 năm. **Tử Vi yếu ở:** dự đoán sự kiện cụ thể (ngày X có gì), tài chính chi tiết. Biết giới hạn = dùng đúng công cụ."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tinh thần đúng — 3 nguyên tắc vàng",
+            "body": "Sau khi tránh 5 sai lầm trên, đây là **3 nguyên tắc** để Tử Vi thực sự **giúp đời sống**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Nguyên tắc 1 — 'Tự tri trước, đoán sau':** Học Tử Vi trước hết để hiểu bản thân. Hiểu mình → tránh rơi vào chính những điểm yếu lá số chỉ ra."
+              },
+              {
+                "type": "definition",
+                "text": "**Nguyên tắc 2 — 'Xu hướng không phải định mệnh':** Lá số chỉ xác suất. Người có 'lá số yếu' vẫn thành công nhờ nỗ lực. Người có 'lá số mạnh' vẫn thất bại nếu lười."
+              },
+              {
+                "type": "definition",
+                "text": "**Nguyên tắc 3 — 'Giúp người không gây sợ':** Khi xem cho ai, mục đích là **giúp họ thấy rõ** — chứ không phải 'khoe tài' hay 'gây ấn tượng'. Tránh nói các tin 'xấu nặng' (vận hạn xấu, bệnh tật...) khi người ta không hỏi rõ."
+              },
+              {
+                "type": "note",
+                "text": "Người xưa có câu: **'Tử Vi giỏi là Tử Vi giúp người sống tốt hơn — không phải Tử Vi đoán đúng nhiều'**."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Sai lầm thường gặp **nhất** với người mới học Tử Vi là gì?",
+          "options": [
+            "Quên đọc cung Phu Thê",
+            "Tin lá số tuyệt đối — coi như định mệnh cứng",
+            "Không thuộc 14 chính tinh",
+            "Đọc quá nhanh"
+          ],
+          "answer": 1,
+          "explanation": "**Tin lá số tuyệt đối** là sai lầm phổ biến và gây hại nhất. Lá số chỉ **xác suất xu hướng**, không phải định mệnh cứng. Hai người cùng lá số tốt: một thành công, một thất bại — vì hành động khác. Đây là gốc của tinh thần đúng khi học Tử Vi."
+        },
+        {
+          "question": "Khi đọc Mệnh có Thất Sát, **tại sao không nên** kết luận ngay 'người này thích chiến đấu'?",
+          "options": [
+            "Vì Thất Sát luôn xấu",
+            "Vì cần xem Thất Sát đắc/hãm + tứ chính (tam phương + đối xung) trước khi kết luận",
+            "Vì Thất Sát không có trong Tử Vi",
+            "Vì kết luận đó luôn đúng"
+          ],
+          "answer": 1,
+          "explanation": "Một sao không đủ — phải xem **đắc/hãm địa** và **tứ chính**. Thất Sát hãm + sát tinh nhiều = 'va chạm nhưng không thắng'. Thất Sát đắc + có Tả-Hữu chiếu = 'tướng có quân'. Cùng sao, khác bối cảnh, khác kết quả. Đây là quy tắc 'đọc tứ chính' của bài Module C số 4."
+        },
+        {
+          "question": "Nguyên tắc 'Tử Vi giỏi là Tử Vi **giúp người sống tốt hơn**' có nghĩa là?",
+          "options": [
+            "Mục đích cuối của Tử Vi là dự đoán chính xác sự kiện",
+            "Tử Vi nên dùng để hiểu mình và giúp người — không phải để 'phán' hay khoe tài",
+            "Người học Tử Vi luôn được mọi người tôn trọng",
+            "Tử Vi chữa được bệnh"
+          ],
+          "answer": 1,
+          "explanation": "**Mục đích cuối của Tử Vi là sống tốt hơn** — hiểu mình, hiểu hoàn cảnh, tránh sai lầm. **Không phải** để 'đoán đúng nhiều' hay 'khoe tài'. Người học Tử Vi giỏi là người dùng nó để **xây dựng đời sống mình và người xung quanh**, không phải để gây ấn tượng hay sợ hãi."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Nếu lá số tôi nói tôi sẽ có hôn nhân khó — tôi có nên không lấy vợ/chồng?",
+          "answer": "**KHÔNG nên dùng lá số để ra quyết định lớn của đời**. Lá số chỉ 'xu hướng' — Phu Thê có sao xấu = hôn nhân **có thử thách**, không phải 'không nên kết hôn'. Hai người có lá số tốt vẫn ly hôn; hai người có lá số khó vẫn hạnh phúc nếu chấp nhận và nỗ lực. Lá số giúp **chuẩn bị tinh thần**, không thay thế quyết định cá nhân."
+        },
+        {
+          "question": "Tôi vô tình xem lá số ai đó và thấy điều xấu — có nên nói không?",
+          "answer": "**Tùy người và tùy điều**. Nguyên tắc: (1) Họ có **chủ động hỏi**? Nếu không thì giữ im. (2) Nếu hỏi: nói **xu hướng** chứ không 'dự đoán cố định'. (3) Nếu cực kỳ xấu (vận hạn sức khỏe lớn) → có thể gợi ý 'cẩn trọng sức khỏe trong những năm tới' mà không nói chi tiết. **Tránh:** gây sợ hãi không cần thiết, đặc biệt với người dễ tin."
+        },
+        {
+          "question": "Có nên tin các 'thầy Tử Vi' phán chắc nịch không?",
+          "answer": "**Cảnh giác**. Tử Vi giỏi luôn nói 'xu hướng', 'tiềm năng', 'cần lưu ý' — KHÔNG nói 'chắc chắn sẽ giàu', 'chắc chắn ly hôn', 'năm X sẽ chết'. Người 'phán chắc' thường (1) chưa hiểu sâu, hoặc (2) cố ý gây ấn tượng để bán dịch vụ. Người thật sự giỏi thường khiêm tốn và đưa ra **nhiều khả năng**."
+        },
+        {
+          "question": "Sau bài này tôi cần làm gì để học tiếp Tử Vi?",
+          "answer": "**Bước 1:** Đọc kỹ lá số của chính mình bằng 7 bước (bài trước). **Bước 2:** Đọc lại sau 1-2 năm và so sánh với điều đã xảy ra → hiệu chỉnh cách đọc. **Bước 3:** Xem lá số của 5-10 người thân quen → tích lũy kinh nghiệm. **Bước 4:** Đọc sách Tử Vi nâng cao (cách an phụ tinh, các bộ sao đặc biệt). **Bước 5:** Quan trọng nhất — **sống tốt** dù lá số nói gì. Tử Vi chỉ là công cụ."
+        }
+      ]
+    }
+  ]
+}
