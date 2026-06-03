@@ -972,6 +972,242 @@
           "answer": "**Bước 1:** Đọc kỹ lá số của chính mình bằng 7 bước (bài trước). **Bước 2:** Đọc lại sau 1-2 năm và so sánh với điều đã xảy ra → hiệu chỉnh cách đọc. **Bước 3:** Xem lá số của 5-10 người thân quen → tích lũy kinh nghiệm. **Bước 4:** Đọc sách Tử Vi nâng cao (cách an phụ tinh, các bộ sao đặc biệt). **Bước 5:** Quan trọng nhất — **sống tốt** dù lá số nói gì. Tử Vi chỉ là công cụ."
         }
       ]
+    },
+    {
+      "id": "la-so-mau-case-study",
+      "slug": "la-so-mau-case-study",
+      "title": "Lá số mẫu — 3 case study đối chiếu lịch sử",
+      "module": "D",
+      "order": 6,
+      "duration_minutes": 24,
+      "story_hook": "Lý thuyết quy trình 7 bước là một chuyện, đối chiếu với người **thực** lại là chuyện khác. Bài này lấy **3 lá số nổi tiếng** — 2 nhân vật được sách *Tử Vi Đẩu Số Tân Biên* (1956) ghi trực tiếp, và 1 nhân vật hiện đại có giờ sinh được tài liệu xác thực — để bạn thấy cách đọc thực tế. Bạn có thể tự lập lại bằng công cụ `/la-so`.",
+      "key_metaphor": "Như học y khoa qua **case lâm sàng** — đọc sách giáo khoa thôi không đủ, phải nhìn bệnh án thật để 'mở mắt'. Tử Vi cũng vậy: biết quy trình rồi vẫn cần đối chiếu với người thật để hiểu vì sao cách này 'đúng', cách kia 'sai'.",
+      "content": {
+        "sections": [
+          {
+            "title": "Vì sao học qua case study?",
+            "body": "Mỗi case = một lần áp dụng **quy trình 7 bước** (bài trước) cho một con người cụ thể. Đối chiếu kết quả với **tính cách & sự nghiệp đã biết** giúp bạn 'thấy' Tử Vi vận hành chứ không chỉ học khô khan.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "Case 1 & 2 trích thẳng từ *Tử Vi Đẩu Số Tân Biên* — Vân Đằng Thái Thứ Lang ghi cách Mệnh của các nhân vật cổ làm minh chứng cho cách Tử Vi."
+              },
+              {
+                "type": "application",
+                "text": "Case 3 là nhân vật hiện đại — bạn có thể vào `/la-so` nhập ngày giờ rồi đối chiếu."
+              },
+              {
+                "type": "note",
+                "text": "**Cảnh báo:** giờ sinh sai → toàn bộ chart sai → đối chiếu vô nghĩa. Chọn nhân vật có giờ sinh được tài liệu xác thực."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Case 1: Đức Khổng Tử — Mệnh Tý có Thiên Lương + Lộc Tồn hội hợp",
+            "body": "Sách *Tử Vi Đẩu Số Tân Biên* §4544 ghi lá số Khổng Tử trực tiếp: **'Mệnh an tại Tý, có Lương tọa thủ, gặp Lộc Tồn, Hóa Lộc hội hợp'**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Cách Mệnh:** Mệnh tại **Tý** có **Thiên Lương** tọa thủ. Thiên Lương (Thổ) ở Tý (Thủy) là cách 'Thiên Lương ngộ Tý' — sĩ phu già dặn, có lòng từ."
+              },
+              {
+                "type": "definition",
+                "text": "**Tam phương chiếu:** Lộc Tồn (tài tinh) + Hóa Lộc (phú tinh) hội hợp → tài lộc tinh thần phong phú, danh tiếng lan rộng."
+              },
+              {
+                "type": "application",
+                "text": "**Đối chiếu Khổng Tử:** san định 5 kinh, dạy 3000 môn đệ, được đời sau tôn '**Vạn thế sư biểu**'. Cách Lương + Lộc = 'sĩ phu được trọng', đúng vai trò 'thầy của muôn đời'."
+              },
+              {
+                "type": "note",
+                "text": "Tân Biên §4544 viết: 'Người nào có cung Mệnh an tại Tý, Ngọ, có cách trên đây cũng thường là bậc vĩ nhân có văn tài xuất chúng, sự nghiệp lớn lao và danh tiếng lừng lẫy.'"
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Case 2: Nhan Hồi — Mệnh có Thất Sát ở Tuyệt địa + Kình Đà (yểu mệnh)",
+            "body": "Đối lập với Khổng Tử (cách cát), Tân Biên §3674 ghi lá số học trò Nhan Hồi làm minh chứng cho **cách hung** dẫn đến yểu mệnh.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Cách Mệnh:** Mệnh tại **Tuyệt địa** (vị trí 'tuyệt' của Tràng Sinh vòng, thường là Hợi với Hỏa cục, Tỵ với Thủy cục...) có **Thất Sát** tọa thủ."
+              },
+              {
+                "type": "definition",
+                "text": "**Sát tinh hội hợp:** Kình Dương + Đà La hội hợp Mệnh. Thất Sát (Kim) + 2 sát tinh ở Tuyệt địa → không có chỗ phát huy."
+              },
+              {
+                "type": "application",
+                "text": "**Đối chiếu Nhan Hồi:** học trò giỏi nhất của Khổng Tử (được Khổng Tử khen: 'Hồi vậy không buồn'), nhưng **chết non ở 32 tuổi**. Cách Thất Sát + Tuyệt + Kình Đà chính là 'cách yểu' trong Tử Vi."
+              },
+              {
+                "type": "note",
+                "text": "Tân Biên §4463 nhấn mạnh: 'Người nào mà cung Mệnh có cách này cũng không thể sống lâu được' — đây là một trong những 'cách hung tử' kinh điển."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Case 3: Bill Gates (1955) — Mệnh vô chính diệu mượn Đồng Âm + Thân cư Phu Thê",
+            "body": "Nhân vật hiện đại với giờ sinh được tài liệu xác thực (mẹ ông — Mary Gates — ghi rõ trong sách 'Showing Up for Life'): **28/10/1955, 22:00, Seattle**.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Tự lập lại:** vào `/la-so` nhập: ngày **13**, tháng **10** (âm lịch — vì 28/10/1955 dương = 13/10 âm năm Ất Mùi), giờ **Hợi** (21h–23h), giới **Nam**."
+              },
+              {
+                "type": "definition",
+                "text": "**Khung lá số:** Năm **Ất Mùi** · Nạp âm **Sa Trung Kim** · **Hỏa Lục Cục** · Tử Vi tại **Hợi** · Thiên Phủ tại **Tỵ** · Cung Mệnh tại **Tý** · Cung Thân tại **Tuất** (cư Phu Thê)."
+              },
+              {
+                "type": "definition",
+                "text": "**Cách Mệnh:** Cung Mệnh tại **Tý vô chính diệu** — không có chính tinh tọa thủ. Mượn **Thiên Đồng + Thái Âm** từ Thiên Di đối xung (Ngọ) chiếu sang."
+              },
+              {
+                "type": "application",
+                "text": "**Đối chiếu Gates:** Thiên Đồng (phúc tinh, hiền hòa) + Thái Âm (mặt trăng, kín đáo, sâu sắc, giỏi tích lũy) — đúng phong cách Gates **hướng nội, careful, soft-spoken**, không phô trương như tỷ phú khác."
+              },
+              {
+                "type": "definition",
+                "text": "**Cách Thân:** Cung Thân cư **Phu Thê** tại Tuất có **Thiên Cơ + Thiên Lương** đồng cung (Cơ Lương) — mưu sĩ + sĩ phu từ tâm."
+              },
+              {
+                "type": "application",
+                "text": "**Đối chiếu hậu vận Gates:** sự nghiệp lớn nhất 30 năm hậu không phải Microsoft mà là **Gates Foundation** — làm cùng vợ Melinda. Thân cư Phu Thê = 'hậu vận gắn với bạn đời'. Cơ Lương = trí tuệ + làm phúc, đúng định hướng từ thiện toàn cầu."
+              },
+              {
+                "type": "definition",
+                "text": "**Tài Bạch tại Thân:** có **Thái Dương + Cự Môn** (Nhật Cự đồng cung) — sáng + giỏi nói → tài đến từ visibility & communication. Microsoft = công ty đại chúng có marketing rộng."
+              },
+              {
+                "type": "note",
+                "text": "**Lưu ý quan trọng:** cùng năm sinh với Steve Jobs (24/02/1955 = Ất Mùi, Sa Trung Kim) — **bản mệnh giống nhau** nhưng **giờ sinh khác** → Cục khác, 14 sao positions khác hoàn toàn → cá tính & vận hạn khác biệt rõ rệt. Đây là minh chứng cho 'giờ sinh quyết định 70% chart'."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "So sánh 3 case study — cách Mệnh & ý nghĩa",
+              "data": {
+                "headers": ["Nhân vật", "Cách Mệnh chính", "Ý nghĩa truyền thống", "Đối chiếu đời thực"],
+                "rows": [
+                  ["Khổng Tử", "Mệnh Tý có Thiên Lương + Lộc Tồn hội hợp", "Sĩ phu có lòng từ, danh tiếng lan rộng", "Vạn thế sư biểu — thầy của muôn đời"],
+                  ["Nhan Hồi", "Mệnh ở Tuyệt địa có Thất Sát + Kình Đà", "Cách hung tử — không có chỗ phát huy", "Học trò giỏi nhất nhưng chết ở 32 tuổi"],
+                  ["Bill Gates", "Mệnh Tý vô chính diệu mượn Đồng-Âm; Thân cư Phu Thê có Cơ-Lương", "Kín đáo + hậu vận gắn bạn đời, làm phúc bằng trí", "Tỷ phú trầm tính → Gates Foundation cùng Melinda"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Quy trình tự làm 1 case study",
+            "body": "Sau khi đọc 3 case trên, bạn có thể tự làm với người bạn quan tâm (bản thân, người thân, người nổi tiếng). 5 bước:",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Bước 1:** Tìm nhân vật có **giờ sinh được tài liệu xác thực** (sách tiểu sử, giấy khai sinh, mẹ ghi nhớ...). Tránh nhân vật chỉ có ngày sinh — sai giờ → sai toàn bộ."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 2:** Vào `/la-so`, nhập **ngày âm + tháng âm + năm dương + giờ chi + giới tính**. Lưu ý: tháng/ngày phải là **âm lịch**, đổi từ dương lịch trước."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 3:** Đọc theo **quy trình 7 bước** (bài 4 Module D): năm sinh → Mệnh/Thân → chính tinh Mệnh → tứ chính → Tứ Hóa → Đại Vận → Lưu Niên."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 4:** Note các **cách đồng cung** (Tử Phá, Liêm Tham, Vũ Sát, Đồng Lương, Nhật Nguyệt đồng cung...) — đây là 'dấu vân tay' của chart."
+              },
+              {
+                "type": "application",
+                "text": "**Bước 5:** Đối chiếu cách Mệnh & Thân với **tính cách + sự nghiệp đã biết** — nếu khớp → tiếp tục đào sâu; không khớp → kiểm tra lại giờ sinh hoặc thử ± 1 canh giờ."
+              },
+              {
+                "type": "note",
+                "text": "**Quan trọng:** case study là **minh họa**, không phải bằng chứng tuyệt đối. Nếu chart 'không khớp', có thể do giờ sinh sai, hoặc đơn giản là Tử Vi cũng có giới hạn."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bài học rút ra",
+            "body": "3 case studies cho 4 bài học quan trọng:",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**1. Cách Mệnh phản ánh tính cách cốt lõi** — Khổng Tử (Lương từ tâm) + Nhan Hồi (Sát yểu) + Gates (vô chính diệu kín đáo) đều khớp với hình ảnh lịch sử."
+              },
+              {
+                "type": "note",
+                "text": "**2. Cung Thân quan trọng cho hậu vận** — Gates không nổi tiếng vì Microsoft (Mệnh) bằng Gates Foundation (Thân cư Phu Thê có Cơ Lương)."
+              },
+              {
+                "type": "note",
+                "text": "**3. Vô chính diệu KHÔNG đồng nghĩa kém** — Gates Mệnh vô chính diệu vẫn là tỷ phú top 5 thế giới. Quan trọng là sao chiếu từ tam phương + đối xung tốt."
+              },
+              {
+                "type": "note",
+                "text": "**4. Cùng năm sinh ≠ cùng số phận** — Jobs và Gates cùng Ất Mùi Sa Trung Kim, nhưng giờ khác → cuộc đời khác hẳn. Đây là **bằng chứng quan trọng nhất** rằng Tử Vi không phải 'mỗi năm 12 con giáp như nhau'."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Theo sách Tử Vi Đẩu Số Tân Biên, lá số Đức Khổng Tử có Mệnh ở đâu và có sao gì tọa thủ?",
+          "options": [
+            "Mệnh ở Sửu có Tử Vi tọa thủ",
+            "Mệnh ở Tý có Thiên Lương tọa thủ, Lộc Tồn và Hóa Lộc hội hợp",
+            "Mệnh ở Ngọ có Thái Dương tọa thủ",
+            "Mệnh ở Thân có Liêm Trinh tọa thủ"
+          ],
+          "answer": 1,
+          "explanation": "Theo Tân Biên §4544: Khổng Tử có **Mệnh tại Tý có Thiên Lương tọa thủ, gặp Lộc Tồn, Hóa Lộc hội hợp**. Đây là cách 'Thiên Lương ngộ Tý' + tài tinh chiếu → sĩ phu có lòng từ, danh tiếng vĩ đại. Sách dùng làm ví dụ cho 'cách vĩ nhân văn chương'."
+        },
+        {
+          "question": "Vì sao Bill Gates và Steve Jobs **cùng sinh năm 1955 Ất Mùi** nhưng có lá số rất khác nhau?",
+          "options": [
+            "Vì hai người sinh ở 2 quốc gia khác nhau",
+            "Vì giới tính có ảnh hưởng — nhưng cả hai đều là nam",
+            "Vì **giờ sinh khác** → Cục khác → vị trí Tử Vi khác → toàn bộ 14 sao positions khác",
+            "Vì Tử Vi không áp dụng cho người nước ngoài"
+          ],
+          "answer": 2,
+          "explanation": "**Giờ sinh** quyết định cung Mệnh, từ đó suy ra Cục (theo Can năm + chi cung Mệnh), từ Cục suy ra vị trí Tử Vi, rồi 13 sao còn lại. Jobs sinh giờ Tuất (19:15) → Kim Tứ Cục. Gates sinh giờ Hợi (22:00) → Hỏa Lục Cục. Cùng năm Ất Mùi (cùng bản mệnh Sa Trung Kim) nhưng 14 sao positions khác hoàn toàn. Đây là lý do **giờ sinh quyết định 70% chart**."
+        },
+        {
+          "question": "Cung Mệnh **vô chính diệu** có ý nghĩa gì khi đọc lá số?",
+          "options": [
+            "Lá số bị lỗi, cần lập lại",
+            "Mệnh không có chính tinh tọa thủ → 'mượn' chính tinh từ Thiên Di đối xung chiếu sang",
+            "Người đó không có cá tính",
+            "Không thể đọc được lá số"
+          ],
+          "answer": 1,
+          "explanation": "**Vô chính diệu** = cung Mệnh không có chính tinh tọa thủ. Quy tắc đọc: 'mượn' chính tinh từ **Thiên Di** (cung đối xung) chiếu sang, kết hợp với sao tam phương. Bill Gates là ví dụ — Mệnh Tý vô chính diệu, mượn Đồng Âm từ Ngọ, vẫn rất thành công vì các cung khác (Thân, Tài, Quan) đều tốt. Vô chính diệu **KHÔNG đồng nghĩa kém**."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tôi không biết chính xác giờ sinh — có làm case study được không?",
+          "answer": "**Có nhưng cẩn trọng.** Cách 1: thử **3 canh giờ liên tiếp** gần nhất với giờ ước tính, lập 3 lá số, chọn lá nào có cách Mệnh khớp tính cách thực nhất. Cách 2: nếu chỉ biết 'sáng' hoặc 'tối' → thu hẹp được khoảng giờ, vẫn thử nhiều canh trong khoảng đó. Tuyệt đối **KHÔNG ép giờ** để khớp với kỳ vọng — nếu không có giờ chính xác, ghi chú 'giờ ước tính' và đọc với độ tin cậy thấp."
+        },
+        {
+          "question": "Tại sao Tân Biên dùng nhân vật cổ (Khổng Tử, Nhan Hồi) làm minh chứng?",
+          "answer": "**Hai lý do.** (1) Tiểu sử các nhân vật cổ được tài liệu lịch sử ghi rõ → dễ kiểm chứng đối chiếu. (2) Cuộc đời họ đã kết thúc → có 'kết quả cuối cùng' để đối chiếu với cách Mệnh dự đoán. Nhân vật đang sống chỉ cho ta 'kết quả tạm thời' — chưa biết hồi cuối ra sao."
+        },
+        {
+          "question": "Lá số Khổng Tử trong Tân Biên có công thức tính được không? Tôi muốn xem chart đầy đủ.",
+          "answer": "**Có thể**, nếu chấp nhận giờ sinh suy đoán. Khổng Tử sinh năm 551 TCN (Canh Tuất theo lịch Trung Hoa). Tân Biên ghi Mệnh tại Tý, nên ngược lại: giờ Tý-Ngọ-Mão-Dậu tạo Mệnh tại Tý tùy tháng. Vì Khổng Tử sinh tháng Giêng (8 tháng âm tùy nguồn), giờ sinh ngược ra có thể là Sửu hoặc Mùi. Lá số đầy đủ cần tra cứu chuyên sâu — app `/la-so` không hỗ trợ năm trước Công nguyên."
+        },
+        {
+          "question": "Tôi có thể tự làm case study cho người Việt Nam không?",
+          "answer": "**Có**, nhưng nhân vật Việt Nam thường thiếu giờ sinh chính xác. Gợi ý: chọn người có **hồi ký** hoặc **người thân ghi nhớ**. Tránh nhân vật chỉ có 'năm sinh' trong sử (vd Trần Hưng Đạo, Nguyễn Du) — không đủ độ chính xác cho lá số. Người hiện đại có giấy khai sinh là an toàn nhất."
+        }
+      ]
     }
   ]
 }
