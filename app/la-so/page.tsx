@@ -33,11 +33,11 @@ export default function LaSoPage() {
             Lập lá số Tử Vi cơ bản
           </h1>
           <p className="mt-2 max-w-2xl text-base leading-relaxed text-ink-2">
-            Nhập ngày tháng năm + giờ sinh + giới tính. Hệ thống sẽ tra{" "}
-            <strong className="text-ink">Thiên can, Địa chi, Nạp âm</strong> và an
-            12 cung. Phiên bản hiện tại tập trung vào{" "}
-            <strong className="text-ink">khung cơ bản</strong>; các sao chính tinh
-            sẽ được thêm ở Giai đoạn 4.
+            Nhập ngày tháng năm + giờ sinh + giới tính. Hệ thống an tự động{" "}
+            <strong className="text-ink">67 sao</strong> trên bàn lá số: 14 chính
+            tinh + 13 phụ tinh chính + Vòng Tràng Sinh + Vòng Bác Sĩ + Vòng Thái
+            Tuế + 15 đào hoa/quý/hung + Tuần/Triệt + Đại Vận hiện tại + Tứ Hóa
+            năm. Bấm vào mỗi cung để xem ý nghĩa chi tiết.
           </p>
         </header>
 

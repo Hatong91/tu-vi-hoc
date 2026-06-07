@@ -2,6 +2,7 @@ import phase1 from "@/data/giai-doan-1.json";
 import phase2 from "@/data/giai-doan-2.json";
 import phase3 from "@/data/giai-doan-3.json";
 import phase4 from "@/data/giai-doan-4.json";
+import phase5 from "@/data/giai-doan-5.json";
 import type { Lesson, PhaseFile, PhaseInfo } from "./types";
 
 const phases: PhaseFile[] = [
@@ -9,6 +10,7 @@ const phases: PhaseFile[] = [
   phase2 as PhaseFile,
   phase3 as PhaseFile,
   phase4 as PhaseFile,
+  phase5 as PhaseFile,
 ];
 
 export function getAllPhases(): PhaseInfo[] {
@@ -64,6 +66,15 @@ export const PHASE_ROADMAP: Array<PhaseInfo & { available: boolean }> = [
     summary:
       "Tổng hợp toàn bộ kiến thức để tự lập và đọc một lá số Tử Vi hoàn chỉnh — bao gồm hệ thống vận hạn theo thời gian.",
     modules: ["D"],
+    available: true,
+  },
+  {
+    id: "gd-5",
+    title: "Giai đoạn 5 — Mệnh ca cổ điển",
+    subtitle: "Nam Mệnh ca · Nữ Mệnh ca · 14 chính tinh tại Mệnh",
+    summary:
+      "Bộ ca quyết cổ truyền mô tả số phận khi mỗi chính tinh đóng Mệnh — chia riêng Nam và Nữ. Học cách đọc lời cổ trong bối cảnh hiện đại.",
+    modules: ["E"],
     available: true,
   },
 ];

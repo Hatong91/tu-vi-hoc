@@ -224,22 +224,36 @@ export default function LaSoForm() {
 
           <BasicInfo result={result} />
 
+          <VanHanCard result={result} />
+
+          <KhongVongCard result={result} />
+
           <CungBieu
             cungMenh={result.cungMenh}
             cungThan={result.cungThan}
             thapNhiCung={result.thapNhiCung}
             chinhTinh={result.chinhTinh}
-            title="Bàn 12 cung & 14 chính tinh của bạn"
-            caption="Mỗi ô hiện chính tinh (kèm đắc/bình/hãm địa). Viền đỏ = Mệnh, viền vàng = Thân. Bấm vào ô để xem chi tiết."
+            phuTinh={result.phuTinh}
+            daiVanList={result.daiVan.list}
+            currentDaiVanIndex={result.daiVan.currentIndex}
+            cungLuuNien={result.hoaNam.cungLuuNien}
+            vongTrangSinh={result.vongTrangSinh}
+            tuan={result.tuan}
+            triet={result.triet}
+            thienMa={result.thienMa}
+            vongBacSi={result.vongBacSi}
+            vongThaiTue={result.vongThaiTue}
+            daoHoaQuyTinh={result.daoHoaQuyTinh}
+            title="Bàn 12 cung · 14 chính tinh · 13+15 phụ tinh · Vòng Bác Sĩ · Vòng Thái Tuế · Tuần Triệt · Vòng Tràng Sinh · Đại Vận · Lưu Niên"
+            caption="Italic xám = Vòng Bác Sĩ · Italic vàng = Vòng Thái Tuế · Xanh = sao cát · Đỏ = sao hung · ĐV/LN/Tuần/Triệt = các badge. Bấm ô để xem chi tiết."
             centerInfo={<CenterBlock result={result} />}
           />
 
           <p className="rounded-md border-l-4 border-teal-2 bg-cream-2/40 p-3 text-sm leading-relaxed text-ink-2">
-            <strong className="text-ink">Lưu ý:</strong> đây là lá số có{" "}
-            <strong>14 chính tinh</strong> + 12 cung. Các <strong>phụ tinh</strong>{" "}
-            (Tả Phụ - Hữu Bật, Văn Xương - Khúc, Lộc Tồn, Khôi Việt, Hỏa Linh...) và{" "}
-            <strong>Tứ Hóa</strong> sẽ được tích hợp ở bản tiếp theo. Đắc/hãm địa hiện
-            tính theo Ngũ hành cơ bản (chi sinh sao → đắc, chi khắc sao → hãm).
+            <strong className="text-ink">Lưu ý:</strong> đắc/hãm địa hiện tính theo
+            Ngũ hành cơ bản (chi sinh sao → đắc, chi khắc sao → hãm). Phụ tinh không
+            có đắc/hãm tự động — đọc tuỳ vị trí (vd Lộc Tồn ở Tài Bạch rất quý). Tứ
+            Hóa năm hiện tại được hiển thị ở thẻ &ldquo;Hóa năm&rdquo; bên trên.
           </p>
         </section>
       )}
@@ -306,6 +320,59 @@ function BasicInfo({ result }: { result: LaSoBasic }) {
   );
 }
 
+function KhongVongCard({ result }: { result: LaSoBasic }) {
+  const { tuan, triet, thienMa, vongTrangSinh, cungMenh } = result;
+  const tsMenh = vongTrangSinh[cungMenh];
+  return (
+    <section className="rounded-lg border-2 border-gold-2 bg-cream p-4">
+      <h3 className="mb-3 font-display text-base font-semibold text-ink">
+        Tuần · Triệt · Thiên Mã · Vòng Tràng Sinh
+      </h3>
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="rounded-md border border-ink-2/30 bg-parchment p-3">
+          <div className="text-[11px] font-semibold uppercase tracking-wider text-ink-2">
+            Tuần Không Vong
+          </div>
+          <div className="mt-1 font-display text-base font-semibold text-ink">
+            {tuan.chi1} – {tuan.chi2}
+          </div>
+          <div className="text-xs text-ink-2">Theo block 10 năm Hoa Giáp</div>
+        </div>
+
+        <div className="rounded-md border border-red-ink-2/40 bg-red-ink-2/5 p-3">
+          <div className="text-[11px] font-semibold uppercase tracking-wider text-red-ink-2">
+            Triệt Không Vong
+          </div>
+          <div className="mt-1 font-display text-base font-semibold text-ink">
+            {triet.chi1} – {triet.chi2}
+          </div>
+          <div className="text-xs text-ink-2">Theo can năm sinh</div>
+        </div>
+
+        <div className="rounded-md border border-gold/50 bg-cream-2/50 p-3">
+          <div className="text-[11px] font-semibold uppercase tracking-wider text-ink-2">
+            Thiên Mã
+          </div>
+          <div className="mt-1 font-display text-base font-semibold text-ink">
+            Tại <span className="text-gold">{thienMa}</span>
+          </div>
+          <div className="text-xs text-ink-2">Sao di động, đi xa</div>
+        </div>
+
+        <div className="rounded-md border border-teal-2/40 bg-teal-2/5 p-3">
+          <div className="text-[11px] font-semibold uppercase tracking-wider text-teal-2">
+            Mệnh tại
+          </div>
+          <div className="mt-1 font-display text-base font-semibold text-ink">
+            {tsMenh}
+          </div>
+          <div className="text-xs text-ink-2">Giai đoạn vòng Tràng Sinh</div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function CenterBlock({ result }: { result: LaSoBasic }) {
   return (
     <div className="space-y-1 text-center">
@@ -323,6 +390,104 @@ function CenterBlock({ result }: { result: LaSoBasic }) {
         {result.gioiTinh} · {result.conGiap}
       </div>
     </div>
+  );
+}
+
+function VanHanCard({ result }: { result: LaSoBasic }) {
+  const { daiVan, hoaNam } = result;
+  const dv = daiVan.currentDaiVan;
+  const hoaColors: Record<"Lộc" | "Quyền" | "Khoa" | "Kỵ", string> = {
+    "Lộc": "bg-teal-2 text-parchment",
+    "Quyền": "bg-gold text-parchment",
+    "Khoa": "bg-teal-3 text-parchment",
+    "Kỵ": "bg-red-ink-2 text-parchment",
+  };
+  return (
+    <section
+      aria-labelledby="van-han-heading"
+      className="rounded-lg border-2 border-gold-2 bg-cream p-4"
+    >
+      <h3
+        id="van-han-heading"
+        className="mb-3 font-display text-base font-semibold text-ink"
+      >
+        Vận hạn năm {hoaNam.year} ({hoaNam.canChi.can} {hoaNam.canChi.chi})
+      </h3>
+
+      <div className="grid gap-3 sm:grid-cols-2">
+        {/* Đại Vận */}
+        <div className="rounded-md border border-gold/50 bg-parchment p-3">
+          <div className="text-[11px] font-semibold uppercase tracking-wider text-ink-2">
+            Đại Vận hiện tại
+          </div>
+          {dv ? (
+            <>
+              <div className="mt-1 font-display text-lg font-semibold text-ink">
+                ĐV {dv.index} tại cung <span className="text-red-ink-2">{dv.chi}</span>
+              </div>
+              <div className="text-xs text-ink-2">
+                Tuổi {dv.ageStart}–{dv.ageEnd} ({daiVan.currentAge} tuổi · đi{" "}
+                <strong>{daiVan.direction}</strong>)
+              </div>
+            </>
+          ) : (
+            <>
+              <div className="mt-1 font-display text-base font-semibold text-ink-2">
+                Chưa vào Đại Vận 1
+              </div>
+              <div className="text-xs text-ink-2">
+                ĐV 1 sẽ bắt đầu từ {daiVan.cucSo} tuổi
+              </div>
+            </>
+          )}
+        </div>
+
+        {/* Lưu Niên */}
+        <div className="rounded-md border border-gold/50 bg-parchment p-3">
+          <div className="text-[11px] font-semibold uppercase tracking-wider text-ink-2">
+            Lưu Niên năm {hoaNam.year}
+          </div>
+          <div className="mt-1 font-display text-lg font-semibold text-ink">
+            Cung Lưu Niên tại <span className="text-teal-2">{hoaNam.cungLuuNien}</span>
+          </div>
+          <div className="text-xs text-ink-2">
+            Tứ Hóa năm theo can <strong>{hoaNam.canChi.can}</strong>
+          </div>
+        </div>
+      </div>
+
+      {/* Tứ Hóa Lưu Niên */}
+      <div className="mt-3 rounded-md border border-gold/40 bg-cream-2/40 p-3">
+        <div className="mb-1.5 text-[11px] font-semibold uppercase tracking-wider text-ink-2">
+          Hóa năm {hoaNam.year} đậu vào
+        </div>
+        <ul className="grid grid-cols-2 gap-1.5 sm:grid-cols-4">
+          {hoaNam.hoa.map((h) => (
+            <li
+              key={h.loai}
+              className="flex items-baseline gap-1.5 rounded-md bg-parchment px-2 py-1.5 text-xs"
+            >
+              <span
+                className={clsx(
+                  "shrink-0 rounded-sm px-1 py-px text-[10px] font-semibold uppercase",
+                  hoaColors[h.loai]
+                )}
+              >
+                Hóa {h.loai}
+              </span>
+              <span className="font-display font-semibold text-ink truncate">
+                {h.sao}
+              </span>
+              {h.chi && (
+                <span className="ml-auto text-ink-2">
+                  tại <strong>{h.chi}</strong>
+                </span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
   );
 }
 

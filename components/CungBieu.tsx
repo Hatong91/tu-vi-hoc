@@ -16,6 +16,10 @@ import {
   type TenCung,
   type ChinhTinhAt,
   type DacHam,
+  type PhuTinhInfo,
+  type DaiVan,
+  type VongTrangSinhName,
+  type TuanTrietPos,
 } from "@/lib/tuvi-calc";
 import cungInfo from "@/data/12-cung.json";
 
@@ -46,6 +50,28 @@ type Props = {
   thapNhiCung?: Record<TenCung, DiaChi>;
   /** Mapping chi → mảng chính tinh tại chi đó (có đắc/hãm). */
   chinhTinh?: Record<DiaChi, ChinhTinhAt[]>;
+  /** Mapping chi → mảng phụ tinh tại chi đó. */
+  phuTinh?: Record<DiaChi, PhuTinhInfo[]>;
+  /** Đại Vận list — nếu có sẽ hiện badge ĐV trên mỗi cung. */
+  daiVanList?: DaiVan[];
+  /** Chỉ số Đại Vận hiện tại (1..12, 0 = chưa vào ĐV1). */
+  currentDaiVanIndex?: number;
+  /** Cung Lưu Niên năm hiện tại (chi của năm hiện tại). */
+  cungLuuNien?: DiaChi;
+  /** Mapping chi → tên giai đoạn vòng Tràng Sinh. */
+  vongTrangSinh?: Record<DiaChi, VongTrangSinhName>;
+  /** Vị trí Tuần — đứng giữa 2 chi. */
+  tuan?: TuanTrietPos;
+  /** Vị trí Triệt — đứng giữa 2 chi. */
+  triet?: TuanTrietPos;
+  /** Chi có sao Thiên Mã. */
+  thienMa?: DiaChi;
+  /** Vòng Bác Sĩ — 1 sao/cung. */
+  vongBacSi?: Record<DiaChi, string>;
+  /** Vòng Thái Tuế — 1 sao/cung. */
+  vongThaiTue?: Record<DiaChi, string>;
+  /** Phụ tinh đào hoa/quý/hung. */
+  daoHoaQuyTinh?: Record<DiaChi, PhuTinhInfo[]>;
   /** Tiêu đề trên header. */
   title?: string;
   /** Phụ chú dưới figure. */
@@ -60,11 +86,30 @@ const DAC_BADGE: Record<DacHam, { label: string; cls: string }> = {
   "hãm":  { label: "hãm",  cls: "bg-red-ink-2 text-parchment" },
 };
 
+// Viết tắt 12 giai đoạn vòng Tràng Sinh (cho hiển thị compact trong cell)
+const TRANG_SINH_SHORT: Record<VongTrangSinhName, string> = {
+  "Tràng Sinh": "Tr.Sinh", "Mộc Dục": "Mộc Dục", "Quan Đới": "Q.Đới",
+  "Lâm Quan": "Lâm Q.",   "Đế Vượng": "Đế Vượng","Suy": "Suy",
+  "Bệnh": "Bệnh",         "Tử": "Tử",             "Mộ": "Mộ",
+  "Tuyệt": "Tuyệt",       "Thai": "Thai",         "Dưỡng": "Dưỡng",
+};
+
 export default function CungBieu({
   cungMenh = "Dần",
   cungThan,
   thapNhiCung,
   chinhTinh,
+  phuTinh,
+  daiVanList,
+  currentDaiVanIndex,
+  cungLuuNien,
+  vongTrangSinh,
+  tuan,
+  triet,
+  thienMa,
+  vongBacSi,
+  vongThaiTue,
+  daoHoaQuyTinh,
   title = "Sơ đồ 12 cung — Bàn lá số Tử Vi",
   caption = "Bấm vào ô địa chi để xem ý nghĩa cung Tử Vi tương ứng.",
   centerInfo,
@@ -88,10 +133,12 @@ export default function CungBieu({
         <h3 className="font-display text-base font-semibold text-ink">{title}</h3>
       </header>
 
-      <div className="grid gap-4 p-4 md:grid-cols-[minmax(0,420px)_minmax(0,1fr)] md:items-start md:gap-5">
-        {/* Bảng 4×4 */}
+      <div className="grid gap-4 p-3 sm:p-4 md:grid-cols-[minmax(0,420px)_minmax(0,1fr)] md:items-start md:gap-5">
+        {/* Wrapper cho phép scroll ngang trên mobile — giữ cells đọc được */}
+        <div className="-mx-1 overflow-x-auto sm:mx-0 sm:overflow-visible">
+        {/* Bảng 4×4 — min-w để mỗi cell tối thiểu ~115px trên mobile */}
         <div
-          className="grid aspect-square w-full grid-cols-4 grid-rows-4 overflow-hidden rounded-md border border-ink-2/30 bg-cream"
+          className="grid aspect-square w-full min-w-[460px] grid-cols-4 grid-rows-4 overflow-hidden rounded-md border border-ink-2/30 bg-cream sm:min-w-0"
           role="grid"
           aria-label="Bàn 12 cung Tử Vi"
         >
@@ -101,7 +148,16 @@ export default function CungBieu({
             const isMenh = chi === (cungMap.Mệnh ?? cungMenh);
             const isThan = !!cungThan && chi === cungThan;
             const isSelected = selectedChi === chi;
+            const isLuuNien = !!cungLuuNien && chi === cungLuuNien;
             const hanhColor = HANH_COLOR[CHI_HANH[chi]];
+            // Tìm ĐV nào nằm ở chi này
+            const dvAtChi = daiVanList?.find((d) => d.chi === chi);
+            const isCurrentDV = dvAtChi && currentDaiVanIndex === dvAtChi.index;
+            // Tuần / Triệt phủ chi này không?
+            const hasTuan = tuan && (tuan.chi1 === chi || tuan.chi2 === chi);
+            const hasTriet = triet && (triet.chi1 === chi || triet.chi2 === chi);
+            const hasThienMa = thienMa === chi;
+            const tsStage = vongTrangSinh?.[chi];
             return (
               <button
                 key={chi}
@@ -129,19 +185,42 @@ export default function CungBieu({
                   >
                     {chi}
                   </span>
-                  {isMenh && (
-                    <span className="rounded-sm bg-red-ink-2 px-1 py-px text-[8px] font-semibold text-parchment">
-                      Mệnh
-                    </span>
-                  )}
-                  {isThan && !isMenh && (
-                    <span className="rounded-sm bg-gold-2 px-1 py-px text-[8px] font-semibold text-ink">
-                      Thân
-                    </span>
-                  )}
+                  <div className="flex shrink-0 items-center gap-0.5">
+                    {dvAtChi && (
+                      <span
+                        className={clsx(
+                          "rounded-sm px-1 py-px text-[8px] font-semibold tabular-nums",
+                          isCurrentDV
+                            ? "bg-gold-2 text-ink ring-1 ring-red-ink-2"
+                            : "bg-ink-2/30 text-ink-2"
+                        )}
+                        title={`Đại Vận ${dvAtChi.index} · ${dvAtChi.ageStart}-${dvAtChi.ageEnd} tuổi`}
+                      >
+                        ĐV{dvAtChi.index}
+                      </span>
+                    )}
+                    {isLuuNien && (
+                      <span
+                        className="rounded-sm bg-teal-2 px-1 py-px text-[8px] font-semibold text-parchment"
+                        title="Cung Lưu Niên năm hiện tại"
+                      >
+                        LN
+                      </span>
+                    )}
+                    {isMenh && (
+                      <span className="rounded-sm bg-red-ink-2 px-1 py-px text-[8px] font-semibold text-parchment">
+                        Mệnh
+                      </span>
+                    )}
+                    {isThan && !isMenh && (
+                      <span className="rounded-sm bg-gold-2 px-1 py-px text-[8px] font-semibold text-ink">
+                        Thân
+                      </span>
+                    )}
+                  </div>
                 </div>
 
-                {/* Danh sách chính tinh trong cung (compact) */}
+                {/* Chính tinh */}
                 {chinhTinh && chinhTinh[chi].length > 0 && (
                   <ul className="mt-1 space-y-0.5">
                     {chinhTinh[chi].map((sao) => (
@@ -166,12 +245,82 @@ export default function CungBieu({
                   </ul>
                 )}
 
+                {/* Phụ tinh — font nhỏ hơn, không có badge đắc/hãm */}
+                <ul className="mt-1 flex flex-wrap gap-x-1 gap-y-0">
+                  {phuTinh?.[chi].map((sao) => (
+                    <li
+                      key={`pt-${sao.name}`}
+                      className={clsx(
+                        "text-[9px] leading-tight",
+                        sao.kind === "cát" && "text-teal-2",
+                        sao.kind === "hung" && "text-red-ink-2",
+                        sao.kind === "trung" && "text-ink-2"
+                      )}
+                      title={sao.shortDesc}
+                    >
+                      {sao.name}
+                    </li>
+                  ))}
+                  {hasThienMa && (
+                    <li className="text-[9px] leading-tight font-semibold text-gold" title="Thiên Mã — di động, đi xa">
+                      Thiên Mã
+                    </li>
+                  )}
+                  {daoHoaQuyTinh?.[chi].map((sao) => (
+                    <li
+                      key={`dh-${sao.name}`}
+                      className={clsx(
+                        "text-[9px] leading-tight",
+                        sao.kind === "cát" && "text-teal-2",
+                        sao.kind === "hung" && "text-red-ink-2",
+                        sao.kind === "trung" && "text-ink-2"
+                      )}
+                      title={sao.shortDesc}
+                    >
+                      {sao.name}
+                    </li>
+                  ))}
+                  {vongBacSi?.[chi] && (
+                    <li className="text-[8.5px] leading-tight italic text-ink-2" title="Vòng Bác Sĩ">
+                      {vongBacSi[chi]}
+                    </li>
+                  )}
+                  {vongThaiTue?.[chi] && (
+                    <li className="text-[8.5px] leading-tight italic text-gold-2" title="Vòng Thái Tuế">
+                      {vongThaiTue[chi]}
+                    </li>
+                  )}
+                </ul>
+
+                {/* Tuần / Triệt badges — sao Không Vong */}
+                {(hasTuan || hasTriet) && (
+                  <div className="mt-1 flex flex-wrap gap-1">
+                    {hasTuan && (
+                      <span className="rounded-sm bg-ink-2 px-1 py-px text-[8px] font-semibold text-cream-2" title="Tuần Trung Không Vong">
+                        Tuần
+                      </span>
+                    )}
+                    {hasTriet && (
+                      <span className="rounded-sm bg-red-ink-2 px-1 py-px text-[8px] font-semibold text-parchment" title="Triệt Lộ Không Vong">
+                        Triệt
+                      </span>
+                    )}
+                  </div>
+                )}
+
                 <div className="mt-auto">
                   <div className="font-display text-[12px] font-semibold leading-tight text-ink">
                     {cungName}
                   </div>
-                  <div className="text-[9px] uppercase tracking-wider text-ink-2">
-                    {CHI_HANH[chi]} · {CHI_AM_DUONG[chi]}
+                  <div className="flex items-baseline justify-between gap-1">
+                    <div className="text-[9px] uppercase tracking-wider text-ink-2">
+                      {CHI_HANH[chi]} · {CHI_AM_DUONG[chi]}
+                    </div>
+                    {tsStage && (
+                      <div className="text-[8px] italic text-teal-3" title={`Vòng Tràng Sinh: ${tsStage}`}>
+                        {TRANG_SINH_SHORT[tsStage]}
+                      </div>
+                    )}
                   </div>
                 </div>
               </button>
@@ -185,12 +334,14 @@ export default function CungBieu({
             {centerInfo ?? <DefaultCenter cungMenh={cungMap.Mệnh ?? cungMenh} />}
           </div>
         </div>
+        </div>
 
         {/* Panel mô tả */}
         <CungPanel
           selected={selectedCung}
           selectedChi={selectedChi}
           stars={selectedChi && chinhTinh ? chinhTinh[selectedChi] : []}
+          phuStars={selectedChi && phuTinh ? phuTinh[selectedChi] : []}
           onSelectByName={(name) => {
             const chi = cungMap[name];
             if (chi) setSelectedChi(chi);
@@ -224,12 +375,14 @@ function CungPanel({
   selected,
   selectedChi,
   stars,
+  phuStars,
   onSelectByName,
   onClose,
 }: {
   selected: CungEntry | null;
   selectedChi: DiaChi | null;
   stars: ChinhTinhAt[];
+  phuStars: PhuTinhInfo[];
   onSelectByName: (name: TenCung) => void;
   onClose: () => void;
 }) {
@@ -316,6 +469,32 @@ function CungPanel({
                 <span className="ml-auto text-[10px] italic text-ink-2 truncate">
                   {sao.shortDesc}
                 </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {/* Phụ tinh tại cung */}
+      {phuStars.length > 0 && (
+        <div className="mb-3 rounded-md border border-gold/40 bg-cream/60 p-2.5">
+          <div className="text-[11px] font-semibold uppercase tracking-wider text-ink-2">
+            Phụ tinh tại cung
+          </div>
+          <ul className="mt-1.5 flex flex-wrap gap-1.5">
+            {phuStars.map((sao) => (
+              <li
+                key={sao.name}
+                className={clsx(
+                  "rounded-md border px-1.5 py-0.5 text-[10px]",
+                  sao.kind === "cát" && "border-teal-2/50 bg-teal-2/10 text-teal-2",
+                  sao.kind === "hung" && "border-red-ink-2/50 bg-red-ink-2/10 text-red-ink-2",
+                  sao.kind === "trung" && "border-ink-2/30 bg-ink-2/5 text-ink-2"
+                )}
+                title={sao.shortDesc}
+              >
+                <span className="font-deco mr-0.5">{sao.han}</span>{" "}
+                <span className="font-semibold">{sao.name}</span>
               </li>
             ))}
           </ul>

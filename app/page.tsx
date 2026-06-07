@@ -35,7 +35,7 @@ export default function Home() {
               >
                 Lộ trình học
               </h2>
-              <span className="text-sm text-ink-2">4 giai đoạn · ~12 tuần</span>
+              <span className="text-sm text-ink-2">5 giai đoạn · 36 bài</span>
             </header>
 
             <ol className="space-y-3">
@@ -106,8 +106,9 @@ function Hero() {
         đến đọc được một lá số
       </h1>
       <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-2">
-        Lộ trình 4 giai đoạn — học từ nền tảng triết học đến công cụ lập lá số.
-        Có sơ đồ tương tác, quiz tự chấm và FAQ cho mọi câu hỏi thường gặp.
+        Lộ trình 5 giai đoạn · 36 bài — học từ nền tảng triết học đến công cụ
+        lập lá số tính tự động 67 sao. Có sơ đồ tương tác, quiz tự chấm và FAQ
+        cho mọi câu hỏi thường gặp.
       </p>
       <div className="mt-5 flex flex-wrap gap-3">
         <Link

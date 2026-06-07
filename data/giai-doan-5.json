@@ -1,0 +1,1741 @@
+{
+  "phase": {
+    "id": "gd-5",
+    "title": "Giai đoạn 5 — Mệnh ca cổ điển",
+    "subtitle": "Nam Mệnh ca · Nữ Mệnh ca · Lời tổ truyền về 14 chính tinh tại Mệnh",
+    "summary": "Bộ ca quyết cổ truyền — mô tả số phận khi mỗi chính tinh đóng Mệnh, chia riêng cho Nam và Nữ. Học cách đọc lời cổ trong bối cảnh hiện đại.",
+    "modules": ["E"]
+  },
+  "lessons": [
+    {
+      "id": "nam-menh-ca-1",
+      "slug": "nam-menh-ca-1",
+      "title": "Nam Mệnh ca — Chòm Bắc Đẩu (Tử Vi → Liêm Trinh) + Thiên Phủ",
+      "module": "E",
+      "order": 1,
+      "duration_minutes": 25,
+      "story_hook": "Người xưa đúc kết hàng ngàn lá số thành **lời ca có vần** để dễ thuộc. Mỗi câu ca nói **một chính tinh đóng Mệnh** thì người đó như thế nào. Đó là **Nam Mệnh ca** — bài học vỡ lòng của mọi thầy Tử Vi ngày xưa.",
+      "key_metaphor": "Như nhạc lý phương Tây có 7 nốt cơ bản, Tử Vi có **14 chính tinh** — mỗi sao là một 'nốt' tạo nên giai điệu cuộc đời. Mệnh ca là lời ca giúp bạn nhớ 'âm sắc' của mỗi nốt.",
+      "content": {
+        "sections": [
+          {
+            "title": "Trước khi đọc — 3 lưu ý quan trọng",
+            "body": "Mệnh ca cổ truyền chỉ là **khung tổng quát**. Đọc đúng cần kết hợp:",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Miếu/Vượng/Hãm:** Cùng một sao nhưng ở cung khác nhau → ý nghĩa khác hẳn. Lời ca thường giả định **miếu vượng** là điều kiện thuận."
+              },
+              {
+                "type": "note",
+                "text": "**Phụ tinh đi kèm:** Một chính tinh đơn độc khác xa khi có **Tả Hữu, Khôi Việt, Xương Khúc** chiếu — Mệnh ca chỉ nói **tính bản chất**."
+              },
+              {
+                "type": "note",
+                "text": "**Bối cảnh thời đại:** Lời cổ viết cho xã hội phong kiến — 'quan cao chức trọng' ngày nay đọc là **công việc có địa vị, được trọng dụng**, không nhất thiết là quan chức."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tử Vi tại Mệnh — Đế tinh chủ tôn quý",
+            "body": "**Tử Vi** là Đế tinh — sao chủ của toàn bộ chòm Bắc Đẩu. Đóng Mệnh thì người **đoan trang, có khí chất lãnh đạo**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Tử Vi cư Mệnh nhập miếu vượng — tài quan song mỹ, tử tôn vinh hiển. Gặp Tả Hữu Khôi Việt — quan cao tột bậc.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Người có Tử Vi Mệnh thường **chững chạc, có uy**, người khác tự nhiên muốn nghe theo. Thích hợp **quản lý, lãnh đạo, ngành cần tầm nhìn**."
+              },
+              {
+                "type": "note",
+                "text": "**Cảnh báo:** Tử Vi **hãm địa** (Mão, Dậu) hoặc **đơn độc không phụ tinh** → trở thành 'vua không ngôi' — kiêu nhưng không có người theo, dễ cô độc."
+              },
+              {
+                "type": "example",
+                "text": "**Ví dụ điển hình:** Tử Vi tại Ngọ (miếu) + Tả Hữu → cách **'Cực hướng ly minh'** — một trong những cách cục cao quý nhất."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Cơ tại Mệnh — Trí tinh, sao của trí tuệ",
+            "body": "**Thiên Cơ** là sao chủ về **mưu trí, suy nghĩ, tính toán**. Đóng Mệnh thì người **thông minh, đa mưu, tâm tư nhiều**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thiên Cơ tính chủ thông minh, đa mưu túc trí. Hợp Cự Môn — khẩu thiệt linh hoạt. Hãm địa — tâm lao, tha hương lập nghiệp.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp với **trí thức, nghiên cứu, lập kế hoạch, tư vấn, IT**. Người này **suy nghĩ rất nhanh** nhưng cũng **lo nghĩ nhiều**."
+              },
+              {
+                "type": "note",
+                "text": "**Cảnh báo:** Thiên Cơ + Cự Môn (Mão/Dậu) → **'Cơ Cự đồng cung'** — khẩu tài tốt nhưng dễ thị phi, sống xa quê."
+              },
+              {
+                "type": "example",
+                "text": "**Tổ hợp tốt:** Thiên Cơ + Thiên Lương (Thìn/Tuất) → người **thông tuệ + nhân hậu** — hợp giáo dục, y học, từ thiện."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thái Dương tại Mệnh — Mặt Trời, sao quý hiển nam tử",
+            "body": "**Thái Dương** là sao **dương khí**, chủ về **danh tiếng, quý hiển**. Với **nam mệnh**, đây là một trong những sao **đắc cách nhất**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thái Dương miếu vượng — nam tử khí chất hùng dũng, quý hiển hiển danh. Hãm địa — mắt kém, danh phận muộn.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Nam mệnh Thái Dương miếu (Dần→Ngọ) → **người sáng sủa, được trọng vọng**, hợp công việc **đứng trước công chúng** — diễn giả, lãnh đạo, truyền thông."
+              },
+              {
+                "type": "note",
+                "text": "**Đặc biệt quan trọng:** Thái Dương hợp **Thái Âm** tại Sửu/Mùi → cách **'Nhật Nguyệt tịnh minh'** — đại quý, danh tiếng vang xa."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo:** Thái Dương **hãm** (Tý→Hợi) → nam mệnh dễ **cha mất sớm hoặc khắc cha**, danh phận đến muộn (sau 40 tuổi mới phát)."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Vũ Khúc tại Mệnh — Tài tinh, sao của tiền bạc",
+            "body": "**Vũ Khúc** là **chính tài tinh** — sao chủ về tiền bạc, tài chính. Tính **cương quyết, thực tế, hành động nhanh**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Vũ Khúc cương dũng quyết đoán, chủ tài. Miếu — đại phú, danh trấn biên cương. Hãm gặp Sát — cô khắc, thương tật, phá tài.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **tài chính, ngân hàng, kinh doanh, kỹ thuật, quân đội**. Người này **quyết đoán nhanh**, ít do dự, **giỏi quản lý tiền**."
+              },
+              {
+                "type": "note",
+                "text": "**Tính cách:** Cương trực, nói ít làm nhiều, đôi khi **lạnh lùng, ít nói chuyện tình cảm** → quan hệ vợ chồng có thể khô khan."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đẹp:** Vũ Khúc + Tham Lang (Sửu/Mùi) + Hỏa/Linh → **'Hỏa Tham cách'** — bùng nổ tài lộc, làm giàu nhanh chóng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Đồng tại Mệnh — Phúc tinh, sao hưởng phúc",
+            "body": "**Thiên Đồng** là **phúc đức tinh** — sao của sự **ôn hòa, hưởng phúc, dễ chịu**. Người này **hiền lành, ít sóng gió**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thiên Đồng phúc tinh, tính ôn hòa, đa năng đa nghệ. Miếu — phúc lộc song toàn. Hãm + Cự — tha hương lao đao.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp công việc **dịch vụ, sáng tạo, nghệ thuật, ẩm thực, giải trí**. Người này **được yêu mến, dễ kết bạn**."
+              },
+              {
+                "type": "note",
+                "text": "**Khuyết điểm:** Vì 'hưởng phúc' nên dễ **lười, thiếu động lực**, ít chí tiến thủ. Cần sao Sát hoặc Lộc Tồn kích hoạt mới phát huy."
+              },
+              {
+                "type": "example",
+                "text": "**Tổ hợp tốt:** Đồng Lương (Dần/Thân) → người **nhân hậu + thông minh**, hợp y học, giáo dục, tư vấn tâm lý."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Liêm Trinh tại Mệnh — Tù tinh, vừa quan vừa tù",
+            "body": "**Liêm Trinh** là sao **đa biến** — vừa là **quan lộc tinh** (chức tước) vừa là **tù tinh** (pháp luật, ràng buộc). Mệnh Liêm Trinh đầy **mâu thuẫn nội tâm**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Liêm Trinh đa biến, vừa quan vừa tù. Miếu hợp Lộc — vinh hiển hiển danh. Hãm gặp Sát — quan tai, hình thương, lao ngục.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **luật pháp, công an, hành chính, ngành cần kỷ luật cao**. Người này **nguyên tắc, cứng rắn**, nhưng cũng **dễ vướng pháp lý** nếu lệch."
+              },
+              {
+                "type": "note",
+                "text": "**Tính cách:** Yêu nghệ thuật, có gu thẩm mỹ cao, nhưng **dễ đa đoan tình cảm** (Liêm = đào hoa thứ phẩm)."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo nghiêm trọng:** Liêm Trinh + Thất Sát + Kình Đà → **'Liêm Sát ngộ Kình'** — nguy hiểm về pháp luật, dễ tai nạn hình thương."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Phủ tại Mệnh — Kho tinh, sao của sự sung túc",
+            "body": "**Thiên Phủ** là **Nam Đẩu chủ tinh** — chủ kho tàng, tiền của tích trữ. Người mệnh Thiên Phủ **hậu hĩnh, ổn định, biết giữ của**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thiên Phủ kho tàng tinh, chủ giàu sang ổn định. Hợp Tử Vi — quan tài lưỡng vượng. Phẩm hạnh đoan chính, được người kính trọng.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **tài chính dài hạn, bất động sản, doanh nghiệp gia đình, kế thừa sản nghiệp**. Người này **không thích mạo hiểm**, ưa chắc chắn."
+              },
+              {
+                "type": "note",
+                "text": "**Khuyết điểm:** **Bảo thủ, cầu an** — khó phát triển đột phá. Sợ rủi ro nên đôi khi bỏ lỡ cơ hội lớn."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo:** Thiên Phủ **cô độc không phụ tinh** + **Không Kiếp xung** → 'kho rỗng' — có vẻ ổn nhưng thực ra trống rỗng, dễ tay trắng cuối đời."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Tổng kết 7 chính tinh đầu — đặc trưng nam mệnh",
+              "data": {
+                "headers": ["Chính tinh", "Nghĩa cốt lõi", "Hợp nghề", "Cảnh báo"],
+                "rows": [
+                  ["Tử Vi", "Đế tinh — lãnh đạo", "Quản lý, chính trị", "Cô độc nếu thiếu phụ tinh"],
+                  ["Thiên Cơ", "Trí tinh — mưu lược", "Tư vấn, IT, nghiên cứu", "Lo nghĩ nhiều, tâm lao"],
+                  ["Thái Dương", "Quý tinh — danh tiếng", "Truyền thông, lãnh đạo", "Hãm: khắc cha, danh muộn"],
+                  ["Vũ Khúc", "Tài tinh — tiền bạc", "Tài chính, kỹ thuật", "Lạnh lùng, khô khan"],
+                  ["Thiên Đồng", "Phúc tinh — hưởng phúc", "Dịch vụ, sáng tạo", "Lười, thiếu chí tiến"],
+                  ["Liêm Trinh", "Tù tinh — quan/pháp luật", "Luật, công an, hành chính", "Vướng pháp lý nếu lệch"],
+                  ["Thiên Phủ", "Kho tinh — sung túc", "Bất động sản, gia nghiệp", "Bảo thủ, sợ rủi ro"]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Câu nào MÔ TẢ ĐÚNG ý nghĩa của Tử Vi tại Mệnh?",
+          "options": [
+            "Sao chủ về tiền bạc, người mệnh Tử Vi thường giàu nhất",
+            "Đế tinh, người có khí chất lãnh đạo, thích hợp quản lý",
+            "Sao của trí tuệ, người mệnh Tử Vi rất thông minh",
+            "Sao đào hoa, người mệnh Tử Vi nhiều tình cảm"
+          ],
+          "answer": 1,
+          "explanation": "Tử Vi là **Đế tinh** — sao chủ chòm Bắc Đẩu. Đóng Mệnh thì người có khí chất lãnh đạo, đoan trang, được kính trọng. Tiền bạc là vai trò của Vũ Khúc và Thiên Phủ; trí tuệ là Thiên Cơ; đào hoa là Tham Lang và Liêm Trinh."
+        },
+        {
+          "question": "'Nhật Nguyệt tịnh minh' là cách cục được tạo bởi tổ hợp nào?",
+          "options": [
+            "Tử Vi + Thiên Phủ tại Dần/Thân",
+            "Thái Dương + Thái Âm tại Sửu/Mùi",
+            "Vũ Khúc + Tham Lang tại Sửu/Mùi",
+            "Thiên Cơ + Cự Môn tại Mão/Dậu"
+          ],
+          "answer": 1,
+          "explanation": "**'Nhật Nguyệt tịnh minh'** = Mặt Trời (Thái Dương) + Mặt Trăng (Thái Âm) cùng sáng tại Sửu/Mùi. Đây là cách cục đại quý, danh tiếng vang xa. Tử Phủ Dần/Thân là 'Tử Phủ đồng cung'; Vũ Tham Sửu Mùi + Hỏa/Linh là 'Hỏa Tham cách'."
+        },
+        {
+          "question": "Người mệnh Vũ Khúc nên CẨN THẬN điều gì nhất?",
+          "options": [
+            "Vướng pháp luật, kiện tụng",
+            "Lo nghĩ quá nhiều, mất ngủ",
+            "Quan hệ tình cảm khô khan do tính cương trực, ít nói",
+            "Hưởng phúc quá đà, lười biếng"
+          ],
+          "answer": 2,
+          "explanation": "Vũ Khúc tính **cương trực, quyết đoán nhanh**, giỏi tiền bạc — nhưng đổi lại **ít nói chuyện tình cảm, lạnh lùng**, dễ làm vợ con cảm thấy xa cách. Vướng pháp luật là Liêm Trinh; lo nghĩ là Thiên Cơ; lười là Thiên Đồng."
+        },
+        {
+          "question": "Thiên Phủ tại Mệnh KHÔNG hợp với loại công việc nào?",
+          "options": [
+            "Bất động sản, đầu tư dài hạn",
+            "Khởi nghiệp công nghệ với rủi ro cao",
+            "Quản lý doanh nghiệp gia đình kế thừa",
+            "Tài chính ngân hàng, kế toán"
+          ],
+          "answer": 1,
+          "explanation": "Thiên Phủ chủ **kho tàng, ổn định, không thích mạo hiểm**. Khởi nghiệp công nghệ rủi ro cao đi ngược bản chất Thiên Phủ — sẽ rất căng thẳng, dễ thất bại. Người này hợp các nghề **chắc chắn, kế thừa, dài hạn**."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tại sao Mệnh ca cổ chỉ nói về 14 chính tinh mà không nhắc đến phụ tinh?",
+          "answer": "Phụ tinh có **63+ sao**, không thể đưa hết vào một bài ca thuộc lòng. Mệnh ca chỉ cho **khung chính** — sau đó người thầy phối hợp phụ tinh để chi tiết. Nó giống như học **âm giai chính** trước khi học hợp âm phức tạp."
+        },
+        {
+          "question": "Lời ca nói 'quan cao chức trọng' — ngày nay không còn chế độ phong kiến thì hiểu thế nào?",
+          "answer": "Đọc thành **'có vị trí quan trọng, được trọng dụng trong xã hội'** — có thể là CEO, chuyên gia hàng đầu, nghệ sĩ có tiếng, chính trị gia. Ý cốt lõi là **danh tiếng + quyền uy + được người kính trọng**, không nhất thiết là quan chức nhà nước."
+        },
+        {
+          "question": "Tôi mệnh Tử Vi mà thấy mình không có khí chất lãnh đạo gì cả — lá số sai?",
+          "answer": "Không sai. Có nhiều khả năng: (1) Tử Vi của bạn **hãm địa** (Mão, Dậu) hoặc **đơn độc không phụ tinh**; (2) gặp Sát tinh chiếu nặng; (3) Mệnh có sao chính khác mạnh hơn lấn át; (4) bạn chưa qua giai đoạn phát triển — nhiều khi Mệnh phát muộn (40+). Phải đọc toàn bộ lá số, không chỉ Mệnh."
+        },
+        {
+          "question": "Mệnh ca có khác giữa Tử Vi Bắc phái và Nam phái không?",
+          "answer": "**Có, khác nhau đáng kể.** Mệnh ca Việt Nam dùng phổ biến là **phái Nam Tống** (Hi Di tiên sinh) — chú trọng cát hung. Phái Bắc (Đài Loan, Hong Kong hiện đại) chú trọng **Tứ Hóa** hơn. Bài học này theo phái Nam (cũng là phái Tân Biên 1956 và Toàn Thư Vũ Tài Lục)."
+        }
+      ]
+    },
+    {
+      "id": "nam-menh-ca-2",
+      "slug": "nam-menh-ca-2",
+      "title": "Nam Mệnh ca — Chòm Nam Đẩu (Thái Âm → Phá Quân)",
+      "module": "E",
+      "order": 2,
+      "duration_minutes": 25,
+      "story_hook": "Đã đọc xong 7 chính tinh đầu — bạn nắm được nửa 'bảng âm sắc'. Giờ học **7 sao còn lại** thuộc chòm Nam Đẩu: từ **Thái Âm** (mặt trăng dịu mát) đến **Phá Quân** (sao phá hoại để xây dựng mới).",
+      "key_metaphor": "Nếu chòm Bắc Đẩu giống **mùa Xuân-Hạ** (sinh trưởng, dương khí), thì chòm Nam Đẩu giống **mùa Thu-Đông** (thu hoạch, biến đổi). Mỗi sao có vai trò riêng — không sao nào tốt hay xấu tuyệt đối.",
+      "content": {
+        "sections": [
+          {
+            "title": "Thái Âm tại Mệnh — Mặt Trăng, sao của tài lộc âm hậu",
+            "body": "**Thái Âm** là **Mặt Trăng** — sao chủ **tài lộc tích lũy, nội tâm, mỹ học**. Với nam mệnh, Thái Âm là **'tài tinh thứ hai'** (sau Vũ Khúc).",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thái Âm miếu vượng — bạch ngọc thiềm cung, tài quan song mỹ. Hãm địa — khắc mẹ, tha hương, tài đến rồi đi.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại nam mệnh:** Người **tinh tế, có gu thẩm mỹ, giỏi tích lũy**. Hợp **bất động sản, đầu tư dài hạn, mỹ thuật, văn chương, ngành liên quan phụ nữ** (mỹ phẩm, thời trang)."
+              },
+              {
+                "type": "note",
+                "text": "**Đặc thù nam mệnh:** Thái Âm là sao âm — nam mệnh có Thái Âm dễ **giàu cảm xúc, mềm mỏng**, có khi bị xem là 'tính nữ'. Quan hệ với **mẹ, vợ, con gái** rất quan trọng."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đẹp:** Thái Âm tại Hợi (miếu) → **'Nguyệt lãng thiên môn'** — thanh quý, tài lộc bền vững, hợp công việc trí thức."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tham Lang tại Mệnh — Đào hoa tinh, sao của dục vọng và cơ hội",
+            "body": "**Tham Lang** là sao **đa năng nhất** trong 14 chính tinh — vừa là **đào hoa tinh**, vừa là **giải ách tinh**, vừa là **tài tinh** khi gặp Hỏa/Linh.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Tham Lang đa năng đa nghệ, tửu sắc tài khí. Hợp Hỏa Linh — đại phú đột phát. Hãm gặp Sát — phù hoa, tửu sắc lụy thân.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **kinh doanh, marketing, giải trí, ngành cần sáng tạo + giao tiếp**. Người này **giỏi nắm bắt cơ hội**, học gì cũng nhanh."
+              },
+              {
+                "type": "note",
+                "text": "**Tính cách:** Đa đoan tình cảm, thích vui chơi, dễ sa vào rượu chè/cờ bạc nếu không có sao Sát kích phấn đấu."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục nổi tiếng:** Tham Lang + Hỏa Tinh (hoặc Linh Tinh) → **'Hỏa Tham cách' / 'Linh Tham cách'** — bùng nổ tài lộc bất ngờ, làm giàu nhanh chóng. Nhưng đến nhanh đi cũng nhanh."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Cự Môn tại Mệnh — Ám tinh, sao của khẩu thiệt",
+            "body": "**Cự Môn** là **ám tinh** — sao chủ về **lời nói, miệng lưỡi, tranh luận**. Đóng Mệnh thì người **khẩu tài giỏi nhưng dễ thị phi**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Cự Môn ám tinh, chủ khẩu thiệt. Miếu hợp Lộc — văn chương quý hiển, hùng biện danh xa. Hãm — thị phi, khẩu thiệt, lao ngục.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **luật sư, giáo viên, truyền thông, MC, bán hàng, ngoại giao**. Người này **nói giỏi**, có khả năng thuyết phục mạnh."
+              },
+              {
+                "type": "note",
+                "text": "**Cảnh báo:** Cự Môn dễ **bị hiểu lầm, vướng thị phi**. Người này hay 'nói thật mất lòng', dễ gây xích mích. Cần học **giữ lời**."
+              },
+              {
+                "type": "example",
+                "text": "**Tổ hợp tốt:** Cự Môn + Thái Dương (Dần/Thân) → **'Cự Nhật đồng cung'** — danh tiếng nhờ ngôn từ, hợp ngoại giao, văn chương lớn."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Tướng tại Mệnh — Ấn tinh, sao của chức vị và phong cách",
+            "body": "**Thiên Tướng** là **ấn tinh** — sao chủ về **chức tước, ấn tín, sự chỉn chu, công bằng**. Người này **mẫu mực, đáng tin**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thiên Tướng tướng ấn, tính trung hậu, mạo phục đoan trang. Miếu hợp Tử Phủ — quan cao quyền trọng. Hãm — nô bộc tinh, làm việc cho người khác.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **hành chính, quản lý cấp trung, ngành cần chuẩn mực** (luật, kế toán, công vụ). Người này **đáng tin, công bằng, ăn mặc lịch sự**."
+              },
+              {
+                "type": "note",
+                "text": "**Đặc thù:** Thiên Tướng là **'phụ tướng'** — phát huy mạnh nhất khi **hỗ trợ Tử Vi hoặc người khác**, không thích hợp tự khởi nghiệp đơn độc."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục quan trọng:** Thiên Tướng cô độc + Kình Đà xung → **'Hình ngộ Tướng'** — vướng kiện tụng, danh dự bị tổn thương."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Lương tại Mệnh — Ấm tinh, sao của trưởng thượng và giải nguy",
+            "body": "**Thiên Lương** là **ấm tinh** — sao chủ về **trưởng bối, giải nguy, đức độ, y dược**. Người này **nhân hậu, được người trên che chở**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thiên Lương lão thành, đức cao trọng vọng. Hợp Đồng/Cơ — phong hiến chi danh, lương y giải nạn. Hãm — phiêu đãng, ưa du lịch.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **y học, giáo dục, từ thiện, tư vấn, ngành cần đạo đức cao**. Người này có **'phong thái lão thành'** — già dặn trước tuổi."
+              },
+              {
+                "type": "note",
+                "text": "**Đặc tính nổi bật:** **'Giải nguy'** — khi gặp khó khăn, thường có quý nhân giúp đỡ. Bệnh tật cũng dễ qua. Đây là sao **phúc đức mạnh**."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo:** Thiên Lương + Mã (Tỵ/Hợi/Dần/Thân) → người **mê đi lại, không ở yên** — hợp nghề di chuyển (ngoại giao, du lịch), nhưng gia đình khó ổn."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thất Sát tại Mệnh — Tướng tinh, sao của khí phách",
+            "body": "**Thất Sát** là **tướng tinh** — sao chủ về **dũng khí, hành động, chiến đấu**. Người này **mạnh mẽ, độc lập, hay xông pha**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Thất Sát tướng tinh, oai hùng quả cảm. Miếu hợp Tử Vi — đại quyền hiển hách. Hãm gặp Sát — yểu chiết, hình thương, kiếp lộ.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **quân đội, công an, khởi nghiệp, ngành cần dũng khí + quyết liệt**. Người này **không sợ khó, dám đối đầu thử thách**."
+              },
+              {
+                "type": "note",
+                "text": "**Tính cách:** Cương trực, độc lập, không chịu nghe lời ai → khó làm việc dưới quyền người khác lâu. Phù hợp **tự làm chủ**."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo lớn:** Thất Sát + Liêm Trinh + Kình/Đà → **'Liêm Sát ngộ Kình'** — đại hung, dễ tai nạn, hình thương, tù tội. Cần cực kỳ thận trọng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Phá Quân tại Mệnh — Hao tinh, sao của phá cũ lập mới",
+            "body": "**Phá Quân** là **hao tinh** — sao chủ về **phá vỡ, đổi mới, mạo hiểm**. Người này **sáng tạo, không theo lối mòn, đời nhiều biến động**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca:** *'Phá Quân hao tinh, tính cường liệt, phá đãng vô độ. Miếu hợp Tử Vi — quân thần khánh hội, lập đại nghiệp. Hãm — vô gia, tha phương, lao tâm.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **khởi nghiệp đổi mới, công nghệ disrupting, sáng tạo, ngành cần phá vỡ lối cũ**. Người này **không thích ổn định**."
+              },
+              {
+                "type": "note",
+                "text": "**Tính cách:** Cá tính mạnh, không thích nghe ai, **thường bỏ học/nghỉ việc đột ngột**, thay đổi nhiều. Hợp với người làm việc độc lập."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đỉnh cao:** Phá Quân + Tử Vi tại Sửu/Mùi → **'Quân thần khánh hội'** — vua tôi gặp gỡ, lập đại nghiệp, một trong những cách cục cao nhất."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Tổng kết 7 chính tinh sau — đặc trưng nam mệnh",
+              "data": {
+                "headers": ["Chính tinh", "Nghĩa cốt lõi", "Hợp nghề", "Cảnh báo"],
+                "rows": [
+                  ["Thái Âm", "Tài tinh âm — tích lũy", "Bất động sản, mỹ thuật", "Nam mệnh: hơi mềm yếu"],
+                  ["Tham Lang", "Đào hoa + cơ hội", "Kinh doanh, marketing", "Tửu sắc, đa đoan"],
+                  ["Cự Môn", "Ám tinh — khẩu thiệt", "Luật, MC, ngoại giao", "Thị phi, mất lòng"],
+                  ["Thiên Tướng", "Ấn tinh — chức vị", "Hành chính, quản lý", "Phụ tướng, khó độc lập"],
+                  ["Thiên Lương", "Ấm tinh — giải nguy", "Y dược, giáo dục", "Mê đi lại, khó ổn định"],
+                  ["Thất Sát", "Tướng tinh — dũng khí", "Quân đội, khởi nghiệp", "Liêm Sát Kình → tai nạn"],
+                  ["Phá Quân", "Hao tinh — đổi mới", "Disruption, sáng tạo", "Nhiều biến động, lao tâm"]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "'Quân thần khánh hội' là cách cục được tạo bởi tổ hợp nào?",
+          "options": [
+            "Tử Vi + Thiên Phủ tại Dần/Thân",
+            "Tử Vi + Phá Quân tại Sửu/Mùi",
+            "Thái Dương + Thái Âm tại Sửu/Mùi",
+            "Tham Lang + Hỏa Tinh"
+          ],
+          "answer": 1,
+          "explanation": "**'Quân thần khánh hội'** = Tử Vi (vua) + Phá Quân (tướng phá trận) tại Sửu/Mùi — vua tôi gặp gỡ, cùng lập đại nghiệp. Đây là một trong những cách cục cao quý nhất. Tử Phủ Dần Thân = 'Tử Phủ đồng cung'; Nhật Nguyệt Sửu Mùi = 'Nhật Nguyệt tịnh minh'; Tham + Hỏa = 'Hỏa Tham cách'."
+        },
+        {
+          "question": "Người mệnh Cự Môn cần CẨN THẬN nhất điều gì?",
+          "options": [
+            "Mạo hiểm tài chính dẫn đến phá sản",
+            "Thị phi, lời nói gây xích mích, hiểu lầm",
+            "Tình cảm đa đoan, lụy vì tửu sắc",
+            "Bị hiểu lầm và vướng pháp luật về tài chính"
+          ],
+          "answer": 1,
+          "explanation": "Cự Môn là **ám tinh** — sao của lời nói. Khẩu tài giỏi nhưng cũng **dễ vướng thị phi, mất lòng người khác, bị hiểu lầm**. Đây là 'gót chân Achilles' của Cự Môn. Đa đoan tửu sắc là Tham Lang; vướng pháp luật là Liêm Trinh."
+        },
+        {
+          "question": "Thiên Lương được gọi là 'ấm tinh' vì lý do nào?",
+          "options": [
+            "Vì người mệnh Thiên Lương sống ở vùng khí hậu ấm áp",
+            "Vì đem lại 'ơn ấm' — giải nguy, có quý nhân che chở, đức cao trọng vọng",
+            "Vì người mệnh Thiên Lương rất tình cảm, ấm áp với mọi người",
+            "Vì sao này thuộc hành Hỏa — nóng và ấm"
+          ],
+          "answer": 1,
+          "explanation": "**'Ấm tinh'** (蔭星) nghĩa là 'sao che chở, đem lại bóng mát'. Thiên Lương chủ về **giải nguy, có quý nhân/trưởng bối che chở**, đức độ cao được người trọng. Không liên quan khí hậu hay nhiệt độ. Hành của Thiên Lương là **Mộc**, không phải Hỏa."
+        },
+        {
+          "question": "Phá Quân tại Mệnh nói lên điều gì về CUỘC SỐNG người đó?",
+          "options": [
+            "Cuộc đời ổn định, ít biến cố, hưởng phúc trọn vẹn",
+            "Cuộc đời nhiều biến động, hay đổi mới, không theo lối mòn",
+            "Cuộc đời êm ả, được gia đình che chở",
+            "Cuộc đời chỉ tập trung kiếm tiền, không quan tâm khác"
+          ],
+          "answer": 1,
+          "explanation": "Phá Quân = **'phá cũ lập mới'**. Người mệnh Phá Quân **nhiều biến động** — hay đổi nghề, đổi nơi ở, bỏ học/nghỉ việc đột ngột, không thích sự ổn định. Hợp với **disruption, đổi mới**. Cuộc sống ổn định là Thiên Phủ; gia đình che chở là Thiên Đồng/Thiên Lương."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tại sao Thất Sát + Liêm Trinh + Kình lại nguy hiểm đến vậy?",
+          "answer": "Cả 3 đều là sao **cương liệt + sát phạt**: Thất Sát (tướng tinh chiến đấu) + Liêm Trinh (tù tinh, pháp luật) + Kình Dương (hung tinh thương tật). Tổ hợp này tạo ra **cường độ sát khí cực mạnh** — người này hành động bốc đồng, dễ va chạm pháp luật, dễ tai nạn hình thương. Lịch sử Tử Vi ghi nhiều ví dụ lá số tướng cướp, võ sĩ chết trận có cách này."
+        },
+        {
+          "question": "Tham Lang đào hoa thì có nhất thiết là người 'xấu' không?",
+          "answer": "**Không.** Đào hoa của Tham Lang có 2 mặt: (1) **sức hút cá nhân** — hợp marketing, giải trí, lãnh đạo cộng đồng; (2) **đa tình** — nếu không có sao Sát kiềm chế. Người mệnh Tham Lang **thông minh, đa năng** — nhiều nhà lãnh đạo, nghệ sĩ, doanh nhân thành công có mệnh Tham Lang. Quan trọng là **giữ kỷ luật cá nhân**."
+        },
+        {
+          "question": "Nam mệnh có Thái Âm — có 'kém nam tính' thật không?",
+          "answer": "Lời ca cổ phản ánh **quan niệm xã hội phong kiến** rằng 'nam mạnh, nữ mềm'. Hiện đại đọc thành: nam Thái Âm **tinh tế, có gu thẩm mỹ, giỏi quan sát chi tiết, tình cảm sâu sắc** — đây là **lợi thế** trong nhiều ngành (thiết kế, văn chương, tâm lý học, tài chính). Không có chuyện 'kém' — chỉ là **khí chất khác** với Thái Dương."
+        },
+        {
+          "question": "Mệnh Phá Quân thì có nên khởi nghiệp không?",
+          "answer": "**Rất hợp** — nếu có **phụ tinh hỗ trợ** (Tả Hữu, Xương Khúc, Lộc Tồn). Phá Quân + Tử Vi đặc biệt mạnh — đây là cách của những người **lập đại nghiệp từ con số 0**. Nhưng Phá Quân **đơn độc + Sát tinh** → khởi nghiệp dễ thất bại liên tục. Phải đọc cả lá số, đặc biệt cung **Tài Bạch** và **Quan Lộc**."
+        }
+      ]
+    },
+    {
+      "id": "nu-menh-ca-1",
+      "slug": "nu-menh-ca-1",
+      "title": "Nữ Mệnh ca — Chòm Bắc Đẩu (Tử Vi → Liêm Trinh) + Thiên Phủ",
+      "module": "E",
+      "order": 3,
+      "duration_minutes": 28,
+      "story_hook": "Tại sao Tử Vi cổ có **Mệnh ca riêng cho nữ**? Vì xã hội xưa **vai trò nam/nữ hoàn toàn khác** — nam lo công danh, nữ lo gia đình. Lời ca cổ vì thế đánh giá **chất tốt-xấu khác hẳn**. Học bài này phải **đọc 2 lớp**: lớp cổ + lớp hiện đại.",
+      "key_metaphor": "Như đọc thơ Đường thời nay — phải hiểu **bối cảnh viết** (1000 năm trước) rồi mới hiểu **ý nghĩa cốt lõi** (mãi mãi đúng). Cốt lõi không đổi: **tính cách + năng lực**. Cái thay đổi: **vai trò xã hội**.",
+      "content": {
+        "sections": [
+          {
+            "title": "Lưu ý đặc biệt khi đọc Nữ Mệnh ca",
+            "body": "Nữ Mệnh ca cổ viết trong xã hội phong kiến — có nhiều câu cần **đọc lại với góc nhìn hiện đại**:",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**'Vượng phu ích tử'** (giúp chồng, lợi con) — ngày nay đọc thành **'có khả năng hỗ trợ partner và gia đình'**, không có nghĩa người nữ chỉ có giá trị qua chồng con."
+              },
+              {
+                "type": "note",
+                "text": "**'Khắc phu'** (khắc chồng) — không phải 'gây hại cho chồng'. Thực tế là: tính cách quá mạnh + chồng tính yếu → hôn nhân khó hợp. Giải pháp: **chọn partner mạnh tương xứng**, không phải 'làm yếu mình đi'."
+              },
+              {
+                "type": "note",
+                "text": "**'Tinh cường' (sao mạnh) — xưa coi là xấu cho nữ.** Ngày nay: sao mạnh = **lãnh đạo, sự nghiệp**. Người nữ hiện đại có Tử Vi/Vũ Khúc/Thất Sát/Phá Quân Mệnh = phù hợp **làm sếp, kinh doanh, nghề độc lập**."
+              },
+              {
+                "type": "application",
+                "text": "**Nguyên tắc đọc:** Bỏ qua lớp đánh giá đạo đức (tốt/xấu), giữ lại **mô tả tính cách + năng lực**. Vận dụng theo bối cảnh sống thật của người được xem."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tử Vi tại Mệnh (nữ) — Nữ vương khí chất",
+            "body": "**Tử Vi nữ mệnh** — sao Đế đóng Mệnh nữ. Người này **có khí chất quý phái, tự chủ, không chịu thua thiệt**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Tử Vi nữ mệnh quý vinh — tài quan hiển hách, vượng phu ích tử. Cô độc nếu vô phụ tinh — nữ chí cường.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Người nữ **độc lập, có tham vọng, làm sếp tốt**. Hợp **lãnh đạo doanh nghiệp, chính trị, nghề có địa vị**. Khí chất tự nhiên được tôn trọng."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Khó tìm partner xứng đáng — vì tính cách mạnh, đòi hỏi cao. Nếu chồng yếu hơn → quan hệ căng thẳng. Hợp với người **cùng tầm hoặc mạnh hơn**."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đẹp:** Tử Vi + Tả Phụ + Hữu Bật → 'phụ bật củng chủ' — có người giúp đỡ, sự nghiệp thuận lợi, hôn nhân tốt."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Cơ tại Mệnh (nữ) — Trí tinh, sáng dạ thông minh",
+            "body": "**Thiên Cơ nữ mệnh** — người **thông minh, đa tài, học gì cũng nhanh**. Đặc biệt giỏi **tính toán, lập kế hoạch**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thiên Cơ nữ mệnh thông tuệ — phòng khuê chính tĩnh. Hợp Lương — phúc thọ song toàn. Hãm — tha hương lập nghiệp.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **nghiên cứu, IT, tài chính, tư vấn, giáo dục**. Người nữ này thường **không chịu ở yên** — thích học hỏi, di chuyển, khám phá."
+              },
+              {
+                "type": "note",
+                "text": "**Tính cách:** Suy nghĩ nhiều → dễ lo âu, mất ngủ. Cần học **buông bỏ**, đừng ôm việc quá mức."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục tốt:** Cơ + Nguyệt + Đồng + Lương (Dần/Thân) → **'Cơ Nguyệt Đồng Lương'** cách — hợp công việc trí thức ổn định, đời an yên."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thái Dương tại Mệnh (nữ) — Đặc thù: 'nam tính' khí chất",
+            "body": "**Thái Dương nữ mệnh** — sao dương khí đóng Mệnh nữ. Người này **mạnh mẽ, sáng sủa, có khí phách**. Xưa coi là 'không hợp nữ giới', nay hoàn toàn ngược lại.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thái Dương nữ mệnh — quá cương kiện, dễ khắc phu. Miếu — quý hiển, làm gương gia tộc. Hãm — khắc cha, danh phận muộn.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Đây là **lá số cực hợp phụ nữ hiện đại**! Người này **xuất chúng, có sức ảnh hưởng**. Hợp **truyền thông, lãnh đạo, ngành đứng trước công chúng** — chính khách nữ, doanh nhân nữ."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Thường lấy chồng muộn hoặc lấy người **cùng đẳng cấp**. Cảnh báo cổ 'khắc phu' chỉ đúng khi chọn partner yếu — nên chọn người **tự tin, không sợ vợ giỏi**."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đẹp:** Nhật Nguyệt tịnh minh (Sửu/Mùi) cũng tốt cho nữ — vinh hiển danh tiếng, được người kính trọng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Vũ Khúc tại Mệnh (nữ) — Tài tinh, người phụ nữ giỏi tiền bạc",
+            "body": "**Vũ Khúc nữ mệnh** — người nữ **giỏi tài chính, quyết đoán, làm việc nhanh**. Xưa coi là **'khắc phu'**, nay là sao quý cho phụ nữ kinh doanh.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Vũ Khúc nữ mệnh cương kiện — thường khắc phu, cô độc. Miếu hợp Lộc — phú thương đại gia.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** **Cực hợp phụ nữ làm kinh doanh, tài chính, kế toán, ngân hàng, bất động sản**. Khả năng **quản lý tiền bạc xuất sắc** — gia đình giàu lên nhờ bạn."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Tính trực tiếp, không thích đa cảm dài dòng — dễ bị hiểu là 'lạnh lùng'. Nên **chọn partner thực tế, không ướt át**."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đại phú:** Vũ Khúc + Lộc Tồn + Hóa Lộc → đại tài lộc, gia sản nhiều đời."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Đồng tại Mệnh (nữ) — Phúc tinh, người phụ nữ ôn hòa",
+            "body": "**Thiên Đồng nữ mệnh** — người **dịu dàng, được yêu mến, sống an yên**. Đây là sao **rất hợp nữ giới** theo cả cổ truyền lẫn hiện đại.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thiên Đồng nữ mệnh hiền lương — tướng mạo đoan trang, phúc thọ song toàn. Vượng phu ích tử.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **nghề dịch vụ, nghệ thuật, ẩm thực, chăm sóc** (y tá, giáo viên mẫu giáo, tâm lý). Người này **được lòng mọi người**, kết bạn dễ dàng."
+              },
+              {
+                "type": "note",
+                "text": "**Khuyết điểm:** Vì ôn hòa nên **thiếu chí phấn đấu**, dễ bằng lòng với hiện tại, ít đột phá."
+              },
+              {
+                "type": "example",
+                "text": "**Tổ hợp đẹp:** Đồng + Lương (Dần/Thân) → người **nhân hậu + thông minh + được trọng vọng**."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Liêm Trinh tại Mệnh (nữ) — Phức tạp nhất trong 14 sao",
+            "body": "**Liêm Trinh nữ mệnh** — sao **đa biến nhất**, có thể đại cát hoặc đại hung. Xưa coi là 'sao đào hoa thứ phẩm' cho nữ.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Liêm Trinh nữ mệnh — phòng tâm phù hoa. Miếu hợp Lộc — quý hiển, có quyền. Hãm gặp Sát — đào hoa lộn xộn, kiện tụng.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **luật, công an, hành chính, ngành cần nguyên tắc + thẩm mỹ** (kiến trúc, thiết kế). Người này **cá tính mạnh, có gu**."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Đa đoan, có **sức hút mạnh** với người khác giới. Cần cẩn thận **không sa vào quan hệ phức tạp**. Hôn nhân có thể không trôi chảy ngay lần đầu."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo:** Liêm Trinh + Tham Lang + Đào Hoa → 'sắc đào hoa quá nồng' — dễ vướng tình cảm rối ren."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Phủ tại Mệnh (nữ) — Kho tinh, người phụ nữ sung túc",
+            "body": "**Thiên Phủ nữ mệnh** — sao kho tàng đóng Mệnh nữ. Người này **đoan trang, sung túc, biết quản lý gia sản**. Xưa và nay đều coi là **sao quý cho nữ**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thiên Phủ nữ mệnh tâm địa thuần hậu — phẩm hạnh đoan trang, vượng phu ích tử, gia sản phong phú.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **tài chính, quản lý, bất động sản, doanh nghiệp gia đình**. Người này **ổn định, đáng tin, biết tích lũy**."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Hôn nhân thường **ổn định, bền vững**. Là 'mẹ hiền vợ thảo' theo nghĩa cổ — nhưng cũng không nhường nhịn vô điều kiện."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo:** Thiên Phủ cô độc + Không Kiếp → 'kho rỗng' — vẻ ngoài có vẻ giàu nhưng thực ra túng thiếu, cần tránh tiêu xài hoang phí."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Tổng kết 7 chính tinh đầu — đặc trưng nữ mệnh (cổ vs hiện đại)",
+              "data": {
+                "headers": ["Chính tinh", "Cổ truyền nói", "Hiện đại đọc"],
+                "rows": [
+                  ["Tử Vi", "Quý vinh nhưng cô độc", "Lãnh đạo nữ, độc lập, cần partner xứng"],
+                  ["Thiên Cơ", "Thông tuệ phòng khuê", "Trí thức, nghiên cứu, IT, tư vấn"],
+                  ["Thái Dương", "Quá cương, khắc phu", "Lãnh đạo, truyền thông, sức ảnh hưởng"],
+                  ["Vũ Khúc", "Cương kiện khắc phu", "Kinh doanh, tài chính xuất sắc"],
+                  ["Thiên Đồng", "Hiền lương vượng phu", "Dịch vụ, chăm sóc, được yêu mến"],
+                  ["Liêm Trinh", "Đào hoa phức tạp", "Luật, thiết kế, cá tính mạnh"],
+                  ["Thiên Phủ", "Đoan trang sung túc", "Quản lý, bất động sản, ổn định"]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Câu nào ĐÚNG về cách đọc Nữ Mệnh ca cổ trong bối cảnh hiện đại?",
+          "options": [
+            "Phải đọc nguyên văn, không được sửa đổi vì sẽ mất tính chính xác",
+            "Bỏ qua hoàn toàn vì lỗi thời, không còn giá trị",
+            "Giữ lại mô tả tính cách + năng lực, vận dụng theo bối cảnh thực tế người được xem",
+            "Đảo ngược ý nghĩa — cổ nói tốt thì đọc là xấu, cổ nói xấu thì đọc là tốt"
+          ],
+          "answer": 2,
+          "explanation": "Nguyên tắc đúng: **giữ cốt lõi (tính cách + năng lực), bỏ lớp đánh giá đạo đức theo xã hội cổ**, vận dụng theo bối cảnh sống thật. Không đọc nguyên văn (lỗi thời), không bỏ hoàn toàn (vẫn có giá trị mô tả), không đảo ngược (ngây thơ)."
+        },
+        {
+          "question": "Phụ nữ hiện đại có Thái Dương Mệnh nên hiểu thế nào?",
+          "options": [
+            "Lá số xấu vì 'quá cương kiện khắc phu', nên kiêng kỵ lãnh đạo",
+            "Lá số rất hợp phụ nữ hiện đại — xuất chúng, có sức ảnh hưởng, hợp lãnh đạo + truyền thông",
+            "Phải lấy chồng sớm để tránh 'khắc phu', nếu không sẽ ế",
+            "Chỉ nên làm các nghề truyền thống dành cho nữ"
+          ],
+          "answer": 1,
+          "explanation": "Thái Dương nữ mệnh trong xã hội hiện đại là **lợi thế lớn**: sức ảnh hưởng, khí chất lãnh đạo, hợp truyền thông + chính trị + doanh nhân. 'Khắc phu' cổ chỉ đúng khi chọn partner yếu hơn — nên chọn người tự tin, không sợ vợ giỏi."
+        },
+        {
+          "question": "Sao nào XƯA NAY ĐỀU coi là 'rất hợp nữ giới', ít có ý kiến trái chiều?",
+          "options": [
+            "Tử Vi",
+            "Vũ Khúc",
+            "Thiên Đồng",
+            "Liêm Trinh"
+          ],
+          "answer": 2,
+          "explanation": "**Thiên Đồng** (phúc tinh) — cổ và hiện đại đều khen 'hiền lương, vượng phu ích tử, được yêu mến'. Tử Vi (cổ cảnh báo cô độc); Vũ Khúc (cổ nói khắc phu); Liêm Trinh (cổ cảnh báo đào hoa phức tạp)."
+        },
+        {
+          "question": "Nữ mệnh có Vũ Khúc nên CHỌN partner thế nào?",
+          "options": [
+            "Người dịu dàng, lãng mạn, ướt át nhiều cảm xúc",
+            "Người thực tế, ổn định, không quá đa cảm",
+            "Người yếu đuối để mình dẫn dắt",
+            "Người giàu hơn để dựa vào"
+          ],
+          "answer": 1,
+          "explanation": "Vũ Khúc nữ tính **thực tế, quyết đoán, không thích đa cảm dài dòng**. Partner ướt át lãng mạn dễ bị hiểu lầm là 'phiền phức'. Người thực tế, vững vàng, hành động hơn lời nói sẽ hợp. Không nên dùng tiêu chí 'yếu hơn để mình lấn' hay 'giàu hơn để dựa vào' — đó là chọn theo lo lắng, không phải tính hợp."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tôi (nữ) có Mệnh Tử Vi đứng đầu, có nên 'làm yếu mình đi' để dễ lập gia đình?",
+          "answer": "**Không.** 'Làm yếu mình đi' là **phản tự nhiên** — sẽ luôn cảm thấy gò bó, không hạnh phúc. Đúng hướng là: (1) phát triển sự nghiệp xứng tầm; (2) tìm partner cùng đẳng cấp hoặc mạnh hơn — người tự tin sẽ KHÔNG sợ vợ giỏi; (3) chấp nhận khả năng kết hôn muộn (sau 30) hoặc không cần kết hôn nếu chưa gặp người đúng. Nhiều phụ nữ Tử Vi sống hạnh phúc, sự nghiệp rạng rỡ — chìa khóa là **đúng người**."
+        },
+        {
+          "question": "Cụm từ 'vượng phu ích tử' có ý nghĩa thật là gì?",
+          "answer": "Cổ nghĩa: 'làm chồng phất lên, giúp con cái nên người'. Đọc hiện đại: **người partner có năng lực hỗ trợ, đem lại may mắn + giá trị cho gia đình** — KHÔNG có nghĩa người nữ chỉ tồn tại để phục vụ chồng con. Một nữ doanh nhân có thu nhập cao, tâm lý tốt → cũng là 'vượng phu ích tử' theo nghĩa hiện đại. Cốt lõi là **năng lực + ảnh hưởng tích cực**."
+        },
+        {
+          "question": "Sao nào xưa coi là 'tệ nhất cho nữ' nhưng hiện đại lại là 'lợi thế'?",
+          "answer": "**Thái Dương + Vũ Khúc + Thất Sát + Phá Quân** — bốn sao 'cương kiện' nhất. Xưa: 'khắc phu, cô độc, không phụ nữ'. Hiện đại: **lãnh đạo nữ, doanh nhân nữ, nhà cách mạng nữ**. Nhiều CEO nữ, chính trị gia nữ nổi tiếng có Mệnh các sao này. Vai trò xã hội thay đổi → ý nghĩa thay đổi."
+        },
+        {
+          "question": "Có Mệnh Liêm Trinh thì có chắc chắn vướng đào hoa phức tạp?",
+          "answer": "**Không chắc chắn.** Liêm Trinh chỉ kích hoạt 'đào hoa phức tạp' khi: (1) cung Phu Thê có Tham Lang/Đào Hồng/Hóa Kỵ; (2) gặp Hỏa Linh/Kình Đà tăng cường tính dục vọng. Nếu Liêm Trinh **miếu vượng + có Lộc + Cung Phu Thê ổn định** → hôn nhân tốt, chỉ là người có gu thẩm mỹ và cá tính mạnh. Phải đọc cả lá số, đặc biệt cung Phu Thê."
+        }
+      ]
+    },
+    {
+      "id": "nu-menh-ca-2",
+      "slug": "nu-menh-ca-2",
+      "title": "Nữ Mệnh ca — Chòm Nam Đẩu (Thái Âm → Phá Quân)",
+      "module": "E",
+      "order": 4,
+      "duration_minutes": 28,
+      "story_hook": "Đã xong 7 chính tinh đầu cho nữ — giờ học **7 sao còn lại** thuộc chòm Nam Đẩu. Đặc biệt chú ý **Thái Âm** — đây là **sao quý nhất cho phụ nữ** trong toàn bộ Tử Vi (cả cổ và hiện đại đều khen).",
+      "key_metaphor": "Nếu 7 sao trước có những 'sao gây tranh cãi' (Vũ Khúc, Thái Dương), thì 7 sao sau có cả **sao đỉnh cao cho nữ** (Thái Âm, Thiên Lương) lẫn **sao thử thách nặng** (Thất Sát, Phá Quân). Học cách phân biệt **tính cách** với **vai trò xã hội**.",
+      "content": {
+        "sections": [
+          {
+            "title": "Thái Âm tại Mệnh (nữ) — Sao quý nhất cho phụ nữ",
+            "body": "**Thái Âm** = Mặt Trăng = âm khí. Đóng Mệnh nữ → **đúng âm dương, hợp khí chất**. Đây là sao **mọi sách Tử Vi đều khen** cho nữ.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thái Âm nữ mệnh miếu vượng — bạch ngọc thiềm cung. Đoan trang quý phái, tài quan song mỹ, vượng phu ích tử.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Người nữ **tinh tế, có gu thẩm mỹ cao, dịu dàng nhưng có chiều sâu**. Hợp **mỹ thuật, văn chương, bất động sản, đầu tư, ngành thiết kế**."
+              },
+              {
+                "type": "note",
+                "text": "**Đặc biệt:** Thái Âm chủ **tích lũy tài sản dài hạn** — không phải kiếm nhanh mà là **giữ + sinh sôi**. Người này hợp đầu tư bất động sản, vàng, tài sản dài hạn."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đỉnh cao:** Thái Âm tại Hợi (miếu) = **'Nguyệt lãng thiên môn'** — thanh quý, tài lộc bền vững, hôn nhân tốt."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tham Lang tại Mệnh (nữ) — Đào hoa + cơ hội + cá tính mạnh",
+            "body": "**Tham Lang nữ mệnh** — sao đa năng, đa đoan. Người nữ này **đa tài, có sức hút mạnh, học gì cũng nhanh**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Tham Lang nữ mệnh — tửu sắc đa đoan. Miếu hợp Hỏa — phú quý đột phát.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **kinh doanh, marketing, giải trí, nghệ thuật, ngành cần sáng tạo + quan hệ rộng**. Sức hút cá nhân là **tài sản lớn**."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Đa tình, dễ có nhiều mối quan hệ trước hôn nhân. Cần học **chọn lọc**, không để cảm xúc dẫn dắt. Hôn nhân nên đến **sau khi sự nghiệp ổn định**."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đặc biệt:** Tham + Hỏa/Linh + Lộc → **'Hỏa Tham cách'** — phụ nữ làm giàu nhanh chóng, sự nghiệp bùng nổ."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Cự Môn tại Mệnh (nữ) — Khẩu tài và thử thách thị phi",
+            "body": "**Cự Môn nữ mệnh** — người **nói giỏi, có khả năng thuyết phục cao**. Nhưng cũng dễ **vướng thị phi, lời ra tiếng vào**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Cự Môn nữ mệnh — khẩu thiệt thị phi. Miếu hợp Lộc — đại quý, hùng biện danh xa.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **luật sư, giáo viên, MC, ngoại giao, bán hàng cao cấp, podcaster**. Khả năng ngôn ngữ + thuyết phục là **lợi thế nghề nghiệp lớn**."
+              },
+              {
+                "type": "note",
+                "text": "**Cảnh báo:** Hay 'nói thẳng' nên dễ mất lòng. Trong gia đình → dễ xích mích với mẹ chồng, em chồng. Cần học **chọn lời chọn lúc**."
+              },
+              {
+                "type": "example",
+                "text": "**Tổ hợp đẹp:** Cự Môn + Thái Dương (Dần) → người nữ có **danh tiếng nhờ ngôn từ**, hợp truyền thông, ngoại giao tầm cao."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Tướng tại Mệnh (nữ) — Mẫu mực, đáng tin",
+            "body": "**Thiên Tướng nữ mệnh** — người **đoan trang, chuẩn mực, ăn mặc lịch sự, đáng tin**. Đây là sao **rất hợp công việc cần uy tín**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thiên Tướng nữ mệnh — phẩm hạnh đoan trang, vượng phu ích tử. Tướng mạo nhân hậu.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **hành chính, kế toán, luật, ngành cần độ tin cậy cao**. Là 'tay phải đáng tin' của sếp/đối tác."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Hôn nhân tốt, gia đình ổn định. Là **'mẹ hiền' đáng tin** cho con cái."
+              },
+              {
+                "type": "example",
+                "text": "**Đặc thù:** Thiên Tướng cô độc + Kình Đà xung → 'Hình ngộ Tướng' → dễ vướng tin đồn, danh dự tổn thương. Cần giữ kín đáo."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thiên Lương tại Mệnh (nữ) — Phúc đức, được trưởng bối che chở",
+            "body": "**Thiên Lương nữ mệnh** — người **nhân hậu, đức cao, có quý nhân giúp đỡ**. Đây cũng là **sao quý cho phụ nữ**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thiên Lương nữ mệnh — đức cao trọng vọng. Hợp Đồng/Cơ — phúc thọ song toàn, gia tộc hưng vượng.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **y học, giáo dục, từ thiện, tâm lý học, nghiên cứu**. Người này **được người trên yêu mến**, dễ thăng tiến nhờ quý nhân."
+              },
+              {
+                "type": "note",
+                "text": "**Đặc tính:** **Già dặn trước tuổi** — suy nghĩ chín chắn từ trẻ. Có thể **lấy chồng hơn tuổi nhiều** hoặc làm vợ hai (theo cổ truyền). Hiện đại: chọn partner trưởng thành, không tính chênh tuổi."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo:** Thiên Lương + Mã → mê đi lại, khó ở yên — gia đình khó ổn định. Hợp công việc di chuyển."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Thất Sát tại Mệnh (nữ) — Người phụ nữ khí phách",
+            "body": "**Thất Sát nữ mệnh** — sao tướng tinh đóng Mệnh nữ. Người này **mạnh mẽ, độc lập, hành động quyết liệt**. Xưa cảnh báo nặng, nay là **sao của nữ chiến binh**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Thất Sát nữ mệnh — cô độc khắc chồng, dễ bệnh tật hình thương.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **khởi nghiệp, lãnh đạo doanh nghiệp, ngành cần đối đầu thử thách**. Tinh thần **'không lùi bước'** là lợi thế lớn."
+              },
+              {
+                "type": "note",
+                "text": "**Tình cảm:** Khó tìm partner phù hợp — tính cách quá mạnh. Hợp với **đàn ông tự tin, không sợ vợ giỏi, có sự nghiệp riêng**. Có thể lấy chồng muộn hoặc không kết hôn."
+              },
+              {
+                "type": "example",
+                "text": "**Cảnh báo:** Thất Sát + Liêm Trinh + Kình → 'Liêm Sát ngộ Kình' — đại hung, cần cực kỳ thận trọng, dễ tai nạn hình thương."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Phá Quân tại Mệnh (nữ) — Người phụ nữ cách mạng",
+            "body": "**Phá Quân nữ mệnh** — sao hao đóng Mệnh nữ. Người này **cá tính cực mạnh, không theo lối mòn, đời nhiều biến động**. Xưa coi là 'sao không hợp nữ', nay là **sao của nữ disrupter**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Lời ca cổ:** *'Phá Quân nữ mệnh — cương liệt cô độc, tha hương lập nghiệp.'*"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Hợp **khởi nghiệp đổi mới, công nghệ, sáng tạo, ngành phá vỡ truyền thống**. Người nữ này **không chấp nhận khuôn mẫu cổ**."
+              },
+              {
+                "type": "note",
+                "text": "**Cuộc đời:** Nhiều biến động — đổi việc, đổi nơi ở, đổi quan hệ. Hôn nhân thường đến muộn hoặc trải qua biến cố. Hợp với **partner cùng tinh thần phiêu lưu**."
+              },
+              {
+                "type": "example",
+                "text": "**Cách cục đỉnh cao:** Phá Quân + Tử Vi (Sửu/Mùi) → **'Quân thần khánh hội'** — phụ nữ lập đại nghiệp từ con số 0. Nhiều nữ doanh nhân lớn có cách này."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Tổng kết 7 chính tinh sau — đặc trưng nữ mệnh (cổ vs hiện đại)",
+              "data": {
+                "headers": ["Chính tinh", "Cổ truyền nói", "Hiện đại đọc"],
+                "rows": [
+                  ["Thái Âm", "Quý phái đoan trang", "Tinh tế, mỹ thuật, đầu tư dài hạn"],
+                  ["Tham Lang", "Tửu sắc đa đoan", "Sức hút, kinh doanh, marketing"],
+                  ["Cự Môn", "Khẩu thiệt thị phi", "Luật, MC, ngoại giao, podcaster"],
+                  ["Thiên Tướng", "Phẩm hạnh đoan trang", "Hành chính, kế toán, đáng tin"],
+                  ["Thiên Lương", "Đức cao trọng vọng", "Y dược, giáo dục, quý nhân"],
+                  ["Thất Sát", "Cô độc khắc chồng", "Khởi nghiệp, lãnh đạo, chiến binh"],
+                  ["Phá Quân", "Cương liệt cô độc", "Disruption, đổi mới, cách mạng"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Tổng kết — Cách đọc Nữ Mệnh ca thế kỷ 21",
+            "body": "Sau 4 bài Mệnh ca (28 mục), bạn nắm được **khung tổng quát**. Để đọc tinh tế hơn, ghi nhớ 4 nguyên tắc:",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**1. Bối cảnh quyết định cát hung:** Cùng một sao, nhưng người làm doanh nhân vs người làm nội trợ → ý nghĩa khác hẳn. Đọc lá số phải **biết hoàn cảnh sống thật** của chủ nhân."
+              },
+              {
+                "type": "note",
+                "text": "**2. Tinh cường không phải là xấu cho nữ:** Sao mạnh → năng lực mạnh. Vấn đề là **chọn đúng partner và đúng con đường sự nghiệp**, không phải 'làm yếu mình đi'."
+              },
+              {
+                "type": "note",
+                "text": "**3. Đọc cả lá số, đừng chỉ Mệnh:** Mệnh tốt mà Phu Thê xấu → hôn nhân vẫn khó. Mệnh trung bình mà Tài Bạch tốt → vẫn giàu. Mệnh chỉ là **'điểm xuất phát'**."
+              },
+              {
+                "type": "application",
+                "text": "**4. Mệnh ca là điểm BẮT ĐẦU, không phải KẾT THÚC:** Học thuộc 28 mục này → có khung tổng. Để đọc sâu, kết hợp với **phụ tinh, tam phương tứ chính, đại vận, lưu niên**. Đó là cả hành trình."
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Sao nào được coi là 'quý nhất cho phụ nữ' trong cả Tử Vi cổ và hiện đại?",
+          "options": [
+            "Thái Dương — sao của danh tiếng",
+            "Thái Âm — sao Mặt Trăng đúng âm khí với nữ",
+            "Vũ Khúc — sao tài lộc mạnh",
+            "Phá Quân — sao của đổi mới"
+          ],
+          "answer": 1,
+          "explanation": "**Thái Âm** = Mặt Trăng = âm khí — đóng Mệnh nữ thì 'đúng âm dương'. Cổ khen: 'đoan trang quý phái, tài quan song mỹ'. Hiện đại đọc: tinh tế, có gu, giỏi tích lũy dài hạn. Thái Dương cổ cảnh báo 'khắc phu'; Vũ Khúc cổ nói 'khắc chồng'; Phá Quân cổ nói 'cô độc'."
+        },
+        {
+          "question": "'Nguyệt lãng thiên môn' là cách cục được tạo bởi tổ hợp nào?",
+          "options": [
+            "Thái Âm tại Hợi miếu địa",
+            "Thái Dương tại Ngọ miếu địa",
+            "Thái Âm + Thái Dương tại Sửu/Mùi",
+            "Thiên Lương tại Tỵ"
+          ],
+          "answer": 0,
+          "explanation": "**'Nguyệt lãng thiên môn'** = Mặt Trăng sáng tại cửa trời (cung Hợi). Thái Âm tại Hợi là miếu địa — thanh quý, tài lộc bền vững. Thái Dương Ngọ = 'Nhật lệ trung thiên'. Thái Âm + Thái Dương Sửu Mùi = 'Nhật Nguyệt tịnh minh'."
+        },
+        {
+          "question": "Nữ mệnh Thất Sát hiện đại NÊN xử lý chuyện hôn nhân thế nào?",
+          "options": [
+            "Cố gắng làm dịu tính cách để dễ lấy chồng",
+            "Chọn partner tự tin, có sự nghiệp riêng, không sợ vợ giỏi; chấp nhận khả năng kết hôn muộn",
+            "Tránh kết hôn vì sẽ 'khắc chồng' như lời ca cổ",
+            "Lấy chồng sớm trước khi phát huy tính cách mạnh"
+          ],
+          "answer": 1,
+          "explanation": "Phù hợp với khí chất Thất Sát: tìm partner **cùng tầm hoặc mạnh hơn**, có sự nghiệp riêng, không tự ti khi vợ giỏi. 'Làm yếu mình đi' (option A, D) là phản tự nhiên. Bỏ kết hôn vì cổ ca (option C) là quá ngây thơ. Nhiều nữ doanh nhân Thất Sát có hôn nhân hạnh phúc — chìa khóa là **đúng người**."
+        },
+        {
+          "question": "Đâu là nguyên tắc QUAN TRỌNG NHẤT khi đọc Mệnh ca cổ thế kỷ 21?",
+          "options": [
+            "Học thuộc nguyên văn, không sửa chữ nào",
+            "Bỏ hoàn toàn vì đã lỗi thời",
+            "Giữ mô tả tính cách + năng lực, bỏ lớp đánh giá đạo đức phong kiến, vận dụng theo bối cảnh sống thật",
+            "Áp dụng máy móc cho mọi người không phân biệt"
+          ],
+          "answer": 2,
+          "explanation": "Đây là **nguyên tắc cốt lõi** đã nhắc nhiều lần trong cả 2 bài Nữ Mệnh ca. Mệnh ca cổ mô tả đúng **tính cách + năng lực bản chất** — nhưng đánh giá tốt/xấu theo chuẩn mực xã hội cổ. Hiện đại đọc: giữ cốt, bỏ lớp đánh giá, vận dụng theo hoàn cảnh."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tôi (nữ) Mệnh Phá Quân — có nên khởi nghiệp không?",
+          "answer": "**Rất nên** — nếu lá số có **Tả Hữu / Xương Khúc / Lộc Tồn** hỗ trợ. Phá Quân là sao **disrupter** — phù hợp với startup, công nghệ, mô hình kinh doanh mới. Nhiều nữ doanh nhân lớn (founder, CEO) có Mệnh Phá Quân. Nhưng cần (1) chấp nhận đời nhiều biến động; (2) có tài chính dự phòng; (3) đọc thêm cung Tài Bạch + Quan Lộc xem hỗ trợ không."
+        },
+        {
+          "question": "Cự Môn nữ mệnh thường vướng thị phi với mẹ chồng — có cách hóa giải không?",
+          "answer": "Có 3 hướng: (1) **Sống riêng** ngay từ đầu — không ở chung sẽ giảm 80% xung đột; (2) **Học 'chọn lời chọn lúc'** — Cự Môn hay nói thẳng quá, cần luyện tế nhị; (3) **Tránh nói về tài chính + giáo dục con cái với mẹ chồng** — 2 chủ đề dễ gây căng nhất. Lưu ý: Cự Môn là 'sao khẩu thiệt', không thể TẮT hoàn toàn — chỉ có thể **chuyển hóa thành lợi thế** (nghề giao tiếp)."
+        },
+        {
+          "question": "Tham Lang nữ mệnh đa tình — có nhất thiết phải 'lăng nhăng' không?",
+          "answer": "**Không.** Đa tình = **giàu cảm xúc, dễ rung động** — không phải 'lăng nhăng'. Người Tham Lang **có sức hút** nên gặp nhiều cơ hội tình cảm hơn người khác. Vấn đề là **chọn lọc + tự kỷ luật**. Nhiều người Tham Lang chung thủy suốt đời. Cảnh báo cổ chỉ đúng khi: (1) cung Phu Thê có Đào Hồng + Hóa Kỵ; (2) thiếu sao Sát kiềm chế. Đọc toàn bộ lá số, không vội kết luận."
+        },
+        {
+          "question": "Sau 4 bài Mệnh ca này, tôi có thể tự đọc lá số được chưa?",
+          "answer": "**Đọc khung tổng được, đọc sâu chưa đủ.** Mệnh ca cho bạn **20% bức tranh** — chính tinh tại Mệnh. Còn 80%: (1) **phụ tinh** (Tả Hữu, Khôi Việt, Hỏa Linh, Kình Đà... — 50+ sao); (2) **tam phương tứ chính** (3 cung chiếu vào Mệnh); (3) **đại vận + lưu niên** (vận hạn theo thời gian); (4) **12 cung khác** (Phu Thê, Tài Bạch, Quan Lộc...). Để đọc đầy đủ → quay lại học các Module A→D, thực hành nhiều lá số."
+        }
+      ]
+    },
+    {
+      "id": "cach-cuc-dac-biet",
+      "slug": "cach-cuc-dac-biet",
+      "title": "Cách cục đặc biệt — 20+ tổ hợp sao định đoạt cuộc đời",
+      "module": "E",
+      "order": 5,
+      "duration_minutes": 35,
+      "story_hook": "Khi xem lá số, có những người Mệnh chỉ có **2-3 sao bình thường** mà vẫn **đại phú đại quý**. Bí mật nằm ở **'cách cục'** — những **tổ hợp sao đặc biệt** mà người xưa đã đúc kết qua hàng ngàn lá số. Chỉ cần lá số có một cách cục mạnh, vận mệnh thay đổi hoàn toàn.",
+      "key_metaphor": "Cách cục giống **'công thức hóa học'** trong Tử Vi: hai chất riêng lẻ bình thường, nhưng **kết hợp đúng tỉ lệ + đúng điều kiện** → tạo ra hợp chất mạnh mẽ. Một sao đơn độc có thể tầm thường, nhưng đặt đúng vị trí + đúng tổ hợp → trở thành cách quý.",
+      "content": {
+        "sections": [
+          {
+            "title": "Cách cục là gì? Vì sao quan trọng hơn từng sao riêng lẻ",
+            "body": "**Cách cục** = **tổ hợp các sao + vị trí đặc biệt** tạo nên ý nghĩa vượt trội. Đây là **'cấp số nhân'** trong Tử Vi — 1 + 1 không bằng 2 mà có thể bằng 10 hoặc 100.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Định nghĩa:** Cách cục là **mẫu hình** xuất hiện khi vài sao đứng vào đúng vị trí và đủ điều kiện. Có **trên 60 cách cục** được đặt tên trong Tử Vi truyền thống."
+              },
+              {
+                "type": "example",
+                "text": "**Ví dụ minh chứng:** Tử Vi đơn ở Ngọ — đã quý. Nhưng nếu có thêm **Tả Phụ + Hữu Bật** giáp hai bên → **'Phụ bật củng chủ'** → tăng vọt thành đại quý. Cùng sao Tử Vi, nhưng tổ hợp khác → ý nghĩa khác hẳn."
+              },
+              {
+                "type": "note",
+                "text": "**4 điều kiện cách cục mạnh:** (1) **đủ sao** theo công thức; (2) **đúng vị trí miếu/vượng**; (3) **không gặp Sát tinh phá**; (4) **đại vận có hỗ trợ** thì kích hoạt."
+              },
+              {
+                "type": "application",
+                "text": "**Cách dùng:** Khi xem lá số → trước tiên tìm cách cục. Nếu có → đọc theo cách cục là chính. Nếu không có → mới đọc từng sao riêng. Cách cục quyết định **70% diễn biến** lá số."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Nhóm 1 — Cách cục ĐẠI QUÝ (cao cấp nhất)",
+            "body": "**3 cách cục đỉnh cao** liên quan đến **Tử Vi (Đế tinh)** — sao chủ chòm Bắc Đẩu. Người có những cách này thường là **lãnh đạo cấp cao, quan chức, doanh nhân lớn**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**① Quân thần khánh hội (君臣慶會):** Tử Vi + Phá Quân đồng cung tại Sửu/Mùi. 'Vua tôi gặp gỡ' — Tử Vi (vua) + Phá Quân (tướng phá trận). Lập đại nghiệp từ con số 0. **Cách của khai quốc công thần, founder CEO**."
+              },
+              {
+                "type": "definition",
+                "text": "**② Tử Phủ đồng cung (紫府同宮):** Tử Vi + Thiên Phủ đồng cung tại Dần/Thân. 'Vua + Kho tàng' — quyền lực + sự sung túc. **Cách của người vừa có địa vị vừa có tài sản**."
+              },
+              {
+                "type": "definition",
+                "text": "**③ Phụ bật củng chủ (輔弼拱主):** Tả Phụ + Hữu Bật giáp cung Mệnh có Tử Vi (cung trước + cung sau cung Tử Vi). 'Hai phụ tá ôm Đế'. **Có nhiều người tài giúp đỡ, sự nghiệp thuận lợi.**"
+              },
+              {
+                "type": "example",
+                "text": "**Lịch sử ghi nhận:** Nhiều khai quốc hoàng đế, danh tướng có Quân thần khánh hội. Thí dụ hiện đại: lá số được cho là của Tôn Trung Sơn, Lý Quang Diệu (Singapore) đều có cách này (theo truyền thuyết Tử Vi)."
+              },
+              {
+                "type": "note",
+                "text": "**Cảnh báo:** Cả 3 cách này đều **cần thêm Lộc Tồn / Hóa Lộc** để 'kích hoạt'. Có cách mà không có Lộc → quý nhưng nghèo (cách 'phú quý không vẹn toàn')."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Nhóm 2 — Cách cục NHẬT-NGUYỆT (Mặt Trời, Mặt Trăng)",
+            "body": "**4 cách cục** liên quan đến **Thái Dương** (Mặt Trời) và **Thái Âm** (Mặt Trăng) — hai sao chủ về **danh tiếng + tài lộc**. Đây là nhóm tạo ra **người có sức ảnh hưởng lớn trong xã hội**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**④ Nhật Nguyệt tịnh minh (日月並明):** Thái Dương + Thái Âm cùng sáng tại Sửu/Mùi. 'Mặt trời mặt trăng cùng tỏa sáng'. **Danh tiếng vang xa + tài lộc bền vững** — cách cục đại quý cả nam và nữ."
+              },
+              {
+                "type": "definition",
+                "text": "**⑤ Cực hướng ly minh (極向離明):** Tử Vi tại Ngọ (cung Ly trong Bát quái). 'Đế tinh hướng phương Nam sáng'. Tử Vi tại Ngọ là **miếu địa cao nhất** — uy quyền tột đỉnh."
+              },
+              {
+                "type": "definition",
+                "text": "**⑥ Nhật xuất phù tang (日出扶桑):** Thái Dương tại Mão. 'Mặt Trời mọc ở phương Đông' — sáng nhất trong ngày. Người này **danh tiếng đến sớm, trẻ tuổi đã có thành tựu**."
+              },
+              {
+                "type": "definition",
+                "text": "**⑦ Nguyệt lãng thiên môn (月朗天門):** Thái Âm tại Hợi. 'Trăng sáng cửa trời' — Mặt Trăng ở vị trí cao nhất. Cách đại quý cho phụ nữ — **thanh quý, tài lộc lâu bền, đời sống tinh thần phong phú**."
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Nhóm Nhật-Nguyệt rất hợp **truyền thông, lãnh đạo cộng đồng, ngành cần danh tiếng** (nghệ sĩ, chính trị gia, doanh nhân thương hiệu cá nhân)."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Nhóm 3 — Cách cục ĐẠI PHÚ (giàu sang)",
+            "body": "**5 cách cục** đặc trưng cho **tài lộc**. Khác với cách quý (chú trọng danh vọng), nhóm này chuyên về **tiền bạc và của cải tích lũy**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**⑧ Hỏa Tham cách (火貪格):** Tham Lang + Hỏa Tinh đồng cung. 'Lửa gặp tham' — bùng nổ. **Phú quý đột phát, làm giàu nhanh chóng** — đặc biệt sau 30 tuổi. Đến nhanh, đi cũng có thể nhanh nếu không giữ."
+              },
+              {
+                "type": "definition",
+                "text": "**⑨ Linh Tham cách (鈴貪格):** Tham Lang + Linh Tinh đồng cung. Tương tự Hỏa Tham nhưng **chậm hơn, bền hơn**. **Phú lâu dài**, ít rủi ro hơn Hỏa Tham."
+              },
+              {
+                "type": "definition",
+                "text": "**⑩ Vũ Tham đồng hành (武貪同行):** Vũ Khúc + Tham Lang tại Sửu/Mùi. 'Tài tinh + Đào hoa tinh'. Theo cổ truyền: **'tiên bần hậu phú'** — đầu nghèo, sau 30-40 tuổi mới phát."
+              },
+              {
+                "type": "definition",
+                "text": "**⑪ Lộc Mã giao trì (祿馬交馳):** Lộc Tồn + Thiên Mã đồng cung (hoặc cùng tam phương). 'Tiền và ngựa cùng chạy'. **Tiền tài đi theo chân — kiếm tiền từ đi xa**, hợp xuất nhập khẩu, thương mại, dịch vụ liên quan di chuyển."
+              },
+              {
+                "type": "definition",
+                "text": "**⑫ Song Lộc triều viên (雙祿朝垣):** Lộc Tồn + Hóa Lộc cùng chiếu cung Mệnh. 'Hai Lộc cùng triều bái'. **Cách đại phú vững chãi** — của cải đầy đủ, không vướng kiện tụng tài chính."
+              },
+              {
+                "type": "note",
+                "text": "**Khác biệt 3 nhóm:** Hỏa/Linh Tham = **đột phát**; Vũ Tham = **muộn phát**; Lộc Mã + Song Lộc = **ổn định lâu dài**. Hợp với cá tính khác nhau."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Nhóm 4 — Cách cục DŨNG TƯỚNG (võ nghiệp, khởi nghiệp)",
+            "body": "**3 cách cục** đặc trưng cho **dũng khí, hành động quyết liệt**. Đây là nhóm tạo ra **tướng quân, võ quan, doanh nhân khởi nghiệp, người tiên phong**.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**⑬ Mã đầu đới kiếm (馬頭帶劍):** Kình Dương tại Ngọ (cung có Thiên Mã thường đặt). 'Đầu ngựa đeo kiếm'. **Cách của tướng quân chinh chiến** — người có dũng khí, hành động nhanh, không sợ thử thách."
+              },
+              {
+                "type": "definition",
+                "text": "**⑭ Thất Sát triều đẩu (七殺朝斗):** Thất Sát tại Tý hoặc Ngọ chiếu Mệnh. 'Sao tướng triều bái Bắc Đẩu'. **Cách của lãnh đạo quân sự, doanh nhân lớn dám đối đầu**."
+              },
+              {
+                "type": "definition",
+                "text": "**⑮ Hùng tú triều nguyên (雄宿朝元):** Tử Vi + Sát Phá Tham (Thất Sát + Phá Quân + Tham Lang) cùng chiếu Mệnh. 'Vua + 3 tướng dũng cùng triều bái'. **Cách cực kỳ mạnh** — lập đại nghiệp, khai quốc."
+              },
+              {
+                "type": "application",
+                "text": "**Đọc hiện đại:** Nhóm này hợp với **founder/CEO startup, military, leader cách mạng, người disruptor**. Thời đại số: hợp những người dẫn dắt **thay đổi lớn** trong ngành."
+              },
+              {
+                "type": "note",
+                "text": "**Cảnh báo Mã đầu đới kiếm:** Nếu lá số yếu (không có Tử Vi + Lộc Tồn hỗ trợ) → cách này chuyển thành **'kiếm chém đầu mình'** — bốc đồng, tự hại."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Nhóm 5 — Cách cục HUNG (cảnh báo nguy hiểm)",
+            "body": "**4 cách cục hung** mà người xưa cảnh báo nặng nề. Học để **biết tránh và phòng**, không phải để sợ hãi.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**⑯ Liêm Sát ngộ Kình (廉殺遇羊):** Liêm Trinh + Thất Sát + Kình Dương. 'Tù tinh + Tướng tinh + Hung tinh'. **Đại hung** — dễ vướng pháp luật, tai nạn hình thương, thậm chí mất mạng vì bạo lực."
+              },
+              {
+                "type": "definition",
+                "text": "**⑰ Linh Xương Đà Vũ (鈴昌陀武):** Linh Tinh + Văn Xương + Đà La + Vũ Khúc. Tổ hợp 4 sao kỵ. **'Công danh đổ vỡ'** — học giỏi nhưng thi cử thất bại, sự nghiệp bị chặn đứng."
+              },
+              {
+                "type": "definition",
+                "text": "**⑱ Thái Dương lạc hãm (太陽落陷):** Thái Dương hãm địa (Tý → Hợi) + Cự Môn ám tinh. 'Mặt Trời lặn vào ám'. **Nam mệnh: khắc cha sớm, danh phận muộn**. **Nữ mệnh: chồng yếu, đời nhiều khó khăn**."
+              },
+              {
+                "type": "definition",
+                "text": "**⑲ Cự Hỏa Đà giáp Mệnh:** Cự Môn + Hỏa Tinh + Đà La giáp cung Mệnh. 'Khẩu thiệt + lửa + chậm chạp' — **kiện tụng triền miên, lời nói gây vạ**, dễ vướng pháp lý vì miệng."
+              },
+              {
+                "type": "note",
+                "text": "**Hóa giải cách hung:** (1) Có **Tử Vi, Hóa Khoa, Lộc Tồn** chiếu vào → giảm 50% sát khí; (2) Đại vận tốt → tạm 'ngủ yên'; (3) Tu tâm + giáo dục đạo đức → giảm khả năng kích hoạt. **Cách hung không phải định mệnh tuyệt đối.**"
+              },
+              {
+                "type": "application",
+                "text": "**Đọc thực tế:** Khi gặp lá số có cách hung → KHÔNG nói thẳng 'số xấu, sẽ tai nạn'. Đúng là **nói gợi mở**: 'cần cẩn thận về [pháp luật/sức khỏe/cảm xúc] giai đoạn [đại vận X]'. Để chủ nhân **chủ động phòng**, không bị áp lực tâm lý."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Bảng tổng kết 19 cách cục theo nhóm",
+            "body": "Học thuộc khung này để **soi nhanh lá số**. Khi gặp lá số mới, mắt sẽ tự động dò 4 nhóm cách cục này trước.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Quy trình thực hành:** (1) Soi 12 cung Mệnh-Thân-Quan-Tài; (2) Liệt kê các sao đứng + chiếu; (3) **Dò bảng 19 cách cục** — có cách nào không?; (4) Nếu có → đọc cách cục là chính, sao riêng là phụ."
+              },
+              {
+                "type": "application",
+                "text": "**Một lá số có nhiều cách cục đồng thời:** không hiếm. Ví dụ Tử Phủ đồng cung + Phụ Bật củng chủ + Song Lộc triều viên = **lá số đại quý đại phú lưỡng toàn** — cực hiếm, thường là vương hầu hoặc tỷ phú."
+              }
+            ],
+            "visual": {
+              "kind": "table",
+              "caption": "Bảng 19 cách cục đặc biệt theo nhóm — học thuộc để soi nhanh lá số",
+              "data": {
+                "headers": ["Nhóm", "Tên cách", "Sao + Vị trí", "Ý nghĩa cốt lõi"],
+                "rows": [
+                  ["Đại Quý", "Quân thần khánh hội", "Tử Vi + Phá Quân Sửu/Mùi", "Khai quốc công thần, founder CEO"],
+                  ["Đại Quý", "Tử Phủ đồng cung", "Tử Vi + Thiên Phủ Dần/Thân", "Quyền lực + sung túc"],
+                  ["Đại Quý", "Phụ bật củng chủ", "Tả Phụ + Hữu Bật giáp Tử Vi", "Có nhiều quý nhân giúp"],
+                  ["Nhật-Nguyệt", "Nhật Nguyệt tịnh minh", "Thái Dương + Thái Âm Sửu/Mùi", "Danh tiếng + tài lộc"],
+                  ["Nhật-Nguyệt", "Cực hướng ly minh", "Tử Vi tại Ngọ", "Uy quyền tột đỉnh"],
+                  ["Nhật-Nguyệt", "Nhật xuất phù tang", "Thái Dương tại Mão", "Danh tiếng đến sớm"],
+                  ["Nhật-Nguyệt", "Nguyệt lãng thiên môn", "Thái Âm tại Hợi", "Thanh quý, tài lộc bền"],
+                  ["Phú", "Hỏa Tham cách", "Tham Lang + Hỏa Tinh", "Đột phát giàu nhanh"],
+                  ["Phú", "Linh Tham cách", "Tham Lang + Linh Tinh", "Phú lâu dài, bền"],
+                  ["Phú", "Vũ Tham đồng hành", "Vũ Khúc + Tham Lang Sửu/Mùi", "Tiên bần hậu phú"],
+                  ["Phú", "Lộc Mã giao trì", "Lộc Tồn + Thiên Mã", "Tiền từ đi xa, thương mại"],
+                  ["Phú", "Song Lộc triều viên", "Lộc Tồn + Hóa Lộc chiếu Mệnh", "Đại phú vững chãi"],
+                  ["Dũng Tướng", "Mã đầu đới kiếm", "Kình Dương + Thiên Mã tại Ngọ", "Tướng quân, dũng cảm"],
+                  ["Dũng Tướng", "Thất Sát triều đẩu", "Thất Sát Tý/Ngọ chiếu Mệnh", "Lãnh đạo quân sự, doanh nhân lớn"],
+                  ["Dũng Tướng", "Hùng tú triều nguyên", "Tử Vi + Sát Phá Tham chiếu Mệnh", "Lập đại nghiệp, khai quốc"],
+                  ["HUNG", "Liêm Sát ngộ Kình", "Liêm Trinh + Thất Sát + Kình Dương", "Pháp luật, tai nạn hình thương"],
+                  ["HUNG", "Linh Xương Đà Vũ", "Linh + Xương + Đà + Vũ", "Công danh đổ vỡ"],
+                  ["HUNG", "Thái Dương lạc hãm", "Thái Dương hãm + Cự Môn", "Khắc cha, danh muộn"],
+                  ["HUNG", "Cự Hỏa Đà giáp Mệnh", "Cự + Hỏa + Đà giáp Mệnh", "Kiện tụng triền miên"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Đọc cách cục thế nào cho đúng — 4 nguyên tắc vàng",
+            "body": "Học thuộc 19 cách cục là một chuyện, **vận dụng đúng** là chuyện khác. Đây là 4 nguyên tắc tránh sai lầm phổ biến nhất.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**1. Cách cục cần KÍCH HOẠT:** Có cách Quân thần khánh hội nhưng đại vận chưa tới → vẫn bình thường. Phải đợi **đại vận chạy vào cung có cách cục**, hoặc lưu niên kích hoạt → mới phát huy."
+              },
+              {
+                "type": "note",
+                "text": "**2. Cách cục có thể bị PHÁ:** Hỏa Tham cách rất mạnh, nhưng nếu có thêm **Không Kiếp xung** → 'phá tài' — tiền vào nhanh, ra cũng nhanh, cuối cùng tay trắng. Phải kiểm tra **sao phá** trong tam phương tứ chính."
+              },
+              {
+                "type": "note",
+                "text": "**3. Cách HUNG có thể HÓA GIẢI:** Liêm Sát ngộ Kình nguy hiểm — nhưng nếu có **Tử Vi + Lộc Tồn + Hóa Khoa** cùng chiếu → giảm hung khí, người này có thể trở thành **luật sư giỏi, công an có công**, biến hung thành lợi."
+              },
+              {
+                "type": "application",
+                "text": "**4. KHÔNG nói tiên đoán cứng:** Cách cục cho **xu hướng**, không phải định mệnh. Nói 'cách của bạn HỢP làm CEO' khác xa 'BẠN SẼ là CEO'. Người có Quân thần khánh hội nhưng không học hành, không nỗ lực → vẫn chỉ là người bình thường. **Cách cục là tiềm năng, hành động mới biến nó thành hiện thực.**"
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Cách 'Quân thần khánh hội' được tạo bởi tổ hợp nào và có ý nghĩa gì?",
+          "options": [
+            "Tử Vi + Thiên Phủ tại Dần/Thân — vua và kho tàng, sung túc giàu sang",
+            "Tử Vi + Phá Quân tại Sửu/Mùi — vua tôi gặp gỡ, lập đại nghiệp từ con số 0",
+            "Thái Dương + Thái Âm tại Sửu/Mùi — danh tiếng vang xa",
+            "Tử Vi + Tả Hữu giáp hai bên — có nhiều quý nhân giúp"
+          ],
+          "answer": 1,
+          "explanation": "**Quân thần khánh hội** (君臣慶會) = Tử Vi (vua) + Phá Quân (tướng phá trận) tại Sửu/Mùi. Vua và tướng cùng gặp gỡ → lập đại nghiệp từ con số 0. Đây là cách của **khai quốc công thần, founder CEO**. Option A là Tử Phủ đồng cung; C là Nhật Nguyệt tịnh minh; D là Phụ bật củng chủ."
+        },
+        {
+          "question": "Trong nhóm Cách cục Đại Phú, đâu là cách 'phát NHANH nhưng có thể MẤT nhanh'?",
+          "options": [
+            "Linh Tham cách (Tham Lang + Linh Tinh)",
+            "Lộc Mã giao trì (Lộc Tồn + Thiên Mã)",
+            "Hỏa Tham cách (Tham Lang + Hỏa Tinh)",
+            "Song Lộc triều viên (Lộc Tồn + Hóa Lộc)"
+          ],
+          "answer": 2,
+          "explanation": "**Hỏa Tham cách** = 'lửa gặp tham' — bùng nổ. Phát rất nhanh nhưng cũng dễ mất nhanh nếu không có Lộc Tồn giữ. Linh Tham là phiên bản chậm hơn, bền hơn. Lộc Mã giao trì và Song Lộc triều viên đều là cách **ổn định lâu dài**."
+        },
+        {
+          "question": "Cách 'Mã đầu đới kiếm' phù hợp với loại nghề nào trong xã hội hiện đại?",
+          "options": [
+            "Kế toán, công việc giấy tờ ổn định",
+            "Founder/CEO startup, military, leader cách mạng, người disrupt thị trường",
+            "Giáo viên mẫu giáo, công việc chăm sóc",
+            "Bất động sản, đầu tư dài hạn an toàn"
+          ],
+          "answer": 1,
+          "explanation": "Mã đầu đới kiếm = 'đầu ngựa đeo kiếm' — cách của **tướng quân chinh chiến**, dũng khí, hành động quyết liệt. Hiện đại: founder/CEO startup, leader cách mạng, người disrupt. Hoàn toàn không hợp các nghề ổn định, an toàn (option A, C, D)."
+        },
+        {
+          "question": "Khi gặp lá số có cách HUNG (ví dụ Liêm Sát ngộ Kình), nên đọc như thế nào?",
+          "options": [
+            "Nói thẳng: 'Số bạn sẽ vướng tù tội/tai nạn nặng' để cảnh báo mạnh",
+            "Im lặng, không nhắc đến vì sợ làm chủ nhân hoảng",
+            "Đọc gợi mở: 'cần cẩn thận về [vấn đề cụ thể] giai đoạn [đại vận X]', để chủ nhân chủ động phòng",
+            "Khuyên chủ nhân làm nghi lễ hóa giải tâm linh"
+          ],
+          "answer": 2,
+          "explanation": "**Nguyên tắc đúng:** Đọc gợi mở để chủ nhân **chủ động phòng**, không bị áp lực tâm lý. Nói thẳng (A) gây sợ hãi vô ích, có thể tạo hiệu ứng 'tự ứng nghiệm'. Im lặng (B) là thiếu trách nhiệm. Nghi lễ tâm linh (D) không phải vai trò người xem Tử Vi — phải hướng đến **giáo dục đạo đức + thay đổi hành vi**."
+        },
+        {
+          "question": "Đâu là nguyên tắc QUAN TRỌNG NHẤT khi vận dụng cách cục?",
+          "options": [
+            "Có cách cục đẹp = chắc chắn sẽ thành công lớn trong đời",
+            "Cách cục cho xu hướng + tiềm năng, hành động mới biến thành hiện thực; không nói tiên đoán cứng",
+            "Cách cục hung là định mệnh, không thể thay đổi",
+            "Cách cục chỉ áp dụng cho nam, nữ không có cách cục"
+          ],
+          "answer": 1,
+          "explanation": "Đây là **nguyên tắc cốt lõi** — cách cục là **tiềm năng**, không phải định mệnh. Quân thần khánh hội nhưng không học hành, không nỗ lực → vẫn bình thường. Cách hung nhưng tu tâm + có sao Hóa giải → vẫn an toàn. (A) sai vì 'chắc chắn'; (C) sai vì cách hung CÓ thể hóa giải; (D) sai vì cách cục áp dụng cho cả nam nữ."
+        },
+        {
+          "question": "Lá số có ĐỒNG THỜI nhiều cách cục — điều gì xảy ra?",
+          "options": [
+            "Các cách triệt tiêu nhau, lá số trở nên tầm thường",
+            "Cộng hưởng — có thể trở thành lá số đại quý đại phú lưỡng toàn, rất hiếm gặp",
+            "Chỉ cách cục mạnh nhất phát huy, các cách khác bị bỏ qua",
+            "Lá số trở nên khó đoán, không thể đọc được"
+          ],
+          "answer": 1,
+          "explanation": "Các cách cục **cộng hưởng** với nhau. Ví dụ Tử Phủ đồng cung + Phụ bật củng chủ + Song Lộc triều viên = lá số đại quý + đại phú lưỡng toàn — **cực kỳ hiếm**, thường là vương hầu hoặc tỷ phú lịch sử. Không có chuyện triệt tiêu hay 'chỉ một cách phát huy'."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tôi xem lá số mình mà không thấy cách cục nào — có nghĩa là số tầm thường không?",
+          "answer": "**Không.** Có 4 lý do: (1) Bạn chưa biết hết 60+ cách cục — đây mới có 19 cách phổ biến nhất; (2) Có cách nhỏ hơn (ví dụ Khoa Quyền Lộc, Tả Hữu chiếu) cũng đáng kể; (3) Không có cách lớn KHÔNG có nghĩa cuộc đời bình thường — vẫn có thể thành công nhờ nỗ lực + đại vận tốt; (4) Đôi khi cách cục bị giấu sau **phụ tinh phụ trợ** mà bạn chưa để ý. Đừng vội kết luận."
+        },
+        {
+          "question": "Hỏa Tham với Linh Tham khác nhau thế nào về thực tế?",
+          "answer": "**Hỏa Tham:** Phát NHANH như cháy rừng — có thể từ 0 thành tỷ phú trong 1-2 năm. Nhưng cũng dễ MẤT nhanh nếu không giữ. Hợp người **trẻ tuổi, dám liều, ngành đột phá**. **Linh Tham:** Phát CHẬM hơn — 5-10 năm tích lũy mới phát, nhưng bền vững. Hợp người **trung niên, kinh doanh truyền thống, chăm chỉ tích lũy**. Cả hai đều cần Tham Lang **miếu vượng + Lộc Tồn / Hóa Lộc** để kích hoạt."
+        },
+        {
+          "question": "Cách Linh Xương Đà Vũ nguy hiểm thế nào? Có nên lo lắng không?",
+          "answer": "Linh Xương Đà Vũ là **cách cảnh báo công danh đổ vỡ** — học giỏi, có tài, nhưng đến lúc thi cử / lên chức / công danh quan trọng thì bị chặn đứng. Lý do: 4 sao đối nghịch (Linh = nhanh nhẫn vô tâm, Xương = văn chương, Đà = chậm chạp, Vũ = tài chính). **Hóa giải:** (1) chọn nghề **không phụ thuộc vào thi cử / xét duyệt** — tự doanh, tự do; (2) có thêm **Tử Vi, Khoa, Lộc** chiếu → giảm sát khí 70%; (3) đại vận tốt vẫn phát. Đừng quá lo, chỉ cần **biết để né con đường công chức** là đủ."
+        },
+        {
+          "question": "Có thể TỰ tạo cách cục bằng cách chuyển nhà, đổi tên... không?",
+          "answer": "**Không.** Cách cục dựa vào **ngày-giờ sinh + giới tính** — không thể thay đổi sau khi sinh. Nhưng có thể **kích hoạt cách cục tốt** và **làm dịu cách cục hung** thông qua: (1) **Học/làm đúng ngành nghề hợp cách** — Quân thần khánh hội thì học lãnh đạo; (2) **Tu tâm + đạo đức** — giảm khả năng cách hung kích hoạt; (3) **Chọn đúng partner** — cách cục về Phu Thê quan trọng; (4) **Chuẩn bị trước đại vận** — biết đại vận 35-44 vào cách quý → tích lũy năng lực để đón. **Hành động chủ động** quan trọng hơn 'thuật hóa giải'."
+        },
+        {
+          "question": "Sau bài này, tôi có thể đọc cách cục mọi lá số chưa?",
+          "answer": "**Đọc được khung tổng, chưa đủ sâu.** Có 3 việc cần thực hành thêm: (1) **Học thuộc 19 cách cục này + công thức** — phải nhớ ngay tổ hợp sao + vị trí; (2) **Soi 30+ lá số** thực tế, dò cách cục, đọc và so sánh với cuộc đời thực; (3) **Học thêm 40+ cách cục phụ** (Khoa Quyền Lộc, Văn tinh ám củng, Tài ấn giáp Lộc...) trong sách Tử Vi cổ. Sau 6 tháng - 1 năm thực hành, bạn sẽ **soi cách cục trong vòng 30 giây** khi mở lá số."
+        }
+      ]
+    },
+    {
+      "id": "tong-ket-lo-trinh",
+      "slug": "tong-ket-lo-trinh",
+      "title": "Tổng kết — Hành trình 5 giai đoạn & con đường tiếp theo",
+      "module": "E",
+      "order": 6,
+      "duration_minutes": 30,
+      "story_hook": "Bạn đã đi qua **36 bài học** xuyên suốt **5 giai đoạn**. Từ chỗ chưa biết Âm Dương là gì, giờ bạn có thể **tự lập lá số 67 sao**, hiểu **19 cách cục đặc biệt**, đọc được **Mệnh ca cổ điển**. Đây là bài cuối — nhìn lại con đường đã đi, và bản đồ những gì còn ở phía trước.",
+      "key_metaphor": "Học Tử Vi giống **leo núi**. Bạn đã lên được **trại 1 — đủ điều kiện đi tiếp**. Đỉnh núi (đọc lá số như chuyên gia) cần thêm **6 tháng - 5 năm thực hành**, nhưng giờ bạn đã có **đầy đủ trang bị + bản đồ** để tự đi.",
+      "content": {
+        "sections": [
+          {
+            "title": "Bạn đã đi qua những gì — bản đồ 5 giai đoạn",
+            "body": "Hành trình bạn vừa hoàn thành được thiết kế theo **trình tự logic chặt chẽ** — mỗi giai đoạn là nền móng cho giai đoạn sau.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Giai đoạn 1 — Triết học gốc (6 bài):** Âm dương, Ngũ hành, Tương sinh-khắc. Đây là **DNA** của toàn bộ Tử Vi — không có giai đoạn này, mọi thứ sau đều vô nghĩa."
+              },
+              {
+                "type": "definition",
+                "text": "**Giai đoạn 2 — Thời gian (5 bài):** 10 Thiên Can + 12 Địa Chi + Lục thập hoa giáp + Nạp âm + Giờ địa chi. Đây là **'đơn vị đo'** của Tử Vi — cách người xưa cắt thời gian thành các 'tế bào'."
+              },
+              {
+                "type": "definition",
+                "text": "**Giai đoạn 3 — Không gian (8 bài):** 12 cung + 14 chính tinh + Tử Vi/Thiên Phủ + Tứ Hóa. Đây là **'bản đồ cuộc đời'** — chia một con người thành 12 mảng + xác định sao nào ở đâu."
+              },
+              {
+                "type": "definition",
+                "text": "**Giai đoạn 4 — Thực hành (11 bài):** Đại vận, An sao, Phụ tinh, Quy trình 7 bước, Case study, Tuần Triệt, Vòng Tràng Sinh + Bác Sĩ + Thái Tuế, Đào hoa/Quý/Hung. Đây là **'kỹ năng vận hành'** — biết các công cụ + biết dùng."
+              },
+              {
+                "type": "definition",
+                "text": "**Giai đoạn 5 — Nâng cao (6 bài):** Nam/Nữ Mệnh ca + Cách cục đặc biệt + Tổng kết. Đây là **'ngôn ngữ chuyên gia'** — đọc lá số theo lối cổ truyền, nhận diện cách cục."
+              },
+              {
+                "type": "application",
+                "text": "**Quy tắc thiết kế:** Mỗi giai đoạn xây trên giai đoạn trước. Không học A → B sẽ không hiểu can chi. Không có B → C sẽ không biết đặt sao vào cung. Đó là lý do **không nên skip bất kỳ giai đoạn nào**."
+              }
+            ],
+            "visual": {
+              "kind": "timeline",
+              "caption": "Lộ trình 36 bài qua 5 giai đoạn — từ triết học gốc đến chuyên gia",
+              "data": {
+                "steps": [
+                  { "label": "GĐ 1 — Triết học gốc (6 bài)", "subtitle": "Âm dương · Ngũ hành · Tương sinh-khắc · Thái cực · Tứ tượng" },
+                  { "label": "GĐ 2 — Thời gian (5 bài)", "subtitle": "10 Thiên Can · 12 Địa Chi · Lục thập hoa giáp · Nạp âm" },
+                  { "label": "GĐ 3 — Không gian (8 bài)", "subtitle": "12 cung · Mệnh-Thân · 14 chính tinh · Chòm Tử Vi · Tứ Hóa" },
+                  { "label": "GĐ 4 — Thực hành (11 bài)", "subtitle": "Đại vận · An sao · Phụ tinh · Case study · Tuần Triệt · Tràng Sinh · Bác Sĩ" },
+                  { "label": "GĐ 5 — Nâng cao (6 bài)", "subtitle": "Nam/Nữ Mệnh ca · Cách cục đặc biệt · Tổng kết lộ trình" }
+                ]
+              }
+            }
+          },
+          {
+            "title": "Trình độ hiện tại của bạn — bạn đang ở đâu trên thang chuyên gia",
+            "body": "Sau 36 bài, hãy honest với bản thân — bạn đang ở mức nào? Có 5 cấp độ Tử Vi tiêu chuẩn:",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Cấp 1 — Vỡ lòng:** Biết Âm dương, Ngũ hành là gì. Nhìn thấy '14 chính tinh' không sợ. **→ Bạn đã VƯỢT QUA cấp này từ Giai đoạn 1-2.**"
+              },
+              {
+                "type": "note",
+                "text": "**Cấp 2 — Sơ cấp:** Tự lập được lá số đơn giản, đọc được Mệnh có sao gì. Hiểu Đại Vận là gì. **→ Bạn đã VƯỢT QUA cấp này từ Giai đoạn 3-4.**"
+              },
+              {
+                "type": "note",
+                "text": "**Cấp 3 — Trung cấp:** Đọc được tổ hợp sao + phụ tinh, nhận diện cách cục cơ bản, biết Tứ Hóa năm tác động thế nào. **→ Bạn ĐANG Ở cấp này sau khi hoàn thành Giai đoạn 5.**"
+              },
+              {
+                "type": "note",
+                "text": "**Cấp 4 — Khá:** Đọc tinh tế cả 12 cung, tích hợp Đại Vận + Lưu Niên + Hóa năm + cách cục. Đã thực hành 50+ lá số. Cần **1-3 năm** từ trình độ hiện tại."
+              },
+              {
+                "type": "note",
+                "text": "**Cấp 5 — Chuyên gia:** Đọc lá số 30 giây có 80% chính xác, biết khi nào nói khi nào im, am hiểu cả Tứ Hóa biến chuyển + lá số có Tuần Triệt phức tạp. Cần **5+ năm + 500+ lá số**."
+              },
+              {
+                "type": "application",
+                "text": "**Đừng nóng vội:** Cấp 3 đã là **thành tựu lớn**. 95% người tự học Tử Vi dừng ở Cấp 1-2 vì không có lộ trình. Bạn đã có lộ trình → tiếp tục thực hành sẽ tự nhiên lên Cấp 4-5."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Con đường tiếp theo — 4 hướng đi sau khi hoàn thành 5 giai đoạn",
+            "body": "Sau bài này, bạn có **4 lựa chọn** để tiếp tục — chọn theo mục đích và thời gian bạn có.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Hướng 1 — Thực hành ứng dụng (đa số chọn):** Lập lá số cho bản thân + gia đình + bạn bè → đọc và đối chiếu với cuộc đời thực. Mỗi tuần 2-3 lá số. **Sau 6 tháng** sẽ có cảm giác đọc lá số bén nhạy."
+              },
+              {
+                "type": "definition",
+                "text": "**Hướng 2 — Đọc cổ thư:** Tử Vi Đẩu Số Tân Biên (Vũ Tài Lục, 1956) và Tử Vi Đẩu Số Toàn Thư (cổ điển Trung Quốc) là 2 bộ kinh điển. Đọc chậm, mỗi ngày 5-10 trang. **Sau 1 năm** sẽ thông cả phái Nam Tống."
+              },
+              {
+                "type": "definition",
+                "text": "**Hướng 3 — Học Tứ Hóa phái Bắc:** Đài Loan và Hong Kong phát triển **Tứ Hóa phái** (Lương Nhược Du, Tử Vân) — cách đọc hiện đại + tinh tế. Sách Việt khá ít, phải đọc tiếng Trung hoặc tiếng Anh."
+              },
+              {
+                "type": "definition",
+                "text": "**Hướng 4 — Tích hợp với Bát Tự (Tử Bình):** Tử Vi + Bát Tự là **2 hệ thống bổ sung** cho nhau. Tử Vi đọc 'kịch bản', Bát Tự đọc 'năng lượng' và 'mạnh-yếu của ngũ hành'. Học cả 2 → bức tranh đầy đủ."
+              },
+              {
+                "type": "application",
+                "text": "**Gợi ý kết hợp:** Hướng 1 (thực hành) là **bắt buộc** — chọn thêm 1 trong 3 hướng còn lại tùy mục đích. Nếu là người Việt, ưu tiên Hướng 2 (đọc Tân Biên + Toàn Thư) trước."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "7 sai lầm thường gặp khi tự học Tử Vi",
+            "body": "Sau 36 bài, bạn có thể tránh được **những bẫy phổ biến** mà 90% người tự học vướng phải.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Sai lầm 1 — Học theo trí nhớ máy móc:** Cố thuộc lòng 'sao A tại cung X thì Y' mà không hiểu vì sao. **Đúng cách:** hiểu Ngũ hành → tự suy được sao + chi tương tác thế nào."
+              },
+              {
+                "type": "note",
+                "text": "**Sai lầm 2 — Bỏ qua tam phương tứ chính:** Chỉ đọc cung Mệnh mà không đọc 3 cung chiếu vào (Quan, Tài, Di). Đây là sai lầm **lớn nhất**. **Đúng cách:** mỗi cung phải đọc cùng 3 cung chiếu."
+              },
+              {
+                "type": "note",
+                "text": "**Sai lầm 3 — Đánh giá tốt/xấu cứng nhắc:** 'Mệnh có Sát = xấu', 'có Lộc = tốt'. Tử Vi không vận hành đơn giản vậy. **Đúng cách:** đọc theo **bối cảnh + đại vận + nghề nghiệp** chủ nhân."
+              },
+              {
+                "type": "note",
+                "text": "**Sai lầm 4 — Xem giúp người khác quá sớm:** Mới học 6 tháng đã đi xem cho mọi người → đọc sai → tạo nghiệp xấu. **Đúng cách:** Thực hành **trên 100 lá số** trước khi xem cho người ngoài gia đình."
+              },
+              {
+                "type": "note",
+                "text": "**Sai lầm 5 — Tin tuyệt đối vào lá số:** Coi mọi việc đời mình đã được lá số quyết. **Đúng cách:** Lá số = **70% xu hướng + 30% nỗ lực + môi trường**. Nỗ lực thay đổi rất nhiều."
+              },
+              {
+                "type": "note",
+                "text": "**Sai lầm 6 — Học nhiều phái không xong phái nào:** Hôm nay Bắc phái, mai Nam phái, mốt Tứ Hóa. **Đúng cách:** chọn **1 phái học cho xong** (khuyến nghị Nam Tống - Tân Biên cho người Việt), rồi mới mở rộng."
+              },
+              {
+                "type": "note",
+                "text": "**Sai lầm 7 — Quên cảm xúc + đạo đức:** Đọc cho người khác mà nói 'sẽ chết yểu', 'sẽ ly hôn' → tạo nỗi sợ. **Đúng cách:** Nói **xu hướng + cảnh báo phòng**, KHÔNG nói tiên đoán cứng."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Kế hoạch 100 ngày tiếp theo — lộ trình thực hành cụ thể",
+            "body": "Để **không quên** sau khi học xong, bạn cần **kế hoạch thực hành cụ thể**. Đây là lộ trình 100 ngày được tối ưu cho người mới hoàn thành 5 giai đoạn.",
+            "chunks": [
+              {
+                "type": "application",
+                "text": "**Tuần 1-2 (Ngày 1-14):** Lập lá số CHÍNH MÌNH ở `/la-so`. Đọc kỹ Mệnh-Thân + tam phương tứ chính. Đối chiếu với những gì đã xảy ra trong đời. **Mục tiêu:** Hiểu lá số mình ở mức Cấp 3."
+              },
+              {
+                "type": "application",
+                "text": "**Tuần 3-6 (Ngày 15-42):** Lập lá số 5 người thân (bố mẹ, anh chị em, vợ/chồng). Mỗi người 1 tuần. So sánh kịch bản lá số với thực tế. Ghi chú: **đúng chỗ nào? sai chỗ nào? vì sao?**"
+              },
+              {
+                "type": "application",
+                "text": "**Tuần 7-10 (Ngày 43-70):** Đọc lại Module D bài 4 (Quy trình 7 bước) + bài 6 (Case study) + Module E bài 5 (Cách cục). Áp dụng quy trình 7 bước cho **3 lá số mới** mỗi tuần."
+              },
+              {
+                "type": "application",
+                "text": "**Tuần 11-14 (Ngày 71-98):** Mua sách **Tử Vi Đẩu Số Tân Biên** (Vũ Tài Lục) — bản gốc tiếng Việt. Đọc 5 trang/ngày. Đối chiếu với những gì đã học trong app."
+              },
+              {
+                "type": "application",
+                "text": "**Ngày 99-100:** Quay lại làm lại quiz của 5 bài quan trọng nhất: Ngũ hành, 12 cung, 14 chính tinh, Quy trình đọc, Cách cục. Test xem mình nhớ bao nhiêu."
+              },
+              {
+                "type": "note",
+                "text": "**Tip quan trọng:** **Ghi nhật ký Tử Vi** — mỗi lá số bạn xem, ghi: ngày sinh, kết luận chính, đối chiếu thực tế. Sau 1 năm có 50+ ghi chú → trở thành **kho thực hành cá nhân**, học hỏi từ chính mình."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Tinh thần học Tử Vi — vì sao Tử Vi không phải để biết tương lai",
+            "body": "Đây là phần **quan trọng nhất** của toàn bộ lộ trình. Không có tinh thần đúng, học Tử Vi có thể trở thành **gánh nặng tâm lý**, không phải công cụ giúp đời.",
+            "chunks": [
+              {
+                "type": "definition",
+                "text": "**Tử Vi KHÔNG phải để biết tương lai chính xác.** Tương lai phụ thuộc vào hành động + môi trường + may rủi. Tử Vi cho **xu hướng + giai đoạn cao thấp + những gì cần chuẩn bị**."
+              },
+              {
+                "type": "application",
+                "text": "**Tử Vi để LÀM GÌ?** (1) Hiểu **bản thân**: điểm mạnh, điểm yếu, ngành hợp; (2) Hiểu **người thân**: cách giao tiếp với từng kiểu tính cách; (3) Chuẩn bị **đại vận**: biết 10 năm tới khó/dễ → chuẩn bị tài chính + sức khỏe; (4) Tránh **cách hung**: biết để né, không phải để sợ."
+              },
+              {
+                "type": "note",
+                "text": "**Nguyên tắc đạo đức:** (1) **Không nói tiên đoán cứng** — chỉ nói xu hướng; (2) **Không xem cho người không yêu cầu**; (3) **Không lấy tiền lúc mới học** (dưới 3 năm); (4) **Giữ kín thông tin** lá số người khác — như bí mật bác sĩ."
+              },
+              {
+                "type": "example",
+                "text": "**Câu chuyện minh chứng:** Một thầy Tử Vi nổi tiếng người Đài Loan từng nói: 'Sau 30 năm xem lá số, điều tôi học được nhất là **không nên xem cho ai nếu họ chưa sẵn sàng nghe sự thật ở mức vừa phải**'. Lời nói của thầy có thể thay đổi đời người — phải cực kỳ thận trọng."
+              },
+              {
+                "type": "application",
+                "text": "**Cuối cùng:** Tử Vi là **gương phản chiếu**, không phải **lệnh phán quyết**. Người trưởng thành dùng Tử Vi để **hiểu mình + cải thiện**, không phải để **sợ hãi tương lai**. Đây là tinh thần xuyên suốt mà bạn cần mang theo suốt hành trình tiếp."
+              }
+            ],
+            "visual": null
+          },
+          {
+            "title": "Lời kết — Cảm ơn bạn đã đi đến cuối hành trình",
+            "body": "Tử Vi học không có **'tốt nghiệp'** — chỉ có **'đi tiếp'**. Nhưng việc bạn hoàn thành 36 bài là **thành tựu thực sự**.",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Bạn đã có:** Nền tảng triết học chắc · Khả năng tự lập lá số 67 sao · Hiểu 14 chính tinh + 19 cách cục + Mệnh ca cổ điển · Quy trình 7 bước đọc lá số · Khả năng nhận diện cách hung và hóa giải."
+              },
+              {
+                "type": "note",
+                "text": "**Bạn KHÔNG có (cần thêm thời gian):** Trực giác đọc lá số 30 giây (cần 500+ lá số) · Hiểu Tứ Hóa phái Bắc · Tích hợp với Bát Tự · Đọc được lá số phức tạp có Tuần Triệt + Hóa Kỵ giáp Mệnh."
+              },
+              {
+                "type": "application",
+                "text": "**Lời khuyên cuối:** Học Tử Vi là **maraton 5-10 năm**, không phải sprint. Cứ mỗi ngày học 15 phút + xem 1 lá số mỗi tuần → sau 2 năm bạn sẽ đọc bằng nhiều người học cấp tốc 5 năm. **Đều đặn quan trọng hơn cường độ.**"
+              },
+              {
+                "type": "example",
+                "text": "**Câu cuối từ Tử Vi Đẩu Số Tân Biên:** *'Học Tử Vi cốt ở chỗ thấu hiểu thiên-địa-nhân, không phải ở chỗ nhớ thuộc bao nhiêu sao. Hiểu một Âm Dương, hiểu cả vũ trụ.'* — Bạn đã có **một Âm Dương** vững vàng. Hành trình từ đây là **đào sâu hơn**, không phải học rộng hơn."
+              },
+              {
+                "type": "note",
+                "text": "**Chúc bạn đi xa hơn — không chỉ trong Tử Vi, mà trong hành trình tự hiểu mình. 命 (Mệnh) — Hành trình của chính bạn.**"
+              }
+            ],
+            "visual": null
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Theo bài học, người vừa hoàn thành 36 bài đang ở CẤP ĐỘ nào trong thang 5 cấp Tử Vi?",
+          "options": [
+            "Cấp 1 — Vỡ lòng (mới biết Âm dương)",
+            "Cấp 2 — Sơ cấp (tự lập lá số đơn giản)",
+            "Cấp 3 — Trung cấp (đọc được tổ hợp sao + cách cục)",
+            "Cấp 5 — Chuyên gia (đọc 30 giây có 80% chính xác)"
+          ],
+          "answer": 2,
+          "explanation": "Sau 36 bài, bạn đang ở **Cấp 3 — Trung cấp**: đọc được tổ hợp sao + phụ tinh, nhận diện cách cục cơ bản, biết Tứ Hóa tác động. Cấp 4 cần thực hành 50+ lá số (1-3 năm thêm). Cấp 5 cần 5+ năm và 500+ lá số. Cấp 1-2 đã vượt qua từ Giai đoạn 3-4."
+        },
+        {
+          "question": "Đâu là sai lầm LỚN NHẤT mà 90% người tự học Tử Vi mắc phải?",
+          "options": [
+            "Học theo trí nhớ máy móc thay vì hiểu nguyên lý",
+            "Bỏ qua tam phương tứ chính — chỉ đọc cung Mệnh mà không đọc 3 cung chiếu vào",
+            "Xem giúp người khác quá sớm khi chưa đủ kinh nghiệm",
+            "Học nhiều phái cùng lúc không xong phái nào"
+          ],
+          "answer": 1,
+          "explanation": "Bài học chỉ ra: **Bỏ qua tam phương tứ chính là sai lầm LỚN NHẤT.** Một cung không tồn tại độc lập — luôn bị 3 cung chiếu vào (đối xung + 2 tam hợp). Đọc Mệnh mà không đọc Quan, Tài, Di → bỏ sót 75% thông tin. Các sai lầm khác đều quan trọng nhưng đây là sai lầm nguyên tắc nhất."
+        },
+        {
+          "question": "Sau khi hoàn thành 5 giai đoạn, đâu là HƯỚNG ĐI BẮT BUỘC trong 4 hướng tiếp theo?",
+          "options": [
+            "Đọc cổ thư (Tân Biên, Toàn Thư)",
+            "Học Tứ Hóa phái Bắc (Đài Loan, Hong Kong)",
+            "Thực hành ứng dụng — lập lá số cho bản thân + gia đình + bạn bè",
+            "Tích hợp với Bát Tự (Tử Bình)"
+          ],
+          "answer": 2,
+          "explanation": "**Hướng 1 — Thực hành ứng dụng là BẮT BUỘC**, 3 hướng còn lại là tùy chọn theo mục đích. Lý do: không thực hành thì kiến thức sẽ phai dần. Chọn thêm 1 trong 3 hướng còn lại tùy mục đích cá nhân. Nếu là người Việt, ưu tiên Hướng 2 (cổ thư) sau Hướng 1."
+        },
+        {
+          "question": "Tử Vi DÙNG ĐỂ LÀM GÌ theo tinh thần đúng đắn của bài?",
+          "options": [
+            "Để biết tương lai chính xác — sẽ giàu nghèo lúc nào, lấy ai, mất khi nào",
+            "Để chứng minh mình thông minh + giỏi hơn người khác",
+            "Hiểu bản thân + người thân + chuẩn bị đại vận + tránh cách hung — KHÔNG phải để biết tương lai chính xác",
+            "Để kiếm tiền bằng nghề xem bói nhanh chóng"
+          ],
+          "answer": 2,
+          "explanation": "Đây là **tinh thần cốt lõi** xuyên suốt 36 bài: Tử Vi cho **xu hướng + giai đoạn cao thấp**, không phải tiên đoán cứng. (A) sai vì tương lai phụ thuộc hành động + môi trường + may rủi; (B) sai vì học Tử Vi mà để khoe là sai mục đích; (D) sai vì 4 nguyên tắc đạo đức: không lấy tiền dưới 3 năm học."
+        },
+        {
+          "question": "Câu cuối từ Tân Biên 'Hiểu một Âm Dương, hiểu cả vũ trụ' nghĩa là gì?",
+          "options": [
+            "Phải học thuộc bài Âm Dương trước khi học các bài khác",
+            "Âm Dương là sao quan trọng nhất trong 14 chính tinh",
+            "Hành trình Tử Vi sau khi có nền tảng vững là ĐÀO SÂU, không phải HỌC RỘNG hơn — hiểu sâu một nguyên lý gốc",
+            "Sau khi học Âm Dương xong thì không cần học gì nữa"
+          ],
+          "answer": 2,
+          "explanation": "Câu này có nghĩa **sâu xa**: nền tảng triết học vững (Âm Dương + Ngũ hành) thì có thể tự suy ra hầu hết các quy luật Tử Vi. Sau 36 bài, bạn đã có **'một Âm Dương'** — hành trình tiếp là **đào sâu hiểu biết về chính những nguyên lý cốt lõi**, không phải học thêm cách cục lạ hay phái mới. Càng học sâu một thứ càng quý hơn học cạn nhiều thứ."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Sau 36 bài tôi có thể đi xem Tử Vi cho người khác không?",
+          "answer": "**Chưa nên đi xem cho người ngoài gia đình.** Theo nguyên tắc đạo đức ở bài: xem cho người khác cần **thực hành 100+ lá số** trước. Trong 100 ngày đầu sau khi hoàn thành lộ trình, chỉ nên: (1) xem cho **bản thân** + (2) xem cho **người thân trực tiếp** (bố mẹ, anh chị em, vợ/chồng) - những người đã có sẵn lòng tin và bạn biết kỹ cuộc đời họ để đối chiếu. Sau 6 tháng thực hành đều đặn, mới xem cho **bạn thân**. Tuyệt đối **không lấy tiền** trong 3 năm đầu — vì lúc đó còn học, có thể sai lầm gây hậu quả cho người khác."
+        },
+        {
+          "question": "Tôi nên đọc Tân Biên hay Toàn Thư trước?",
+          "answer": "**Tân Biên trước.** Lý do: (1) Vũ Tài Lục viết bằng tiếng Việt hiện đại — dễ đọc; (2) Có phân tích logic + ví dụ ứng dụng cụ thể; (3) Trình bày khoa học hơn Toàn Thư cổ Trung Quốc; (4) Đã cập nhật cho bối cảnh xã hội hiện đại. **Toàn Thư** đọc sau khi đã thông Tân Biên — giúp hiểu **gốc rễ** của các quy luật, nhưng văn phong cổ khó tiếp cận lúc mới đầu. Lộ trình: Tân Biên (6 tháng) → Toàn Thư (1 năm)."
+        },
+        {
+          "question": "Tôi quên kiến thức nhanh — làm sao giữ lại sau khi học xong?",
+          "answer": "Đây là **vấn đề phổ biến nhất**. 3 chiến lược: (1) **Lập lá số 1 người/tuần** — không cần xem dài, chỉ cần soi qua các sao + cách cục → trí nhớ duy trì; (2) **Ghi nhật ký Tử Vi** — mỗi lá số 5 dòng ghi chú: 'lá số X, mệnh Y, đặc biệt nhận diện Z'; (3) **Quay lại app sau 3 tháng** - làm lại quiz các bài quan trọng (Ngũ hành, 12 cung, Quy trình 7 bước, Cách cục). Trí nhớ chỉ giữ những thứ **sử dụng thường xuyên**. Học Tử Vi mà không thực hành = quên 80% sau 6 tháng."
+        },
+        {
+          "question": "Có cộng đồng Tử Vi nào để học hỏi sau khi xong lộ trình không?",
+          "answer": "**Có một số nguồn:** (1) **Facebook nhóm 'Tử Vi Đẩu Số Việt Nam'** — đông thành viên, hay thảo luận lá số; (2) **YouTube kênh 'Lê Đại Trí Huệ'** — phân tích lá số sâu, có ví dụ; (3) **Forum tuvilyso.org** — diễn đàn lâu năm, có archive lá số người nổi tiếng; (4) **Sách 'Tử Vi Hoàn Toàn Khoa Học'** (Đẩu Tinh) — góc nhìn hiện đại. **Cảnh báo:** Cộng đồng Tử Vi có nhiều phái + nhiều người tự xưng chuyên gia — học hỏi cần **chọn lọc**, đối chiếu với cổ thư. Đừng tin tuyệt đối ai."
+        },
+        {
+          "question": "Tôi định viết blog/làm YouTube về Tử Vi — sau lộ trình này tôi đủ kiến thức chưa?",
+          "answer": "**Đủ làm content cơ bản, chưa đủ làm content sâu.** Bạn có thể: ✅ Giải thích Âm Dương, Ngũ hành, 12 cung, 14 chính tinh cho người mới bắt đầu; ✅ Phân tích các cách cục đặc biệt phổ biến; ✅ Chia sẻ lộ trình tự học. **Chưa nên:** ❌ Đọc lá số người nổi tiếng + nhận định công khai (sai sẽ bị critic mạnh); ❌ Dạy 'cách hóa giải vận xui'; ❌ Tuyên bố mình 'chuyên gia Tử Vi'. Lộ trình content an toàn: 6 tháng đầu chia sẻ **học hỏi cá nhân + ghi chú**, không phán định cho người khác. Sau 2-3 năm có 200+ lá số mới làm phân tích sâu."
+        }
+      ]
+    }
+  ]
+}

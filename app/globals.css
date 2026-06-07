@@ -82,3 +82,46 @@ h1, h2, h3, h4 {
     animation: none;
   }
 }
+
+/* =============================================================
+ * View Transitions API — crossfade mượt giữa các trang.
+ * Yêu cầu experimental.viewTransition = true trong next.config.ts.
+ * Browser không hỗ trợ → bỏ qua, navigate bình thường.
+ * ============================================================= */
+@view-transition {
+  navigation: auto;
+}
+
+/* Crossfade tinh tế hơn default — chậm hơn 1 chút, ease curve */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 240ms;
+  animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Tránh chớp trắng khi nền parchment chuyển sang parchment khác */
+::view-transition-old(root) {
+  animation-name: vt-fade-out;
+}
+::view-transition-new(root) {
+  animation-name: vt-fade-in;
+}
+
+@keyframes vt-fade-out {
+  to {
+    opacity: 0;
+  }
+}
+@keyframes vt-fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+/* Reduced motion: tắt animation, navigate tức thì */
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none;
+  }
+}
