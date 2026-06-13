@@ -1,6 +1,9 @@
 import type { Visual } from "@/lib/types";
 import NguHanhChart from "./NguHanhChart";
 import CungBieu from "./CungBieu";
+import MnemonicCard, { type MnemonicData } from "./MnemonicCard";
+import MetaphorBox, { type MetaphorGridData } from "./MetaphorBox";
+import MindMap, { type MindMapData as MindMapTreeData } from "./MindMap";
 import type { DiaChi } from "@/lib/tuvi-calc";
 
 type TableData = {
@@ -42,6 +45,17 @@ export default function VisualBlock({ visual }: { visual: Visual }) {
         caption={visual.caption}
       />
     );
+  }
+
+  // Các visual mới (Phase 7) — tự render khung riêng, không cần wrapper figure
+  if (visual.kind === "mnemonic") {
+    return <MnemonicCard data={visual.data as MnemonicData} />;
+  }
+  if (visual.kind === "metaphor-grid") {
+    return <MetaphorBox data={visual.data as MetaphorGridData} />;
+  }
+  if (visual.kind === "mindmap-tree") {
+    return <MindMap data={visual.data as MindMapTreeData} />;
   }
 
   return (

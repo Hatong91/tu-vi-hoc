@@ -38,6 +38,49 @@
             "visual": null
           },
           {
+            "title": "Sơ đồ tư duy — 7 chính tinh đầu",
+            "body": "7 sao trong bài này phân làm **3 nhóm khí chất** rõ rệt. Học theo nhóm giúp nhớ dễ hơn nhớ rời rạc 7 sao.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "7 chính tinh đầu — đặc trưng tại Mệnh nam (chia 3 nhóm khí chất)",
+              "data": {
+                "center": "NAM MỆNH CA 1",
+                "centerSymbol": "男",
+                "branches": [
+                  {
+                    "label": "Đế tinh",
+                    "symbol": "帝",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Tử Vi", "description": "khí chất lãnh đạo — hợp quản lý, chính trị" },
+                      { "title": "Thiên Phủ", "description": "đoan trang, sung túc — hợp tài chính, BĐS" }
+                    ]
+                  },
+                  {
+                    "label": "Quý + Tài",
+                    "symbol": "貴",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thái Dương", "description": "sáng sủa, được trọng — truyền thông, lãnh đạo" },
+                      { "title": "Vũ Khúc", "description": "cương quyết, giỏi tiền — tài chính, kỹ thuật" },
+                      { "title": "Liêm Trinh", "description": "nguyên tắc, đa biến — luật, công an, hành chính" }
+                    ]
+                  },
+                  {
+                    "label": "Trí + Phúc",
+                    "symbol": "智",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Thiên Cơ", "description": "thông minh, đa mưu — IT, tư vấn, nghiên cứu" },
+                      { "title": "Thiên Đồng", "description": "ôn hòa, được yêu mến — dịch vụ, sáng tạo" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Tử Vi tại Mệnh — Đế tinh chủ tôn quý",
             "body": "**Tử Vi** là Đế tinh — sao chủ của toàn bộ chòm Bắc Đẩu. Đóng Mệnh thì người **đoan trang, có khí chất lãnh đạo**.",
             "chunks": [
@@ -278,7 +321,19 @@
           "question": "Mệnh ca có khác giữa Tử Vi Bắc phái và Nam phái không?",
           "answer": "**Có, khác nhau đáng kể.** Mệnh ca Việt Nam dùng phổ biến là **phái Nam Tống** (Hi Di tiên sinh) — chú trọng cát hung. Phái Bắc (Đài Loan, Hong Kong hiện đại) chú trọng **Tứ Hóa** hơn. Bài học này theo phái Nam (cũng là phái Tân Biên 1956 và Toàn Thư Vũ Tài Lục)."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi (7 sao đầu chòm Bắc Đẩu + Thiên Phủ)",
+        "points": [
+          "**Tử Vi tại Mệnh nam:** Đế tinh — lãnh đạo, có uy. Cần Tả Hữu để không 'cô quân vô tướng'.",
+          "**Thiên Cơ + Thái Dương + Vũ Khúc + Liêm Trinh + Thiên Đồng** = 6 sao chòm Bắc Đẩu (Tân Biên §Nam Mệnh).",
+          "**Thiên Phủ** = đế của Nam Đẩu — kho tàng, sung túc. Nam Mệnh Thiên Phủ → tích lũy giỏi, hợp tài chính dài hạn.",
+          "**Đắc/hãm quyết định 50% sức mạnh sao:** Tử Vi Ngọ đắc (Cực hướng ly minh); Tử Vi Mão/Dậu hãm. Đọc lời ca phải xét vị trí.",
+          "**Mệnh ca = khung tổng quát** — không phải kết luận cuối. Cần kết hợp với phụ tinh, tứ chính, đại vận."
+        ],
+        "mnemonic": "Tử-Cơ-Nhật-Vũ-Đồng-Liêm + Phủ — 7 sao đầu Nam Mệnh ca",
+        "example": "Mệnh Tử Vi tại Ngọ + Tả Phụ + Hữu Bật + Lộc Tồn → 'Cực hướng ly minh + Phụ bật củng chủ' → tướng quân/doanh nhân đại quý."
+      }
     },
     {
       "id": "nam-menh-ca-2",
@@ -291,6 +346,49 @@
       "key_metaphor": "Nếu chòm Bắc Đẩu giống **mùa Xuân-Hạ** (sinh trưởng, dương khí), thì chòm Nam Đẩu giống **mùa Thu-Đông** (thu hoạch, biến đổi). Mỗi sao có vai trò riêng — không sao nào tốt hay xấu tuyệt đối.",
       "content": {
         "sections": [
+          {
+            "title": "Sơ đồ tư duy — 7 chính tinh sau",
+            "body": "7 sao Nam Đẩu chia thành **3 nhóm khí chất** rõ rệt — học theo nhóm dễ hơn nhớ rời rạc.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "7 chính tinh sau — đặc trưng tại Mệnh nam (chia 3 nhóm khí chất)",
+              "data": {
+                "center": "NAM MỆNH CA 2",
+                "centerSymbol": "男",
+                "branches": [
+                  {
+                    "label": "Tài âm + Đào hoa",
+                    "symbol": "財",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thái Âm", "description": "tinh tế, giỏi tích lũy — BĐS, mỹ thuật, đầu tư" },
+                      { "title": "Tham Lang", "description": "đa năng, sức hút — kinh doanh, marketing, giải trí" }
+                    ]
+                  },
+                  {
+                    "label": "Khẩu + Nhân",
+                    "symbol": "口",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Cự Môn", "description": "khẩu tài giỏi — luật, MC, ngoại giao" },
+                      { "title": "Thiên Tướng", "description": "đáng tin, công bằng — hành chính, quản lý" },
+                      { "title": "Thiên Lương", "description": "nhân hậu, có quý nhân — y dược, giáo dục" }
+                    ]
+                  },
+                  {
+                    "label": "Dũng + Đổi mới",
+                    "symbol": "勇",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Thất Sát", "description": "mạnh mẽ, độc lập — quân đội, khởi nghiệp" },
+                      { "title": "Phá Quân", "description": "sáng tạo, không theo lối mòn — disruption" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
           {
             "title": "Thái Âm tại Mệnh — Mặt Trăng, sao của tài lộc âm hậu",
             "body": "**Thái Âm** là **Mặt Trăng** — sao chủ **tài lộc tích lũy, nội tâm, mỹ học**. Với nam mệnh, Thái Âm là **'tài tinh thứ hai'** (sau Vũ Khúc).",
@@ -532,7 +630,19 @@
           "question": "Mệnh Phá Quân thì có nên khởi nghiệp không?",
           "answer": "**Rất hợp** — nếu có **phụ tinh hỗ trợ** (Tả Hữu, Xương Khúc, Lộc Tồn). Phá Quân + Tử Vi đặc biệt mạnh — đây là cách của những người **lập đại nghiệp từ con số 0**. Nhưng Phá Quân **đơn độc + Sát tinh** → khởi nghiệp dễ thất bại liên tục. Phải đọc cả lá số, đặc biệt cung **Tài Bạch** và **Quan Lộc**."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi (7 sao chòm Nam Đẩu)",
+        "points": [
+          "**Thái Âm tại Mệnh nam:** tinh tế + gu thẩm mỹ + tài lộc tích lũy. Đắc Hợi = 'Nguyệt lãng thiên môn'.",
+          "**Tham Lang** = đa năng, sức hút lớn. Tham + Hỏa/Linh = 'tham hỏa/linh tham' đại phát đột phá.",
+          "**Cự Môn + Thiên Tướng + Thiên Lương** = bộ 3 khẩu-ấn-ấm. Cự khẩu tài; Tướng đáng tin; Lương có quý nhân.",
+          "**Thất Sát + Phá Quân** = chiến tướng + đột phá. Nam mệnh có Sát Phá → khởi nghiệp, lãnh đạo doanh nghiệp.",
+          "**Nam mệnh có 'Sát Phá Tham + Tử Vi'** = 'Hùng tú triều nguyên' — đại nghiệp, founder/CEO doanh nghiệp lớn."
+        ],
+        "mnemonic": "Âm-Tham-Cự-Tướng-Lương-Sát-Phá — 7 sao sau Nam Mệnh ca chòm Nam Đẩu",
+        "example": "Bill Gates 1955 Hợi Nam: Mệnh vô chính diệu mượn Thiên Đồng + Thái Âm tại Hợi (Nguyệt lãng thiên môn) → tài lộc tích lũy bền vững — khớp với tỷ phú Microsoft."
+      }
     },
     {
       "id": "nu-menh-ca-1",
@@ -567,6 +677,49 @@
               }
             ],
             "visual": null
+          },
+          {
+            "title": "Sơ đồ tư duy — 7 chính tinh đầu (góc nhìn nữ hiện đại)",
+            "body": "Cùng 7 sao như Nam Mệnh ca 1, nhưng **đọc theo lăng kính phụ nữ thế kỷ 21** — không phải khuôn phép xã hội cổ.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "7 chính tinh đầu — đặc trưng tại Mệnh nữ (cách đọc hiện đại)",
+              "data": {
+                "center": "NỮ MỆNH CA 1",
+                "centerSymbol": "女",
+                "branches": [
+                  {
+                    "label": "Đế tinh",
+                    "symbol": "帝",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Tử Vi", "description": "độc lập, tham vọng — làm sếp, cần partner xứng" },
+                      { "title": "Thiên Phủ", "description": "đoan trang, đáng tin — quản lý, BĐS, kế thừa" }
+                    ]
+                  },
+                  {
+                    "label": "Quý + Tài",
+                    "symbol": "貴",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thái Dương", "description": "xuất chúng, sức ảnh hưởng — lãnh đạo nữ" },
+                      { "title": "Vũ Khúc", "description": "kinh doanh, quyết đoán — tài chính, doanh nhân" },
+                      { "title": "Liêm Trinh", "description": "cá tính, có gu — luật, thiết kế, kiến trúc" }
+                    ]
+                  },
+                  {
+                    "label": "Trí + Phúc",
+                    "symbol": "智",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Thiên Cơ", "description": "thông minh, đa tài — nghiên cứu, IT, tư vấn" },
+                      { "title": "Thiên Đồng", "description": "dịu dàng, được yêu mến — dịch vụ, chăm sóc" }
+                    ]
+                  }
+                ]
+              }
+            }
           },
           {
             "title": "Tử Vi tại Mệnh (nữ) — Nữ vương khí chất",
@@ -809,7 +962,19 @@
           "question": "Có Mệnh Liêm Trinh thì có chắc chắn vướng đào hoa phức tạp?",
           "answer": "**Không chắc chắn.** Liêm Trinh chỉ kích hoạt 'đào hoa phức tạp' khi: (1) cung Phu Thê có Tham Lang/Đào Hồng/Hóa Kỵ; (2) gặp Hỏa Linh/Kình Đà tăng cường tính dục vọng. Nếu Liêm Trinh **miếu vượng + có Lộc + Cung Phu Thê ổn định** → hôn nhân tốt, chỉ là người có gu thẩm mỹ và cá tính mạnh. Phải đọc cả lá số, đặc biệt cung Phu Thê."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi (Nữ mệnh hiện đại)",
+        "points": [
+          "**Đọc Nữ Mệnh ca thế kỷ 21:** giữ MÔ TẢ TÍNH CÁCH + NĂNG LỰC, bỏ lớp đánh giá đạo đức phong kiến.",
+          "**'Khắc phu' KHÔNG = gây hại chồng.** Là cảnh báo: tính cách quá mạnh + chồng yếu → khó hợp. Giải: chọn partner xứng tầm.",
+          "**Sao 'cương kiện' (Thái Dương, Vũ Khúc, Thất Sát, Phá Quân) cho nữ HIỆN ĐẠI = LỢI THẾ** — lãnh đạo, doanh nhân, nhà cách mạng.",
+          "**Tử Vi nữ mệnh** = nữ vương khí chất, độc lập, cần partner xứng. Có Tả Hữu = thuận; thiếu = cô độc.",
+          "**Thiên Đồng nữ** = ôn hòa, được yêu mến — sao 'an toàn' nhất cho cả cổ và hiện đại."
+        ],
+        "mnemonic": "Cổ: sao mạnh = xấu cho nữ · Hiện đại: sao mạnh = lãnh đạo, doanh nhân, có ảnh hưởng",
+        "example": "Margaret Thatcher (Mệnh Tử Vi + Thất Sát?) — xưa coi 'khắc phu cô độc', hiện đại = 'Thủ tướng nữ đầu tiên Anh, có tầm ảnh hưởng lịch sử'."
+      }
     },
     {
       "id": "nu-menh-ca-2",
@@ -822,6 +987,49 @@
       "key_metaphor": "Nếu 7 sao trước có những 'sao gây tranh cãi' (Vũ Khúc, Thái Dương), thì 7 sao sau có cả **sao đỉnh cao cho nữ** (Thái Âm, Thiên Lương) lẫn **sao thử thách nặng** (Thất Sát, Phá Quân). Học cách phân biệt **tính cách** với **vai trò xã hội**.",
       "content": {
         "sections": [
+          {
+            "title": "Sơ đồ tư duy — 7 chính tinh sau (góc nhìn nữ hiện đại)",
+            "body": "Cùng 7 sao Nam Đẩu như Nam Mệnh ca 2, nhưng **đọc theo lăng kính phụ nữ thế kỷ 21**. Đặc biệt chú ý **Thái Âm** — sao quý nhất cho phụ nữ.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "7 chính tinh sau — đặc trưng tại Mệnh nữ (cách đọc hiện đại)",
+              "data": {
+                "center": "NỮ MỆNH CA 2",
+                "centerSymbol": "女",
+                "branches": [
+                  {
+                    "label": "Tài âm + Đào hoa",
+                    "symbol": "財",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thái Âm", "description": "tinh tế, mỹ học — SAO QUÝ NHẤT cho nữ" },
+                      { "title": "Tham Lang", "description": "sức hút mạnh — kinh doanh, marketing, sáng tạo" }
+                    ]
+                  },
+                  {
+                    "label": "Khẩu + Nhân",
+                    "symbol": "口",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Cự Môn", "description": "khẩu tài — luật, MC, podcaster" },
+                      { "title": "Thiên Tướng", "description": "đoan trang, đáng tin — hành chính, kế toán" },
+                      { "title": "Thiên Lương", "description": "đức cao — y dược, giáo dục, có quý nhân" }
+                    ]
+                  },
+                  {
+                    "label": "Dũng + Đổi mới",
+                    "symbol": "勇",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Thất Sát", "description": "chiến binh — khởi nghiệp, lãnh đạo doanh nghiệp" },
+                      { "title": "Phá Quân", "description": "disrupter — công nghệ, đổi mới, sáng tạo" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
           {
             "title": "Thái Âm tại Mệnh (nữ) — Sao quý nhất cho phụ nữ",
             "body": "**Thái Âm** = Mặt Trăng = âm khí. Đóng Mệnh nữ → **đúng âm dương, hợp khí chất**. Đây là sao **mọi sách Tử Vi đều khen** cho nữ.",
@@ -1086,7 +1294,19 @@
           "question": "Sau 4 bài Mệnh ca này, tôi có thể tự đọc lá số được chưa?",
           "answer": "**Đọc khung tổng được, đọc sâu chưa đủ.** Mệnh ca cho bạn **20% bức tranh** — chính tinh tại Mệnh. Còn 80%: (1) **phụ tinh** (Tả Hữu, Khôi Việt, Hỏa Linh, Kình Đà... — 50+ sao); (2) **tam phương tứ chính** (3 cung chiếu vào Mệnh); (3) **đại vận + lưu niên** (vận hạn theo thời gian); (4) **12 cung khác** (Phu Thê, Tài Bạch, Quan Lộc...). Để đọc đầy đủ → quay lại học các Module A→D, thực hành nhiều lá số."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi (Nữ mệnh 7 sao Nam Đẩu)",
+        "points": [
+          "**Thái Âm nữ mệnh = SAO QUÝ NHẤT** cho phụ nữ trong toàn bộ Tử Vi. Cả cổ và hiện đại đều khen.",
+          "**Tham Lang nữ:** sức hút lớn — không = lăng nhăng. Đa tình = giàu cảm xúc, dễ rung động. Hợp marketing, kinh doanh.",
+          "**Cự Môn nữ + mẹ chồng:** dễ thị phi. Giải: sống riêng + chọn lời + tránh chủ đề nhạy cảm (tiền, dạy con).",
+          "**Thất Sát + Phá Quân nữ = nữ chiến binh** hiện đại. Hợp khởi nghiệp, lãnh đạo doanh nghiệp, công nghệ.",
+          "**Sau 4 bài Mệnh ca = 20% bức tranh.** Còn 80% là phụ tinh + tứ chính + đại vận + 12 cung khác — học tiếp Module D, E."
+        ],
+        "mnemonic": "Âm = quý nhất cho nữ · Tham = sức hút · Cự = khẩu tài · Sát Phá = chiến binh hiện đại",
+        "example": "Nữ doanh nhân Việt Phạm Thị Việt Nga (sáng lập DHG Pharma) — mệnh phù hợp với Vũ Khúc + Thất Sát nữ: 'kinh doanh + chiến binh' = lãnh đạo hãng dược lớn."
+      }
     },
     {
       "id": "cach-cuc-dac-biet",
@@ -1121,6 +1341,79 @@
               }
             ],
             "visual": null
+          },
+          {
+            "title": "Sơ đồ tư duy — 5 nhóm cách cục",
+            "body": "Trước khi học chi tiết từng cách, hãy nhìn **bức tranh tổng**: 19 cách cục chia thành **5 nhóm chức năng** — mỗi nhóm có 'mục tiêu' khác nhau (quý/phú/dũng/cảnh báo).",
+            "chunks": [
+              {
+                "type": "note",
+                "text": "**Cách dùng:** Khi mở lá số, mắt quét theo 5 nhóm này. Hợp với mục tiêu nào nhất → tập trung học sâu vào nhóm đó trước."
+              }
+            ],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "5 nhóm cách cục với các cách tiêu biểu",
+              "data": {
+                "center": "CÁCH CỤC",
+                "centerSymbol": "格",
+                "branches": [
+                  {
+                    "label": "Đại Quý",
+                    "symbol": "貴",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Quân thần khánh hội", "description": "Tử Vi + Phá Quân Sửu/Mùi" },
+                      { "title": "Tử Phủ đồng cung", "description": "Tử Vi + Thiên Phủ Dần/Thân" },
+                      { "title": "Phụ bật củng chủ", "description": "Tả Phụ + Hữu Bật giáp Tử Vi" }
+                    ]
+                  },
+                  {
+                    "label": "Nhật-Nguyệt",
+                    "symbol": "明",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Nhật Nguyệt tịnh minh", "description": "Thái Dương + Thái Âm Sửu/Mùi" },
+                      { "title": "Cực hướng ly minh", "description": "Tử Vi tại Ngọ — uy quyền đỉnh" },
+                      { "title": "Nhật xuất phù tang", "description": "Thái Dương tại Mão — danh đến sớm" },
+                      { "title": "Nguyệt lãng thiên môn", "description": "Thái Âm tại Hợi — thanh quý bền" }
+                    ]
+                  },
+                  {
+                    "label": "Đại Phú",
+                    "symbol": "富",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Hỏa Tham cách", "description": "Tham Lang + Hỏa Tinh — đột phát" },
+                      { "title": "Linh Tham cách", "description": "Tham Lang + Linh Tinh — phú bền" },
+                      { "title": "Lộc Mã giao trì", "description": "Lộc Tồn + Thiên Mã — tiền từ đi xa" },
+                      { "title": "Song Lộc triều viên", "description": "Lộc Tồn + Hóa Lộc — đại phú vững" }
+                    ]
+                  },
+                  {
+                    "label": "Dũng Tướng",
+                    "symbol": "勇",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Mã đầu đới kiếm", "description": "Kình Dương + Mã tại Ngọ — tướng" },
+                      { "title": "Thất Sát triều đẩu", "description": "Thất Sát Tý/Ngọ chiếu Mệnh" },
+                      { "title": "Hùng tú triều nguyên", "description": "Tử Vi + Sát Phá Tham — đại nghiệp" }
+                    ]
+                  },
+                  {
+                    "label": "HUNG (cảnh báo)",
+                    "symbol": "凶",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Liêm Sát ngộ Kình", "description": "Liêm + Sát + Kình — tai nạn, pháp luật" },
+                      { "title": "Linh Xương Đà Vũ", "description": "Linh + Xương + Đà + Vũ — công danh đổ" },
+                      { "title": "Thái Dương lạc hãm", "description": "Thái Dương hãm + Cự Môn" },
+                      { "title": "Cự Hỏa Đà giáp Mệnh", "description": "Cự + Hỏa + Đà — thị phi pháp" }
+                    ]
+                  }
+                ]
+              }
+            }
           },
           {
             "title": "Nhóm 1 — Cách cục ĐẠI QUÝ (cao cấp nhất)",
@@ -1421,7 +1714,19 @@
           "question": "Sau bài này, tôi có thể đọc cách cục mọi lá số chưa?",
           "answer": "**Đọc được khung tổng, chưa đủ sâu.** Có 3 việc cần thực hành thêm: (1) **Học thuộc 19 cách cục này + công thức** — phải nhớ ngay tổ hợp sao + vị trí; (2) **Soi 30+ lá số** thực tế, dò cách cục, đọc và so sánh với cuộc đời thực; (3) **Học thêm 40+ cách cục phụ** (Khoa Quyền Lộc, Văn tinh ám củng, Tài ấn giáp Lộc...) trong sách Tử Vi cổ. Sau 6 tháng - 1 năm thực hành, bạn sẽ **soi cách cục trong vòng 30 giây** khi mở lá số."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi (19 cách cục)",
+        "points": [
+          "**Cách cục = công thức hóa học** trong Tử Vi: 1+1 không bằng 2 mà có thể bằng 10 hoặc 100. Quyết định **70% diễn biến lá số**.",
+          "**5 nhóm cách:** Đại Quý (Quân thần KH, Tử Phủ, Phụ Bật) · Nhật-Nguyệt (4 cách) · Đại Phú (5 cách) · Dũng Tướng (3 cách) · HUNG (4 cách).",
+          "**Cách cục cần KÍCH HOẠT** bởi đại vận. Có cách Quân thần khánh hội nhưng đại vận chưa tới → vẫn bình thường.",
+          "**Cách HUNG có thể HÓA GIẢI** bằng Tử Vi + Lộc + Khoa + tu tâm. Liêm Sát ngộ Kình + nghề luật = chuyển hung thành lợi.",
+          "**KHÔNG nói tiên đoán cứng:** Cách cục cho XU HƯỚNG, không phải định mệnh. 'Cách của bạn HỢP làm CEO' ≠ 'BẠN SẼ là CEO'."
+        ],
+        "mnemonic": "5 nhóm × ~4 cách = 19 cách quan trọng nhất. Cách cục = tiềm năng, hành động = hiện thực.",
+        "example": "Steve Jobs nếu có lá số với Phá Quân + Tử Vi (Quân thần khánh hội) → khai quốc công thần — khớp với 'người sáng lập Apple từ garage'."
+      }
     },
     {
       "id": "tong-ket-lo-trinh",
@@ -1735,7 +2040,19 @@
           "question": "Tôi định viết blog/làm YouTube về Tử Vi — sau lộ trình này tôi đủ kiến thức chưa?",
           "answer": "**Đủ làm content cơ bản, chưa đủ làm content sâu.** Bạn có thể: ✅ Giải thích Âm Dương, Ngũ hành, 12 cung, 14 chính tinh cho người mới bắt đầu; ✅ Phân tích các cách cục đặc biệt phổ biến; ✅ Chia sẻ lộ trình tự học. **Chưa nên:** ❌ Đọc lá số người nổi tiếng + nhận định công khai (sai sẽ bị critic mạnh); ❌ Dạy 'cách hóa giải vận xui'; ❌ Tuyên bố mình 'chuyên gia Tử Vi'. Lộ trình content an toàn: 6 tháng đầu chia sẻ **học hỏi cá nhân + ghi chú**, không phán định cho người khác. Sau 2-3 năm có 200+ lá số mới làm phân tích sâu."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — Lời kết và kế hoạch 100 ngày",
+        "points": [
+          "**Bạn đang ở Cấp 3/5** (Trung cấp) — đã vượt 95% người tự học. Vẫn còn Cấp 4 (Khá, 1-3 năm) và Cấp 5 (Chuyên gia, 5+ năm).",
+          "**Sai lầm lớn nhất 90% người mắc:** Bỏ qua TAM PHƯƠNG TỨ CHÍNH. Cung không tồn tại đơn lẻ, luôn có 3 cung chiếu vào.",
+          "**Hướng đi BẮT BUỘC:** Thực hành — lập lá số bản thân + gia đình + bạn bè, đều đặn mỗi tuần 2-3 lá.",
+          "**Đọc cổ thư sau:** Tân Biên (Vũ Tài Lục) TRƯỚC, Toàn Thư (Trần Đoàn) SAU. Tân Biên dễ tiếp cận hơn.",
+          "**Tinh thần:** Tử Vi KHÔNG để biết tương lai. Để **hiểu mình + chuẩn bị đại vận + tránh cách hung**. KHÔNG nói tiên đoán cứng, KHÔNG xem cho người ngoài gia đình trong 3 năm đầu."
+        ],
+        "mnemonic": "100 ngày: Tuần 1-2 lá số mình · 3-6 gia đình · 7-10 áp dụng 7 bước · 11-14 đọc Tân Biên",
+        "example": "Câu cuối Tân Biên: 'Học Tử Vi cốt ở chỗ thấu hiểu thiên-địa-nhân, không phải ở chỗ nhớ thuộc bao nhiêu sao. **Hiểu một Âm Dương, hiểu cả vũ trụ.**' — Bạn đã có 'một Âm Dương' vững vàng."
+      }
     }
   ]
 }

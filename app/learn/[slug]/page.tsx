@@ -6,6 +6,7 @@ import Navbar from "@/components/Navbar";
 import VisualBlock from "@/components/VisualBlock";
 import QuizBlock from "@/components/QuizBlock";
 import FAQ from "@/components/FAQ";
+import QuickRecall from "@/components/QuickRecall";
 import { getAllLessons, getLessonBySlug } from "@/lib/lessons";
 import type { ContentChunk } from "@/lib/types";
 
@@ -145,6 +146,9 @@ export default async function LessonPage({
           quiz={lesson.quiz}
           nextLesson={getNextLesson(lesson.slug)}
         />
+
+        {/* Quick Recall — hộp "mang về" 3-5 điểm cốt lõi (tuỳ chọn) */}
+        {lesson.quick_recall && <QuickRecall data={lesson.quick_recall} />}
 
         {/* FAQ — accordion có search */}
         <div className="mt-8">

@@ -38,6 +38,66 @@
             "visual": null
           },
           {
+            "title": "Sơ đồ tư duy — 10 can theo 5 hành",
+            "body": "10 can chia làm **5 cặp theo 5 hành**. Mỗi cặp: 1 Dương + 1 Âm. Học theo nhóm dễ thuộc hơn liệt kê 10 tên rời.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "10 Thiên can — 5 hành × 2 (Dương + Âm)",
+              "data": {
+                "center": "10 THIÊN CAN",
+                "centerSymbol": "干",
+                "branches": [
+                  {
+                    "label": "Mộc",
+                    "symbol": "木",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Giáp", "description": "Mộc Dương — cây lớn, vươn cao" },
+                      { "title": "Ất", "description": "Mộc Âm — cỏ mềm, uốn lượn" }
+                    ]
+                  },
+                  {
+                    "label": "Hỏa",
+                    "symbol": "火",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Bính", "description": "Hỏa Dương — mặt trời chói chang" },
+                      { "title": "Đinh", "description": "Hỏa Âm — ngọn nến ấm áp" }
+                    ]
+                  },
+                  {
+                    "label": "Thổ",
+                    "symbol": "土",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Mậu", "description": "Thổ Dương — núi cao, đất cứng" },
+                      { "title": "Kỷ", "description": "Thổ Âm — đất ruộng, đất mềm" }
+                    ]
+                  },
+                  {
+                    "label": "Kim",
+                    "symbol": "金",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Canh", "description": "Kim Dương — gươm sắt, kim loại thô" },
+                      { "title": "Tân", "description": "Kim Âm — kim trang sức, kim mỏng" }
+                    ]
+                  },
+                  {
+                    "label": "Thủy",
+                    "symbol": "水",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Nhâm", "description": "Thủy Dương — biển lớn, sông cuộn" },
+                      { "title": "Quý", "description": "Thủy Âm — nước mưa, sương mềm" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Mỗi can có một hành — và một thuộc tính Âm/Dương",
             "body": "10 can chia thành **5 hành**, mỗi hành **2 can** — 1 can **Dương** (số lẻ) và 1 can **Âm** (số chẵn). Đây là điểm khớp giữa Thiên can và Ngũ hành đã học.",
             "chunks": [
@@ -162,7 +222,19 @@
           "question": "Vì sao bài học hay bắt đầu bằng năm 'Giáp Tý' khi giảng?",
           "answer": "**Giáp Tý** là cặp đầu tiên trong chu kỳ Lục thập hoa giáp — Can đầu (Giáp) + Chi đầu (Tý). Người xưa coi đây là **khởi điểm** của chu kỳ 60 năm. Khi nói 'năm Giáp Tý' tức là năm số 1 trong vòng 60."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi",
+        "points": [
+          "**10 Thiên can:** Giáp, Ất, Bính, Đinh, Mậu, Kỷ, Canh, Tân, Nhâm, Quý — chia thành **5 cặp × 5 hành**.",
+          "**Cặp Mộc** (Giáp-Ất), **Hỏa** (Bính-Đinh), **Thổ** (Mậu-Kỷ), **Kim** (Canh-Tân), **Thủy** (Nhâm-Quý). Can lẻ = Dương, can chẵn = Âm.",
+          "**Công thức tra can năm:** (Năm - 4) mod 10 → tra bảng (0=Giáp, 1=Ất, 2=Bính...).",
+          "**Khởi điểm chu kỳ:** Giáp Tý (năm 4 SCN) — can đầu + chi đầu của Lục thập hoa giáp 60 năm.",
+          "**Can = 'mặt trời' của năm sinh** — quyết định Tứ Hóa sinh (Lộc/Quyền/Khoa/Kỵ đậu vào sao nào)."
+        ],
+        "mnemonic": "Giáp Ất Mộc · Bính Đinh Hỏa · Mậu Kỷ Thổ · Canh Tân Kim · Nhâm Quý Thủy",
+        "example": "1990 - 4 = 1986; 1986 mod 10 = 6 → can thứ 7 = **Canh** → năm 1990 là Canh Ngọ (Bạch Lạp Kim)."
+      }
     },
     {
       "id": "dia-chi",
@@ -189,6 +261,61 @@
               }
             ],
             "visual": null
+          },
+          {
+            "title": "Sơ đồ tư duy — 12 chi theo 4 mùa",
+            "body": "12 chi xếp đều thành **4 mùa × 3 chi**. Cuối mỗi mùa là **Tứ Mộ** (Sửu/Thìn/Mùi/Tuất) — vai trò 'chuyển giao' sang mùa tiếp theo.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "12 Địa chi — 4 mùa × 3 chi (cuối mỗi mùa là Tứ Mộ thổ)",
+              "data": {
+                "center": "12 ĐỊA CHI",
+                "centerSymbol": "支",
+                "branches": [
+                  {
+                    "label": "Xuân (Mộc)",
+                    "symbol": "春",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Dần", "description": "Hổ — Mộc Dương, tháng 1, 3-5h" },
+                      { "title": "Mão", "description": "Mèo — Mộc Âm, tháng 2, 5-7h" },
+                      { "title": "Thìn", "description": "Rồng — Thổ Dương (mộ Mộc), tháng 3" }
+                    ]
+                  },
+                  {
+                    "label": "Hạ (Hỏa)",
+                    "symbol": "夏",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Tỵ", "description": "Rắn — Hỏa Âm, tháng 4, 9-11h" },
+                      { "title": "Ngọ", "description": "Ngựa — Hỏa Dương, tháng 5, 11-13h" },
+                      { "title": "Mùi", "description": "Dê — Thổ Âm (mộ Hỏa), tháng 6" }
+                    ]
+                  },
+                  {
+                    "label": "Thu (Kim)",
+                    "symbol": "秋",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thân", "description": "Khỉ — Kim Dương, tháng 7, 15-17h" },
+                      { "title": "Dậu", "description": "Gà — Kim Âm, tháng 8, 17-19h" },
+                      { "title": "Tuất", "description": "Chó — Thổ Dương (mộ Kim), tháng 9" }
+                    ]
+                  },
+                  {
+                    "label": "Đông (Thủy)",
+                    "symbol": "冬",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Hợi", "description": "Lợn — Thủy Âm, tháng 10, 21-23h" },
+                      { "title": "Tý", "description": "Chuột — Thủy Dương, tháng 11, 23-1h" },
+                      { "title": "Sửu", "description": "Trâu — Thổ Âm (mộ Thủy), tháng 12" }
+                    ]
+                  }
+                ]
+              }
+            }
           },
           {
             "title": "Mỗi chi có hành và Âm/Dương riêng",
@@ -331,7 +458,19 @@
           "question": "Có công thức chính xác hơn để tra can chi không?",
           "answer": "Có. Công thức **chuẩn:** Can = chữ thứ ((năm - 3) mod 10) trong [Giáp, Ất, Bính, Đinh, Mậu, Kỷ, Canh, Tân, Nhâm, Quý] (1-based). Chi = chữ thứ ((năm - 3) mod 12) trong [Tý, Sửu, Dần, ...]. Ví dụ 2024: (2024-3) mod 10 = 1 → Giáp; (2024-3) mod 12 = 5 → Thìn. Bạn sẽ có công cụ tự tra ở Giai đoạn 4."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi",
+        "points": [
+          "**12 Địa chi:** Tý-Sửu-Dần-Mão-Thìn-Tỵ-Ngọ-Mùi-Thân-Dậu-Tuất-Hợi — gắn 12 con giáp.",
+          "**Chia 4 mùa × 3 chi:** Xuân (Dần-Mão-Thìn) · Hạ (Tỵ-Ngọ-Mùi) · Thu (Thân-Dậu-Tuất) · Đông (Hợi-Tý-Sửu).",
+          "**Tứ Mộ** = 4 chi cuối mỗi mùa (Sửu/Thìn/Mùi/Tuất) — **đều thuộc Thổ**, vai trò 'kho chứa & chuyển giao' sang mùa kế.",
+          "**Chia không đều theo hành:** Thổ có 4 chi (Tứ Mộ); các hành khác mỗi hành 2 chi (Dương + Âm).",
+          "**12 chi = 12 vị trí trên bàn lá số Tử Vi** — sẽ học ở Giai đoạn 3. Chi cũng đại diện cho **tháng + giờ + hướng**."
+        ],
+        "mnemonic": "Tý-Sửu-Dần-Mão-Thìn-Tỵ-Ngọ-Mùi-Thân-Dậu-Tuất-Hợi · Chuột-Trâu-Hổ-Mèo-Rồng-Rắn-Ngựa-Dê-Khỉ-Gà-Chó-Lợn",
+        "example": "Năm 1990 - 3 = 1987; 1987 mod 12 = 7 → chi thứ 8 = **Ngọ** (con ngựa). Kết hợp với can Canh → 1990 = **Canh Ngọ**."
+      }
     },
     {
       "id": "luc-thap-hoa-giap",
@@ -485,7 +624,18 @@
           "question": "Có phải năm sinh giống nhau thì số mệnh giống nhau?",
           "answer": "Không. Cùng năm sinh = cùng can-chi-mệnh, nhưng **giờ sinh** khác nhau dẫn đến **cung Mệnh** và **các sao** vào cung khác nhau. Tử Vi nhìn cả năm + giờ — nên hai người cùng năm vẫn có lá số khác nhau."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 4 điểm cốt lõi",
+        "points": [
+          "**Lục thập hoa giáp = 60 cặp Can-Chi** không trùng lặp, chu kỳ 60 năm/lần.",
+          "**Tại sao đúng 60?** BCNN(10 can, 12 chi) = 60. Sau 60 năm, can-chi quay về điểm xuất phát.",
+          "**Bắt đầu: Giáp Tý** (Can đầu + Chi đầu). Kết thúc: Quý Hợi (Can cuối + Chi cuối).",
+          "**Tuổi 60 = 'hoa giáp tròn'** — đời người đi tròn 1 chu kỳ, được tổ chức trang trọng trong văn hóa Á Đông."
+        ],
+        "mnemonic": "10 × 12 = 120 nhưng BCNN = 60 → mỗi cặp can-chi có 1 vị trí duy nhất trong 60 năm",
+        "example": "Sinh 1964 Giáp Thìn → đến 2024 (60 năm sau) lại Giáp Thìn — lễ mừng thọ 'hoa giáp tròn'."
+      }
     },
     {
       "id": "nap-am",
@@ -649,7 +799,18 @@
           "question": "Có công cụ tra nạp âm online không?",
           "answer": "Có nhiều. Ở Giai đoạn 4 của app này, bạn sẽ có công cụ **lập lá số** — tự động hiện nạp âm từ năm sinh. Trong khi đó, bạn có thể dùng bảng 30 nạp âm trong sách Tử Vi hoặc tra theo cặp can-chi đã tính."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 4 điểm cốt lõi",
+        "points": [
+          "**Nạp âm = bản mệnh Ngũ hành** từ cặp can-chi năm sinh. Có **30 nạp âm** cho 60 năm hoa giáp (mỗi cặp 2 năm liền nhau dùng chung).",
+          "**Mỗi nạp âm có tên cụ thể** mô tả tính chất hành: Hải Trung Kim (kim đáy biển), Lư Trung Hỏa (lửa trong lò), Lộ Bàng Thổ (đất ven đường)...",
+          "**Nạp âm vs hành can-chi:** can/chi có hành riêng, **nạp âm** là hành RIÊNG của cặp can-chi đó — không nhất thiết trùng với can hoặc chi.",
+          "**Áp dụng Tử Vi:** nạp âm = **bản mệnh** → quyết định Cục số → quyết định vị trí Tử Vi trên lá số → quyết định 14 chính tinh."
+        ],
+        "mnemonic": "Cặp can-chi → tra bảng 30 nạp âm → bản mệnh Ngũ hành",
+        "example": "Sinh 1990 Canh Ngọ → cặp Canh Ngọ + Tân Mùi = **Lộ Bàng Thổ** (đất ven đường, hành Thổ) → Cục = Thổ Ngũ Cục."
+      }
     },
     {
       "id": "gio-dia-chi",
@@ -788,7 +949,19 @@
           "question": "Giờ địa chi có dùng cho ngày tháng năm không?",
           "answer": "Có, nhưng cách tính khác nhau. **Năm:** dùng Lục thập hoa giáp. **Tháng:** bắt đầu từ Dần (tháng 1 âm lịch = Dần). **Ngày:** mỗi ngày 1 cặp can-chi (60 ngày tròn). **Giờ:** 12 canh như bài này. Trong Tử Vi cơ bản, ta chỉ cần năm + tháng + giờ."
         }
-      ]
+      ],
+      "quick_recall": {
+        "title": "MANG VỀ — 5 điểm cốt lõi",
+        "points": [
+          "**12 canh giờ = 12 chi:** Tý (23-1h) · Sửu (1-3h) · Dần (3-5h) ... Hợi (21-23h). Mỗi canh = **2 tiếng đồng hồ**.",
+          "**Tý bắt đầu từ 23h** — không phải nửa đêm. Đây là điểm hay nhầm. Sinh 23h05 → giờ Tý.",
+          "**Giờ sinh là 1 trong 2 yếu tố quan trọng nhất** (cùng với tháng sinh) — quyết định **cung Mệnh** và **cung Thân** trên lá số.",
+          "**Lục xung:** 6 cặp chi đối xứng đúng 12 tiếng: Tý-Ngọ · Sửu-Mùi · Dần-Thân · Mão-Dậu · Thìn-Tuất · Tỵ-Hợi.",
+          "**Sinh sát giờ giao** → thử cả 2 lá số, đối chiếu tính cách thực tế để chọn. Cần quy đổi múi giờ nếu sinh nơi khác Việt Nam."
+        ],
+        "mnemonic": "Tý 23-1 · Sửu 1-3 · Dần 3-5 · Mão 5-7 · Thìn 7-9 · Tỵ 9-11 · Ngọ 11-13 · Mùi 13-15 · Thân 15-17 · Dậu 17-19 · Tuất 19-21 · Hợi 21-23",
+        "example": "Sinh 14h30 → khoảng 13-15h = giờ **Mùi** (con Dê). Cung Mệnh sẽ được an theo tháng sinh + chi giờ này."
+      }
     }
   ]
 }
