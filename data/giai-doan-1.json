@@ -52,6 +52,61 @@
             }
           },
           {
+            "title": "Sơ đồ tư duy — 4 chiều của Âm Dương",
+            "body": "Mọi hiện tượng đều có thể phân Âm-Dương qua 4 chiều: thiên nhiên, phương vị, trạng thái, sinh học.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Âm Dương — 4 chiều áp dụng vào mọi hiện tượng (Dương / Âm)",
+              "data": {
+                "center": "ÂM DƯƠNG",
+                "centerSymbol": "陰",
+                "branches": [
+                  {
+                    "label": "Thiên nhiên",
+                    "symbol": "天",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Sáng / Tối", "description": "Mặt Trời (Dương) — Mặt Trăng (Âm)" },
+                      { "title": "Nóng / Lạnh", "description": "Lửa — Nước" },
+                      { "title": "Ngày / Đêm", "description": "12 giờ sáng — 12 giờ tối" }
+                    ]
+                  },
+                  {
+                    "label": "Phương vị",
+                    "symbol": "位",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Trên / Dưới", "description": "Trời (Dương) — Đất (Âm)" },
+                      { "title": "Ngoài / Trong", "description": "Bề mặt — Nội tâm" },
+                      { "title": "Nam / Bắc", "description": "Nóng (Dương) — Lạnh (Âm)" }
+                    ]
+                  },
+                  {
+                    "label": "Trạng thái",
+                    "symbol": "動",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Động / Tĩnh", "description": "Chuyển động — Bất động" },
+                      { "title": "Cứng / Mềm", "description": "Đá (Dương) — Bông (Âm)" },
+                      { "title": "Mạnh / Yếu", "description": "Tăng trưởng — Co lại" }
+                    ]
+                  },
+                  {
+                    "label": "Sinh học",
+                    "symbol": "命",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Nam / Nữ", "description": "Khí Dương — Khí Âm" },
+                      { "title": "Trẻ / Già", "description": "Sinh trưởng — Tích lũy" },
+                      { "title": "Thở ra / Hít vào", "description": "Phát (Dương) — Thu (Âm)" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Bốn quy luật của Âm dương",
             "body": "Người xưa rút ra 4 quy luật mô tả cách Âm và Dương vận hành. Hiểu 4 quy luật này, bạn sẽ hiểu vì sao Tử Vi luôn nói về **cân bằng** chứ không nói về tốt — xấu tuyệt đối.",
             "chunks": [
@@ -226,6 +281,76 @@
                   ["Thổ", "Nuôi dưỡng", "Đất đai", "Cuối mùa", "Trung", "Vàng"],
                   ["Kim", "Sắc bén", "Kim loại", "Thu", "Tây", "Trắng"],
                   ["Thủy", "Chảy xuống", "Dòng nước", "Đông", "Bắc", "Đen"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Sơ đồ tư duy — 5 hành và đặc trưng",
+            "body": "Mỗi hành có **1 bộ đặc trưng riêng** (mùa, hướng, màu, tạng, vị). Học theo bộ giúp suy ngược: thấy mùa → biết hành; thấy hành → suy mùa.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "5 hành — mỗi hành có 1 bộ đặc trưng riêng (Mộc-Hỏa-Thổ-Kim-Thủy)",
+              "data": {
+                "center": "NGŨ HÀNH",
+                "centerSymbol": "行",
+                "branches": [
+                  {
+                    "label": "Mộc",
+                    "symbol": "木",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Tính chất", "description": "cây cối, sinh trưởng, vươn lên" },
+                      { "title": "Mùa - Hướng", "description": "Xuân — Đông" },
+                      { "title": "Màu - Vị", "description": "Xanh — Chua" },
+                      { "title": "Tạng", "description": "Gan, mật" }
+                    ]
+                  },
+                  {
+                    "label": "Hỏa",
+                    "symbol": "火",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Tính chất", "description": "lửa, bùng nổ, tỏa nhiệt" },
+                      { "title": "Mùa - Hướng", "description": "Hạ — Nam" },
+                      { "title": "Màu - Vị", "description": "Đỏ — Đắng" },
+                      { "title": "Tạng", "description": "Tim, ruột non" }
+                    ]
+                  },
+                  {
+                    "label": "Thổ",
+                    "symbol": "土",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Tính chất", "description": "đất, ổn định, nuôi dưỡng" },
+                      { "title": "Mùa - Hướng", "description": "Cuối mỗi mùa — Giữa" },
+                      { "title": "Màu - Vị", "description": "Vàng — Ngọt" },
+                      { "title": "Tạng", "description": "Tỳ, dạ dày" }
+                    ]
+                  },
+                  {
+                    "label": "Kim",
+                    "symbol": "金",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Tính chất", "description": "kim loại, cứng, sắc bén" },
+                      { "title": "Mùa - Hướng", "description": "Thu — Tây" },
+                      { "title": "Màu - Vị", "description": "Trắng — Cay" },
+                      { "title": "Tạng", "description": "Phổi, ruột già" }
+                    ]
+                  },
+                  {
+                    "label": "Thủy",
+                    "symbol": "水",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Tính chất", "description": "nước, mềm dẻo, chảy xuống" },
+                      { "title": "Mùa - Hướng", "description": "Đông — Bắc" },
+                      { "title": "Màu - Vị", "description": "Đen / Xanh đậm — Mặn" },
+                      { "title": "Tạng", "description": "Thận, bàng quang" }
+                    ]
+                  }
                 ]
               }
             }
@@ -485,6 +610,45 @@
                   { "from": "Kim", "to": "Mộc", "label": "dao chặt cây" },
                   { "from": "Mộc", "to": "Thổ", "label": "rễ hút đất" },
                   { "from": "Thổ", "to": "Thủy", "label": "đất chặn nước" }
+                ]
+              }
+            }
+          },
+          {
+            "title": "Sơ đồ tư duy — 2 vòng sinh + khắc",
+            "body": "5 hành có **2 mối quan hệ chính**: vòng tương sinh (nuôi nhau) và vòng tương khắc (chế ngự nhau). Mỗi vòng đi đủ 5 hành.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Tương sinh + Tương khắc — 2 vòng quan hệ Ngũ hành",
+              "data": {
+                "center": "NGŨ HÀNH QUAN HỆ",
+                "centerSymbol": "相",
+                "branches": [
+                  {
+                    "label": "Tương sinh",
+                    "symbol": "生",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Thủy → Mộc", "description": "nước tưới cây mọc lên" },
+                      { "title": "Mộc → Hỏa", "description": "củi gỗ nhóm lửa cháy" },
+                      { "title": "Hỏa → Thổ", "description": "tro tàn thành đất màu mỡ" },
+                      { "title": "Thổ → Kim", "description": "lòng đất chứa quặng kim loại" },
+                      { "title": "Kim → Thủy", "description": "kim loại lạnh ngưng tụ thành giọt nước" }
+                    ]
+                  },
+                  {
+                    "label": "Tương khắc",
+                    "symbol": "克",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Mộc khắc Thổ", "description": "rễ cây hút chất, đào tan đất" },
+                      { "title": "Thổ khắc Thủy", "description": "đất chặn dòng, lấp nước" },
+                      { "title": "Thủy khắc Hỏa", "description": "nước dập tắt lửa" },
+                      { "title": "Hỏa khắc Kim", "description": "lửa nung chảy kim loại" },
+                      { "title": "Kim khắc Mộc", "description": "dao chặt cây — không phá hoại, mà tạo hình" }
+                    ]
+                  }
                 ]
               }
             }
@@ -1052,6 +1216,69 @@
                   ["Lục phủ", "Mật", "Ruột non", "Dạ dày", "Ruột già", "Bàng quang"],
                   ["Giác quan", "Mắt", "Lưỡi", "Miệng", "Mũi", "Tai"],
                   ["Cảm xúc", "Giận", "Vui", "Lo", "Buồn", "Sợ"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Sơ đồ tư duy — 5 lĩnh vực quy chiếu",
+            "body": "Bảng quy chiếu = **5 dimensions × 5 hành**. Học dọc theo dimension thay vì học rời từng ô.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Bảng quy chiếu — 5 dimensions × 5 hành (Mộc-Hỏa-Thổ-Kim-Thủy)",
+              "data": {
+                "center": "BẢNG QUY CHIẾU",
+                "centerSymbol": "對",
+                "branches": [
+                  {
+                    "label": "Mùa",
+                    "symbol": "季",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Mộc", "description": "Xuân — sinh sôi" },
+                      { "title": "Hỏa", "description": "Hạ — nóng nhất" },
+                      { "title": "Thổ", "description": "Cuối mỗi mùa — 'mộ' chuyển giao" },
+                      { "title": "Kim", "description": "Thu — gặt hái" },
+                      { "title": "Thủy", "description": "Đông — tiềm phục" }
+                    ]
+                  },
+                  {
+                    "label": "Hướng",
+                    "symbol": "方",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Mộc", "description": "Đông — mặt trời mọc" },
+                      { "title": "Hỏa", "description": "Nam — nóng" },
+                      { "title": "Thổ", "description": "Trung tâm" },
+                      { "title": "Kim", "description": "Tây — mặt trời lặn" },
+                      { "title": "Thủy", "description": "Bắc — lạnh" }
+                    ]
+                  },
+                  {
+                    "label": "Màu sắc",
+                    "symbol": "色",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Mộc", "description": "Xanh lá" },
+                      { "title": "Hỏa", "description": "Đỏ — bùng nổ" },
+                      { "title": "Thổ", "description": "Vàng đất" },
+                      { "title": "Kim", "description": "Trắng / xám kim loại" },
+                      { "title": "Thủy", "description": "Đen / xanh đậm" }
+                    ]
+                  },
+                  {
+                    "label": "Tạng phủ",
+                    "symbol": "臟",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Mộc", "description": "Gan, mật" },
+                      { "title": "Hỏa", "description": "Tim, ruột non" },
+                      { "title": "Thổ", "description": "Tỳ, dạ dày" },
+                      { "title": "Kim", "description": "Phổi, ruột già" },
+                      { "title": "Thủy", "description": "Thận, bàng quang" }
+                    ]
+                  }
                 ]
               }
             }

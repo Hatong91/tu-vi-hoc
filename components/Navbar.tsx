@@ -19,6 +19,7 @@ export default function Navbar() {
         <nav className="flex items-center gap-0.5 text-xs font-medium sm:gap-1 sm:text-sm">
           <NavLink href="/">Trang chủ</NavLink>
           <NavLink href="/learn/am-duong">Bài học</NavLink>
+          <NavLink href="/flashcards">Ôn tập</NavLink>
           <NavLink href="/la-so">Lập lá số</NavLink>
         </nav>
       </div>

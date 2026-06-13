@@ -409,6 +409,66 @@
             }
           },
           {
+            "title": "Sơ đồ tư duy — Mệnh vs Thân",
+            "body": "Mệnh và Thân là **2 trục đời người** — bẩm sinh và hậu vận. Hiểu sự khác biệt → đọc lá số chính xác hơn.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Cung Mệnh vs Cung Thân — 2 trục bẩm sinh và hậu vận",
+              "data": {
+                "center": "MỆNH & THÂN",
+                "centerSymbol": "命",
+                "branches": [
+                  {
+                    "label": "Cung Mệnh",
+                    "symbol": "命",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Ý nghĩa", "description": "bản thân BẨM SINH — cha mẹ cho" },
+                      { "title": "Thời điểm", "description": "từ sinh đến ~30 tuổi" },
+                      { "title": "Đọc gì", "description": "tính cách gốc, vận mệnh nền tảng" },
+                      { "title": "Vị trí", "description": "tính từ tháng + giờ sinh (nghịch)" }
+                    ]
+                  },
+                  {
+                    "label": "Cung Thân",
+                    "symbol": "身",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Ý nghĩa", "description": "bản thân HẬU VẬN — tự xây" },
+                      { "title": "Thời điểm", "description": "biểu hiện sau ~30 tuổi" },
+                      { "title": "Đọc gì", "description": "biểu hiện cá nhân + lựa chọn đời" },
+                      { "title": "Vị trí", "description": "tính từ tháng + giờ sinh (thuận)" }
+                    ]
+                  },
+                  {
+                    "label": "Đồng cung",
+                    "symbol": "同",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Khi nào", "description": "sinh giờ Tý/Ngọ/Mão/Dậu" },
+                      { "title": "Ý nghĩa", "description": "Mệnh-Thân thống nhất — bẩm sinh và hậu vận trùng" },
+                      { "title": "Đặc điểm", "description": "tính cách ổn định, nhất quán suốt đời" }
+                    ]
+                  },
+                  {
+                    "label": "6 cung Thân rơi vào",
+                    "symbol": "六",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Mệnh", "description": "đồng cung — thống nhất" },
+                      { "title": "Tài Bạch", "description": "đời gắn với tiền bạc" },
+                      { "title": "Quan Lộc", "description": "đời gắn với sự nghiệp" },
+                      { "title": "Thiên Di", "description": "đời gắn với đi xa, ngoại giao" },
+                      { "title": "Phu Thê", "description": "đời gắn với hôn nhân" },
+                      { "title": "Phúc Đức", "description": "đời gắn với tinh thần" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Cách đọc Mệnh-Thân để hiểu cá tính",
             "body": "Khi đọc lá số, bước đầu tiên: **xem cung Mệnh** (tính cách bẩm sinh) → **xem cung Thân** (hậu vận) → **xem cung đối xung của Mệnh = Thiên Di** (cách người khác nhìn bạn).",
             "chunks": [
@@ -561,6 +621,55 @@
                   ["Điền Trạch ↔ Tử Tức", "Tài sản hiện tại", "Tài sản tương lai (con)"],
                   ["Quan Lộc ↔ Phu Thê", "Sự nghiệp", "Hôn nhân"],
                   ["Nô Bộc ↔ Huynh Đệ", "Bạn bè ngoài", "Ruột thịt cùng thế hệ"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Sơ đồ tư duy — 6 cặp đối xung",
+            "body": "Mỗi cặp đối xung = **2 mặt của 1 chủ đề lớn**. Đọc cặp thay vì đọc đơn cho ra kết quả đầy đủ hơn nhiều.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "6 cặp đối xung — mỗi cặp là 2 mặt của 1 chủ đề",
+              "data": {
+                "center": "6 CẶP ĐỐI XUNG",
+                "centerSymbol": "對",
+                "branches": [
+                  {
+                    "label": "Bản thân ↔ Đối ngoại",
+                    "symbol": "我",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Mệnh ↔ Thiên Di", "description": "bản thân vs cách người khác nhìn" },
+                      { "title": "Tật Ách ↔ Huynh Đệ", "description": "sức khỏe vs ruột thịt giúp đỡ" }
+                    ]
+                  },
+                  {
+                    "label": "Tài-Quan",
+                    "symbol": "財",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Tài Bạch ↔ Phúc Đức", "description": "tiền bạc vs phúc khí tinh thần" },
+                      { "title": "Quan Lộc ↔ Phu Thê", "description": "sự nghiệp vs hôn nhân (cân bằng đời người)" }
+                    ]
+                  },
+                  {
+                    "label": "Gia sản",
+                    "symbol": "家",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Điền Trạch ↔ Tử Tức", "description": "nhà cửa vs con cái (di sản hữu hình + truyền nối)" }
+                    ]
+                  },
+                  {
+                    "label": "Trên-dưới",
+                    "symbol": "輩",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Phụ Mẫu ↔ Nô Bộc", "description": "cha mẹ trên vs bạn bè/cấp dưới" }
+                    ]
+                  }
                 ]
               }
             }
@@ -1137,6 +1246,55 @@
       "content": {
         "sections": [
           {
+            "title": "Sơ đồ tư duy — 6 sao chòm Tử Vi như triều đình",
+            "body": "6 sao chòm Bắc Đẩu = **triều đình thu nhỏ**: vua + 5 quan. Mỗi sao có vai trò riêng trong 'bộ máy lãnh đạo'.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "6 sao chòm Tử Vi — như triều đình (vua, mưu sĩ, vua sáng, tướng tài, vương gia, ngự sử)",
+              "data": {
+                "center": "CHÒM TỬ VI",
+                "centerSymbol": "北",
+                "branches": [
+                  {
+                    "label": "Vua",
+                    "symbol": "帝",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Tử Vi", "description": "Đế tinh (Thổ Âm) — lãnh đạo tối cao, cần Tả Hữu" }
+                    ]
+                  },
+                  {
+                    "label": "Văn quan",
+                    "symbol": "文",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Thiên Cơ", "description": "Mưu sĩ (Mộc Âm) — trí tuệ, biến hoá, kế hoạch" },
+                      { "title": "Thái Dương", "description": "Vua sáng (Hỏa Dương) — quang minh, danh tiếng" }
+                    ]
+                  },
+                  {
+                    "label": "Võ quan",
+                    "symbol": "武",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Vũ Khúc", "description": "Tướng tài (Kim Âm) — cương quyết, giỏi tiền bạc" },
+                      { "title": "Liêm Trinh", "description": "Ngự sử (Hỏa Âm) — pháp luật, nguyên tắc" }
+                    ]
+                  },
+                  {
+                    "label": "Phúc khí",
+                    "symbol": "福",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Thiên Đồng", "description": "Vương gia (Thủy Dương) — ôn hòa, hưởng phúc" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Tử Vi — Đế tinh (帝星)",
             "body": "**Tử Vi** thuộc **Thổ Âm**, là sao chủ tướng tối cao. Người Mệnh Tử Vi có **phong thái vương giả** — không cần cố gắng vẫn có khí chất 'người đứng đầu'.",
             "chunks": [
@@ -1357,6 +1515,57 @@
       "key_metaphor": "Nếu chòm Tử Vi là 'triều đình', thì chòm Thiên Phủ là 'bộ máy thực thi': **Thiên Phủ** là quan kho, **Thái Âm** là nữ chủ, **Tham Lang** là người đa thú, **Cự Môn** là quan ngôn luận, **Thiên Tướng** là ấn quan, **Thiên Lương** là sĩ phu, **Thất Sát** là tướng chiến, **Phá Quân** là tướng phá thành.",
       "content": {
         "sections": [
+          {
+            "title": "Sơ đồ tư duy — 8 sao chòm Thiên Phủ như bộ máy thực thi",
+            "body": "8 sao chòm Nam Đẩu chia 4 nhóm chức năng: **kho — tài — văn — võ**. Mỗi nhóm có 2 sao đại diện.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "8 sao chòm Thiên Phủ — 4 nhóm × 2 sao (kho, tài, văn, võ)",
+              "data": {
+                "center": "CHÒM THIÊN PHỦ",
+                "centerSymbol": "南",
+                "branches": [
+                  {
+                    "label": "Kho tàng",
+                    "symbol": "庫",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thiên Phủ", "description": "Tài tinh tích trữ (Thổ Dương) — kho báu, ổn định" },
+                      { "title": "Thái Âm", "description": "Tài âm (Thủy Âm) — kín đáo, tích lũy lâu dài" }
+                    ]
+                  },
+                  {
+                    "label": "Tài-Đào",
+                    "symbol": "桃",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Tham Lang", "description": "Đào hoa (Mộc Âm) — đa năng, sức hút, cơ hội" },
+                      { "title": "Cự Môn", "description": "Khẩu tinh (Thủy Âm) — hùng biện, dễ thị phi" }
+                    ]
+                  },
+                  {
+                    "label": "Văn-Nhân",
+                    "symbol": "印",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Thiên Tướng", "description": "Ấn tinh (Thủy Dương) — chính trực, đáng tin" },
+                      { "title": "Thiên Lương", "description": "Ấm tinh (Thổ Dương) — nhân hậu, có quý nhân" }
+                    ]
+                  },
+                  {
+                    "label": "Võ tướng",
+                    "symbol": "將",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Thất Sát", "description": "Tướng chiến (Kim Âm) — dũng khí, chiến đấu" },
+                      { "title": "Phá Quân", "description": "Tướng phá thành (Thủy Âm) — đột phá, đổi mới" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
           {
             "title": "Thiên Phủ — Tài tinh tích trữ (天府)",
             "body": "**Thiên Phủ** thuộc **Thổ Dương**, là **'kho báu'** của bàn lá số. Người Mệnh Thiên Phủ **ổn định, có gia sản**, biết giữ và tích lũy.",

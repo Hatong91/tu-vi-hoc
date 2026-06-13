@@ -116,6 +116,63 @@
             "visual": null
           },
           {
+            "title": "Sơ đồ tư duy — Hệ vận hạn Tử Vi",
+            "body": "Hệ vận hạn = **3 tầng thời gian**: Cục (nền) → Đại Vận (10 năm) → Lưu Niên (1 năm). Mỗi tầng có cách tính riêng.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Hệ vận hạn — Cục, Đại Vận, Lưu Niên, Hướng đi",
+              "data": {
+                "center": "VẬN HẠN",
+                "centerSymbol": "運",
+                "branches": [
+                  {
+                    "label": "Cục số",
+                    "symbol": "局",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thủy Nhị Cục", "description": "ĐV1 từ 2 tuổi" },
+                      { "title": "Mộc Tam Cục", "description": "ĐV1 từ 3 tuổi" },
+                      { "title": "Kim Tứ Cục", "description": "ĐV1 từ 4 tuổi" },
+                      { "title": "Thổ Ngũ Cục", "description": "ĐV1 từ 5 tuổi" },
+                      { "title": "Hỏa Lục Cục", "description": "ĐV1 từ 6 tuổi" }
+                    ]
+                  },
+                  {
+                    "label": "Đại Vận",
+                    "symbol": "大",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Mỗi vận 10 năm", "description": "kéo dài 1 cung trên bàn lá số" },
+                      { "title": "ĐV1 tại cung Mệnh", "description": "khởi từ Cục năm tuổi" },
+                      { "title": "Sao tại cung ĐV", "description": "quyết định 'kịch bản' 10 năm đó" }
+                    ]
+                  },
+                  {
+                    "label": "Lưu Niên",
+                    "symbol": "流",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Vận năm hiện tại", "description": "cung trùng chi năm" },
+                      { "title": "2025 = Ất Tỵ", "description": "Lưu Niên ở cung Tỵ" },
+                      { "title": "Hóa năm + Sao", "description": "quyết định 'điểm rơi' năm đó" }
+                    ]
+                  },
+                  {
+                    "label": "Hướng đi",
+                    "symbol": "向",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Nam Dương + Nữ Âm", "description": "đi THUẬN chiều kim đồng hồ" },
+                      { "title": "Nam Âm + Nữ Dương", "description": "đi NGHỊCH chiều kim đồng hồ" },
+                      { "title": "Theo can năm sinh", "description": "Giáp/Bính/Mậu/Canh/Nhâm = Dương" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Đọc vận hạn thực hành — Quy trình 4 bước",
             "body": "Khi muốn xem vận năm cho ai đó, theo trình tự:",
             "chunks": [

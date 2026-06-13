@@ -561,6 +561,58 @@
             }
           },
           {
+            "title": "Sơ đồ tư duy — 60 năm chia 6 block × 10",
+            "body": "60 năm hoa giáp chia thành **6 block × 10 năm**, mỗi block khởi từ Giáp. Đây là cấu trúc dùng để xác định vị trí **Tuần Không Vong** trên lá số.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Lục thập hoa giáp — 6 block × 10 năm, mỗi block khởi từ Giáp",
+              "data": {
+                "center": "60 NĂM HOA GIÁP",
+                "centerSymbol": "甲",
+                "branches": [
+                  {
+                    "label": "Block 1",
+                    "symbol": "1",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Giáp Tý → Quý Dậu", "description": "10 năm đầu — Tuần phủ Tuất-Hợi" },
+                      { "title": "Bắt đầu", "description": "Giáp Tý — năm số 1 chu kỳ" },
+                      { "title": "Kết thúc", "description": "Quý Dậu — năm số 10" }
+                    ]
+                  },
+                  {
+                    "label": "Block 2-3",
+                    "symbol": "2",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Giáp Tuất → Quý Mùi", "description": "Tuần phủ Thân-Dậu" },
+                      { "title": "Giáp Thân → Quý Tỵ", "description": "Tuần phủ Ngọ-Mùi" }
+                    ]
+                  },
+                  {
+                    "label": "Block 4-5",
+                    "symbol": "3",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Giáp Ngọ → Quý Mão", "description": "Tuần phủ Thìn-Tỵ" },
+                      { "title": "Giáp Thìn → Quý Sửu", "description": "Tuần phủ Dần-Mão" }
+                    ]
+                  },
+                  {
+                    "label": "Block 6",
+                    "symbol": "6",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Giáp Dần → Quý Hợi", "description": "Tuần phủ Tý-Sửu" },
+                      { "title": "Kết vòng 60", "description": "Hết Quý Hợi → quay lại Giáp Tý" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Ý nghĩa Lục thập hoa giáp trong Tử Vi",
             "body": "Mỗi năm sinh thuộc **một cặp can-chi cụ thể** trong vòng 60. Cặp này quyết định **bản mệnh Ngũ hành** (gọi là **nạp âm** — học bài kế tiếp).",
             "chunks": [
@@ -704,6 +756,76 @@
                   ["7-8", "Canh Ngọ · Tân Mùi", "Lộ Bàng Thổ", "Đất ven đường"],
                   ["9-10", "Nhâm Thân · Quý Dậu", "Kiếm Phong Kim", "Vàng mũi kiếm"],
                   ["11-12", "Giáp Tuất · Ất Hợi", "Sơn Đầu Hỏa", "Lửa đỉnh núi"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Sơ đồ tư duy — 30 nạp âm chia 5 hành × 6 dạng",
+            "body": "30 nạp âm = **5 hành × 6 dạng**. Mỗi hành có 6 nạp âm với tên thi vị mô tả 'kiểu' hành đó (kim đáy biển, kim trang sức...).",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "30 nạp âm — 5 hành × 6 'kiểu' khác nhau",
+              "data": {
+                "center": "30 NẠP ÂM",
+                "centerSymbol": "音",
+                "branches": [
+                  {
+                    "label": "Mộc (6)",
+                    "symbol": "木",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Đại Lâm Mộc", "description": "rừng rậm bao la" },
+                      { "title": "Dương Liễu Mộc", "description": "cây dương liễu mềm mại" },
+                      { "title": "Tang Đố Mộc", "description": "cây dâu tằm" },
+                      { "title": "Tùng Bách Mộc", "description": "tùng bách bền vững" }
+                    ]
+                  },
+                  {
+                    "label": "Hỏa (6)",
+                    "symbol": "火",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Tích Lịch Hỏa", "description": "lửa sấm sét bùng nổ" },
+                      { "title": "Lư Trung Hỏa", "description": "lửa trong lò" },
+                      { "title": "Phú Đăng Hỏa", "description": "lửa đèn trang trí" },
+                      { "title": "Sơn Đầu/Hạ Hỏa", "description": "lửa trên/dưới núi" }
+                    ]
+                  },
+                  {
+                    "label": "Thổ (6)",
+                    "symbol": "土",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Lộ Bàng Thổ", "description": "đất ven đường" },
+                      { "title": "Thành Đầu Thổ", "description": "đất xây thành" },
+                      { "title": "Sa Trung Thổ", "description": "đất pha cát" },
+                      { "title": "Đại Trạch Thổ", "description": "đất ruộng lớn" }
+                    ]
+                  },
+                  {
+                    "label": "Kim (6)",
+                    "symbol": "金",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Hải Trung Kim", "description": "kim đáy biển — sâu, ẩn" },
+                      { "title": "Kiếm Phong Kim", "description": "kim mũi gươm — sắc bén" },
+                      { "title": "Bạch Lạp Kim", "description": "kim trắng đèn nến" },
+                      { "title": "Sa Trung Kim", "description": "vàng cát" }
+                    ]
+                  },
+                  {
+                    "label": "Thủy (6)",
+                    "symbol": "水",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Giáng Hà Thủy", "description": "nước sông Hoàng Hà" },
+                      { "title": "Đại Hải Thủy", "description": "nước biển lớn" },
+                      { "title": "Tuyền Trung Thủy", "description": "nước trong suối" },
+                      { "title": "Thiên Hà Thủy", "description": "nước trên trời (sông Ngân)" }
+                    ]
+                  }
                 ]
               }
             }
@@ -858,6 +980,61 @@
                   ["Dậu", "17h – 19h", "Kim", "Hoàng hôn, gà về chuồng"],
                   ["Tuất", "19h – 21h", "Thổ", "Tối, chó canh nhà"],
                   ["Hợi", "21h – 23h", "Thủy", "Đêm khuya, lợn ngủ"]
+                ]
+              }
+            }
+          },
+          {
+            "title": "Sơ đồ tư duy — 12 canh giờ chia 4 thời trong ngày",
+            "body": "12 canh giờ = **4 thời × 3 canh**. Mỗi thời tương ứng giai đoạn năng lượng riêng (Âm cực → Dương lên → Dương cực → Âm lên).",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "12 canh giờ — 4 thời × 3 canh, vòng âm dương trong 24h",
+              "data": {
+                "center": "12 CANH GIỜ",
+                "centerSymbol": "時",
+                "branches": [
+                  {
+                    "label": "Đêm khuya",
+                    "symbol": "夜",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Tý", "description": "23-1h — Âm cực, Dương chớm" },
+                      { "title": "Sửu", "description": "1-3h — Âm còn nhiều" },
+                      { "title": "Dần", "description": "3-5h — gà gáy đầu, Dương lên" }
+                    ]
+                  },
+                  {
+                    "label": "Sáng",
+                    "symbol": "朝",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Mão", "description": "5-7h — mặt trời mọc" },
+                      { "title": "Thìn", "description": "7-9h — sương tan, hoạt động" },
+                      { "title": "Tỵ", "description": "9-11h — sắp đến giữa ngày" }
+                    ]
+                  },
+                  {
+                    "label": "Trưa-Chiều",
+                    "symbol": "午",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Ngọ", "description": "11-13h — Dương cực, giữa trưa" },
+                      { "title": "Mùi", "description": "13-15h — nắng nóng nhất" },
+                      { "title": "Thân", "description": "15-17h — chiều xuống" }
+                    ]
+                  },
+                  {
+                    "label": "Tối",
+                    "symbol": "晚",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Dậu", "description": "17-19h — mặt trời lặn" },
+                      { "title": "Tuất", "description": "19-21h — chó sủa, đêm về" },
+                      { "title": "Hợi", "description": "21-23h — đêm sâu, sắp Âm cực" }
+                    ]
+                  }
                 ]
               }
             }
