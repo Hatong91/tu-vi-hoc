@@ -2,6 +2,7 @@
 
 import { Sparkles, Flame, BookMarked, CheckCircle2 } from "lucide-react";
 import ProgressBar from "./ProgressBar";
+import FlashcardsWidget from "./FlashcardsWidget";
 import { useProgress } from "@/hooks/useProgress";
 import { useStreak } from "@/hooks/useStreak";
 import type { PhaseInfo } from "@/lib/types";
@@ -103,6 +104,9 @@ export default function DashboardSidebar({ phases, totalLessons }: Props) {
           </div>
         </div>
       </div>
+
+      {/* Widget Flashcards — số thẻ cần ôn hôm nay */}
+      <FlashcardsWidget />
 
       <div className="mt-4 rounded-lg border border-gold/50 bg-cream p-4">
         <h3 className="flex items-center gap-2 font-display text-sm font-semibold text-ink">

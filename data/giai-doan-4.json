@@ -391,6 +391,58 @@
             }
           },
           {
+            "title": "Sơ đồ tư duy — Trình tự 4 bước an sao",
+            "body": "An 14 chính tinh đi theo **trình tự cố định 4 bước**. Bỏ bước nào → sai cả lá số.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Trình tự 4 bước an 14 chính tinh",
+              "data": {
+                "center": "AN 14 CHÍNH TINH",
+                "centerSymbol": "星",
+                "branches": [
+                  {
+                    "label": "B1 — Cục",
+                    "symbol": "局",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Nạp âm → Cục", "description": "Thủy 2, Mộc 3, Kim 4, Thổ 5, Hỏa 6" },
+                      { "title": "Ý nghĩa Cục", "description": "quyết định cách tra vị trí Tử Vi" }
+                    ]
+                  },
+                  {
+                    "label": "B2 — An Tử Vi",
+                    "symbol": "紫",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Công thức", "description": "Q=⌈D/C⌉, R=Q·C−D" },
+                      { "title": "R chẵn → thuận R cung", "description": "từ Dần" },
+                      { "title": "R lẻ → nghịch R cung", "description": "từ Dần" }
+                    ]
+                  },
+                  {
+                    "label": "B3 — Suy Thiên Phủ",
+                    "symbol": "府",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "(4 − Tử Vi) mod 12", "description": "đối xứng qua trục Dần-Thân" },
+                      { "title": "Đồng cung Dần/Thân", "description": "Tử Phủ đồng cung — cách quý" }
+                    ]
+                  },
+                  {
+                    "label": "B4 — An 12 sao còn lại",
+                    "symbol": "二",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Chòm Tử Vi 6 sao", "description": "đi NGƯỢC: Cơ −1, Dương −3, Vũ −4, Đồng −5, Liêm −8" },
+                      { "title": "Chòm Thiên Phủ 8 sao", "description": "đi THUẬN: Âm +1, Tham +2, Cự +3, Tướng +4, Lương +5, Sát +6, Phá +10" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Đắc địa — Hãm địa: Sao có 'sướng' ở cung không?",
             "body": "Sau khi an sao, kiểm tra **mỗi sao đắc hay hãm địa**. Quy tắc: hành của sao **tương sinh với hành cung** → đắc địa; **tương khắc** → hãm.",
             "chunks": [
@@ -864,6 +916,56 @@
             "visual": null
           },
           {
+            "title": "Sơ đồ tư duy — 7 bước đọc lá số",
+            "body": "Quy trình **7 bước cố định** — không bỏ bước nào. Mỗi bước trả lời 1 câu hỏi cốt lõi.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Quy trình 7 bước đọc lá số — chia 4 cụm chức năng",
+              "data": {
+                "center": "ĐỌC LÁ SỐ",
+                "centerSymbol": "讀",
+                "branches": [
+                  {
+                    "label": "Khung",
+                    "symbol": "框",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "B1 — Năm sinh", "description": "can chi, nạp âm, Cục" },
+                      { "title": "B2 — Mệnh-Thân", "description": "vị trí + bẩm sinh vs hậu vận" }
+                    ]
+                  },
+                  {
+                    "label": "Sao + Tứ chính",
+                    "symbol": "星",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "B3 — Chính tinh", "description": "14 sao + đắc/hãm tại Mệnh" },
+                      { "title": "B4 — Tứ chính", "description": "2 tam phương + 1 đối xung chiếu Mệnh" }
+                    ]
+                  },
+                  {
+                    "label": "Hóa",
+                    "symbol": "化",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "B5 — Tứ Hóa bẩm sinh", "description": "theo can năm sinh — cố định cả đời" }
+                    ]
+                  },
+                  {
+                    "label": "Vận",
+                    "symbol": "運",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "B6 — Đại Vận", "description": "tuổi → cung nào → sao chiếu" },
+                      { "title": "B7 — Lưu Niên + Kết luận", "description": "năm hiện tại + tổng hợp 7 bước" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Bảng tổng kết 7 bước",
             "body": "Đây là phác đồ chuẩn — in ra và dùng mỗi lần đọc lá số.",
             "chunks": [
@@ -1057,6 +1159,66 @@
             "visual": null
           },
           {
+            "title": "Sơ đồ tư duy — 5 sai lầm + cách tránh",
+            "body": "Hầu hết người tự học Tử Vi mắc **1 trong 5 sai lầm này**. Biết để né.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "5 sai lầm phổ biến + cách đọc đúng",
+              "data": {
+                "center": "5 SAI LẦM",
+                "centerSymbol": "誤",
+                "branches": [
+                  {
+                    "label": "Sai 1 — Tin tuyệt đối",
+                    "symbol": "信",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Biểu hiện", "description": "biến thành 'tù nhân của vận mệnh'" },
+                      { "title": "Đúng", "description": "lá số = xu hướng + tiềm năng" }
+                    ]
+                  },
+                  {
+                    "label": "Sai 2 — Bỏ tứ chính",
+                    "symbol": "四",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Biểu hiện", "description": "chỉ đọc cung gốc, không xem 3 cung chiếu" },
+                      { "title": "Đúng", "description": "luôn đọc cả tứ chính (2 tam phương + 1 đối xung)" }
+                    ]
+                  },
+                  {
+                    "label": "Sai 3 — Bỏ Đại Vận",
+                    "symbol": "運",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Biểu hiện", "description": "đọc lá số tĩnh, không cập nhật tuổi" },
+                      { "title": "Đúng", "description": "kiểm tra Đại Vận hiện tại + lưu niên" }
+                    ]
+                  },
+                  {
+                    "label": "Sai 4 — Xem cho người sớm",
+                    "symbol": "他",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Biểu hiện", "description": "mới học đã xem cho mọi người" },
+                      { "title": "Đúng", "description": "thực hành ≥ 100 lá số trước khi xem chuyên" }
+                    ]
+                  },
+                  {
+                    "label": "Sai 5 — Tuyệt đối hóa",
+                    "symbol": "絕",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Biểu hiện", "description": "Tử Vi = chân lý duy nhất" },
+                      { "title": "Đúng", "description": "1 góc nhìn — kết hợp khoa học, tâm lý, đạo đức" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Tinh thần đúng — 3 nguyên tắc vàng",
             "body": "Sau khi tránh 5 sai lầm trên, đây là **3 nguyên tắc** để Tử Vi thực sự **giúp đời sống**.",
             "chunks": [
@@ -1176,6 +1338,61 @@
               }
             ],
             "visual": null
+          },
+          {
+            "title": "Sơ đồ tư duy — 3 case study tiêu biểu",
+            "body": "3 nhân vật lịch sử với 3 kết cục khác nhau. Đối chiếu lá số với cuộc đời thực = cách học nhanh nhất.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "3 case study — Khổng Tử, Nhan Hồi, Bill Gates",
+              "data": {
+                "center": "CASE STUDY",
+                "centerSymbol": "例",
+                "branches": [
+                  {
+                    "label": "Khổng Tử",
+                    "symbol": "孔",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Mệnh tại Tý", "description": "Thiên Lương + Lộc Tồn hội hợp" },
+                      { "title": "Đời thực", "description": "triết gia, đức cao, sống thọ 73 tuổi" },
+                      { "title": "Khớp", "description": "Thiên Lương 'ấm tinh' + Lộc Tồn phúc khí" }
+                    ]
+                  },
+                  {
+                    "label": "Nhan Hồi",
+                    "symbol": "顏",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Mệnh", "description": "Thất Sát tại Tuyệt + Kình Đà giáp" },
+                      { "title": "Đời thực", "description": "yểu mệnh, chết 29 tuổi" },
+                      { "title": "Khớp", "description": "Sát Phá Tham + Sát hung kép" }
+                    ]
+                  },
+                  {
+                    "label": "Bill Gates",
+                    "symbol": "蓋",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Mệnh vô chính diệu", "description": "mượn Thiên Đồng + Thái Âm" },
+                      { "title": "Đặc biệt", "description": "Thân cư Phu Thê (Melinda)" },
+                      { "title": "Khớp", "description": "tỷ phú công nghệ, sự nghiệp gắn partner" }
+                    ]
+                  },
+                  {
+                    "label": "Quy trình tự làm",
+                    "symbol": "工",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "B1", "description": "chọn nhân vật có giờ sinh chính xác" },
+                      { "title": "B2", "description": "lập lá số → áp dụng 7 bước" },
+                      { "title": "B3", "description": "đối chiếu với cuộc đời thực → tìm chỗ khớp/sai" }
+                    ]
+                  }
+                ]
+              }
+            }
           },
           {
             "title": "Case 1: Đức Khổng Tử — Mệnh Tý có Thiên Lương + Lộc Tồn hội hợp",
@@ -1530,6 +1747,54 @@
               }
             ],
             "visual": null
+          },
+          {
+            "title": "Sơ đồ tư duy — Tuần vs Triệt",
+            "body": "Tuần và Triệt là **2 sao Không Vong** với công thức và tác dụng khác nhau. Đặc trưng Tử Vi Việt.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "Tuần và Triệt — 2 sao Không Vong (đặc trưng Tử Vi Việt)",
+              "data": {
+                "center": "TUẦN & TRIỆT",
+                "centerSymbol": "空",
+                "branches": [
+                  {
+                    "label": "Tuần",
+                    "symbol": "旬",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Cơ chế", "description": "phủ block 10 năm hoa giáp" },
+                      { "title": "6 block", "description": "Giáp Tý→Quý Dậu, Giáp Tuất→Quý Mùi..." },
+                      { "title": "Vị trí", "description": "phủ 2 chi liền sau Quý" },
+                      { "title": "Tác dụng", "description": "cản phát huy, phát muộn ~40 tuổi" }
+                    ]
+                  },
+                  {
+                    "label": "Triệt",
+                    "symbol": "截",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Cơ chế", "description": "phủ theo can năm sinh" },
+                      { "title": "Giáp/Kỷ", "description": "Thân-Dậu" },
+                      { "title": "Ất/Canh", "description": "Ngọ-Mùi" },
+                      { "title": "Bính/Tân", "description": "Thìn-Tỵ" },
+                      { "title": "Đinh/Nhâm", "description": "Dần-Mão" },
+                      { "title": "Mậu/Quý", "description": "Tý-Sửu" }
+                    ]
+                  },
+                  {
+                    "label": "So sánh",
+                    "symbol": "比",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Triệt > Tuần", "description": "Triệt 'cắt đứt', Tuần 'cản'" },
+                      { "title": "Đặc trưng Việt", "description": "có thể hoá giải sát xung" }
+                    ]
+                  }
+                ]
+              }
+            }
           },
           {
             "title": "Mức độ tác dụng — Triệt mạnh hơn Tuần",
@@ -2099,6 +2364,62 @@
             }
           },
           {
+            "title": "Sơ đồ tư duy — 2 vòng × 12 sao",
+            "body": "Mỗi cung trên lá số luôn có **2 sao phụ tinh** — 1 từ vòng Bác Sĩ, 1 từ vòng Thái Tuế.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "2 vòng × 12 sao — Bác Sĩ (Lộc Tồn) + Thái Tuế (chi năm)",
+              "data": {
+                "center": "2 VÒNG SAO",
+                "centerSymbol": "輪",
+                "branches": [
+                  {
+                    "label": "Vòng Bác Sĩ",
+                    "symbol": "博",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Khởi từ", "description": "Lộc Tồn (theo can năm)" },
+                      { "title": "Hướng đi", "description": "Dương Nam Âm Nữ thuận, Âm Nam Dương Nữ nghịch" },
+                      { "title": "12 sao", "description": "Bác Sĩ, Lực Sĩ, Thanh Long, Tiểu Hao..." },
+                      { "title": "Sao mạnh nhất", "description": "Bác Sĩ (cung Lộc Tồn) — quý nhân học vấn" }
+                    ]
+                  },
+                  {
+                    "label": "Vòng Thái Tuế",
+                    "symbol": "歲",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Khởi từ", "description": "cung trùng chi năm sinh" },
+                      { "title": "Hướng đi", "description": "luôn THUẬN (không phân âm dương)" },
+                      { "title": "12 sao", "description": "Thái Tuế, Thiếu Dương, Tang Môn, Thiếu Âm..." },
+                      { "title": "Sao mạnh nhất", "description": "Thái Tuế — đại diện năm sinh, vận năm" }
+                    ]
+                  },
+                  {
+                    "label": "Tổ hợp đẹp",
+                    "symbol": "吉",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Bác Sĩ + Phúc Đức", "description": "học cao có phúc lớn" },
+                      { "title": "Tướng Quân + Long Đức", "description": "võ tướng khí phách" },
+                      { "title": "Hỷ Thần + Thiên Hỷ", "description": "song hỷ — đại cát" }
+                    ]
+                  },
+                  {
+                    "label": "Tổ hợp xấu",
+                    "symbol": "凶",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Phi Liêm + Bạch Hổ", "description": "cô độc, tang chế" },
+                      { "title": "Tuế Phá + Thiên Hư", "description": "hư danh, xung khắc" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
             "title": "Tổ hợp đặc biệt giữa 2 vòng",
             "body": "Hai vòng này có thể **đồng cung** tạo ra nhiều cách kinh điển.",
             "chunks": [
@@ -2199,6 +2520,57 @@
       "key_metaphor": "Như **gia vị trong món ăn**: chính tinh là cơm thịt, 2 vòng là rau xào, các sao 'tô điểm' là **muối, tiêu, ớt** — không nhiều nhưng quyết định món ngon hay nhạt. Một sao Hồng Loan ở Phu Thê có thể **thay đổi toàn bộ cách đọc** chuyện hôn nhân.",
       "content": {
         "sections": [
+          {
+            "title": "Sơ đồ tư duy — 8 sao tô điểm chia 4 cặp",
+            "body": "8 phụ tinh quan trọng nhất chia thành **4 cặp đôi** — mỗi cặp một chức năng riêng.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "8 phụ tinh tô điểm — 4 cặp đôi",
+              "data": {
+                "center": "8 SAO TÔ ĐIỂM",
+                "centerSymbol": "點",
+                "branches": [
+                  {
+                    "label": "Đào hoa hỷ",
+                    "symbol": "桃",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Hồng Loan", "description": "đào hoa chính đáng — hôn nhân, hỷ sự" },
+                      { "title": "Thiên Hỷ", "description": "hỷ tinh — đối xung Hồng Loan" }
+                    ]
+                  },
+                  {
+                    "label": "Quý phẩm",
+                    "symbol": "貴",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Tam Thai", "description": "thăng vinh, chức tước (Mệnh, Quan Lộc)" },
+                      { "title": "Bát Tọa", "description": "phẩm tước, được tôn kính" }
+                    ]
+                  },
+                  {
+                    "label": "Văn nghệ",
+                    "symbol": "文",
+                    "tone": "teal",
+                    "leaves": [
+                      { "title": "Long Trì", "description": "sáng tạo, thông minh" },
+                      { "title": "Phượng Các", "description": "đoan trang, gu thẩm mỹ" }
+                    ]
+                  },
+                  {
+                    "label": "Phúc đức",
+                    "symbol": "德",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Thiên Đức", "description": "phúc đức bảo trợ, hoá giải sát" },
+                      { "title": "Nguyệt Đức", "description": "đức mặt trăng — êm dịu" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
           {
             "title": "Hồng Loan & Thiên Hỷ — Cặp đào hoa hỷ tinh",
             "body": "**Hồng Loan** (紅鸞) khởi từ **Mão**, đếm **nghịch** đến năm sinh. **Thiên Hỷ** đối xung Hồng Loan (cách 6 cung). Hai sao này luôn xung chiếu nhau.",
@@ -2386,6 +2758,49 @@
       "key_metaphor": "Như **dấu hiệu báo trước** trong đời sống: thấy mây đen biết sắp mưa, thấy Thiên Hình ở Mệnh biết có khả năng vướng pháp luật. **Biết để phòng**, không phải để sợ.",
       "content": {
         "sections": [
+          {
+            "title": "Sơ đồ tư duy — 7 hung tinh chia 3 nhóm",
+            "body": "7 hung tinh KHÔNG = chắc chắn xấu. Phụ thuộc cung + tổ hợp + nghề chọn.",
+            "chunks": [],
+            "visual": {
+              "kind": "mindmap-tree",
+              "caption": "7 hung tinh — 3 nhóm chức năng",
+              "data": {
+                "center": "7 HUNG TINH",
+                "centerSymbol": "凶",
+                "branches": [
+                  {
+                    "label": "Pháp + Dâm",
+                    "symbol": "刑",
+                    "tone": "red",
+                    "leaves": [
+                      { "title": "Thiên Hình", "description": "pháp luật, kỷ cương — hợp luật/công an" },
+                      { "title": "Thiên Riêu", "description": "đào hoa LĂNG NHĂNG (khác Hồng Loan chính đáng)" }
+                    ]
+                  },
+                  {
+                    "label": "Cố định 2 cung",
+                    "symbol": "固",
+                    "tone": "gold",
+                    "leaves": [
+                      { "title": "Thiên Sứ", "description": "luôn ở Tật Ách — sao báo bệnh" },
+                      { "title": "Thiên Thương", "description": "luôn ở Nô Bộc — thương tật từ giao tiếp" }
+                    ]
+                  },
+                  {
+                    "label": "Tâm trạng",
+                    "symbol": "心",
+                    "tone": "ink",
+                    "leaves": [
+                      { "title": "Thiên Khốc", "description": "buồn, trầm tư — hợp nghệ thuật" },
+                      { "title": "Thiên Hư", "description": "hư danh, ảo tưởng" },
+                      { "title": "Thiên Y", "description": "bệnh tinh thần — hợp y dược, tâm lý" }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
           {
             "title": "Thiên Hình — Sao pháp luật, hình phạt",
             "body": "**Thiên Hình** (天刑) khởi từ **Dậu**, tháng Giêng, đếm **thuận** đến tháng sinh.",
