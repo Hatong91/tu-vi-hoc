@@ -631,43 +631,43 @@
             "chunks": [],
             "visual": {
               "kind": "mindmap-tree",
-              "caption": "6 cặp đối xung — mỗi cặp là 2 mặt của 1 chủ đề",
+              "caption": "6 cặp đối xung — mỗi cặp là 2 mặt của 1 chủ đề (cách nhau 6 cung)",
               "data": {
                 "center": "6 CẶP ĐỐI XUNG",
                 "centerSymbol": "對",
                 "branches": [
                   {
-                    "label": "Bản thân ↔ Đối ngoại",
+                    "label": "Trong-Ngoài",
                     "symbol": "我",
                     "tone": "red",
                     "leaves": [
                       { "title": "Mệnh ↔ Thiên Di", "description": "bản thân vs cách người khác nhìn" },
-                      { "title": "Tật Ách ↔ Huynh Đệ", "description": "sức khỏe vs ruột thịt giúp đỡ" }
+                      { "title": "Phụ Mẫu ↔ Tật Ách", "description": "cha mẹ truyền lại vs sức khỏe bẩm sinh" }
                     ]
                   },
                   {
-                    "label": "Tài-Quan",
-                    "symbol": "財",
+                    "label": "Sung túc",
+                    "symbol": "豐",
                     "tone": "gold",
                     "leaves": [
-                      { "title": "Tài Bạch ↔ Phúc Đức", "description": "tiền bạc vs phúc khí tinh thần" },
-                      { "title": "Quan Lộc ↔ Phu Thê", "description": "sự nghiệp vs hôn nhân (cân bằng đời người)" }
+                      { "title": "Phúc Đức ↔ Tài Bạch", "description": "phúc khí tinh thần vs tiền bạc vật chất" }
                     ]
                   },
                   {
-                    "label": "Gia sản",
+                    "label": "Hai trụ + Di sản",
                     "symbol": "家",
                     "tone": "teal",
                     "leaves": [
-                      { "title": "Điền Trạch ↔ Tử Tức", "description": "nhà cửa vs con cái (di sản hữu hình + truyền nối)" }
+                      { "title": "Quan Lộc ↔ Phu Thê", "description": "sự nghiệp vs hôn nhân — 2 trụ đời người" },
+                      { "title": "Điền Trạch ↔ Tử Tức", "description": "gia sản hiện tại vs gia sản tương lai" }
                     ]
                   },
                   {
-                    "label": "Trên-dưới",
-                    "symbol": "輩",
+                    "label": "Người thân",
+                    "symbol": "親",
                     "tone": "ink",
                     "leaves": [
-                      { "title": "Phụ Mẫu ↔ Nô Bộc", "description": "cha mẹ trên vs bạn bè/cấp dưới" }
+                      { "title": "Nô Bộc ↔ Huynh Đệ", "description": "bạn bè (ngoài máu mủ) vs anh chị em (trong máu mủ)" }
                     ]
                   }
                 ]
@@ -793,49 +793,49 @@
             ],
             "visual": {
               "kind": "mindmap-tree",
-              "caption": "4 nhóm tam hợp — bộ 3 cung cùng chiếu chiếu nhau",
+              "caption": "4 nhóm tam hợp — bộ 3 cung CÁCH NHAU 4 Ô trên bàn lá số",
               "data": {
                 "center": "4 NHÓM TAM HỢP",
                 "centerSymbol": "合",
                 "branches": [
                   {
-                    "label": "Tài lộc",
+                    "label": "Tài-Quan",
                     "symbol": "財",
                     "tone": "gold",
                     "leaves": [
-                      { "title": "Mệnh", "description": "bản thân, tính cách cốt lõi" },
-                      { "title": "Tài Bạch", "description": "tiền bạc, dòng tiền hàng ngày" },
-                      { "title": "Quan Lộc", "description": "sự nghiệp, công danh, chức vụ" }
+                      { "title": "Mệnh", "description": "vị trí 0 — bản thân, tính cách cốt lõi" },
+                      { "title": "Quan Lộc", "description": "vị trí 4 — sự nghiệp, công danh" },
+                      { "title": "Tài Bạch", "description": "vị trí 8 — tiền bạc, dòng tiền" }
                     ]
                   },
                   {
-                    "label": "Gia sản",
-                    "symbol": "家",
+                    "label": "Sinh thành",
+                    "symbol": "代",
                     "tone": "teal",
                     "leaves": [
-                      { "title": "Phụ Mẫu", "description": "cha mẹ, bề trên, dẫn dắt" },
-                      { "title": "Phúc Đức", "description": "phúc khí tổ tiên, an nhiên" },
-                      { "title": "Điền Trạch", "description": "nhà cửa, đất đai, gia sản" }
+                      { "title": "Phụ Mẫu", "description": "vị trí 1 — cha mẹ, bề trên" },
+                      { "title": "Nô Bộc", "description": "vị trí 5 — bạn bè, đồng nghiệp" },
+                      { "title": "Tử Tức", "description": "vị trí 9 — con cái, kế thừa" }
                     ]
                   },
                   {
-                    "label": "Quan hệ",
-                    "symbol": "緣",
+                    "label": "Phúc-Di-Phu",
+                    "symbol": "福",
                     "tone": "red",
                     "leaves": [
-                      { "title": "Phu Thê", "description": "hôn nhân, vợ/chồng" },
-                      { "title": "Tật Ách", "description": "sức khỏe, ảnh hưởng từ thân" },
-                      { "title": "Huynh Đệ", "description": "anh chị em, người chung máu" }
+                      { "title": "Phúc Đức", "description": "vị trí 2 — phúc khí tinh thần" },
+                      { "title": "Thiên Di", "description": "vị trí 6 — đi xa, đối ngoại" },
+                      { "title": "Phu Thê", "description": "vị trí 10 — hôn nhân" }
                     ]
                   },
                   {
-                    "label": "Đối ngoại",
-                    "symbol": "外",
+                    "label": "Tích lũy",
+                    "symbol": "積",
                     "tone": "ink",
                     "leaves": [
-                      { "title": "Thiên Di", "description": "đi xa, đối ngoại, di chuyển" },
-                      { "title": "Nô Bộc", "description": "bạn bè, đồng nghiệp, cấp dưới" },
-                      { "title": "Tử Tức", "description": "con cái, mối duyên kế thừa" }
+                      { "title": "Điền Trạch", "description": "vị trí 3 — nhà cửa, gia sản" },
+                      { "title": "Tật Ách", "description": "vị trí 7 — sức khỏe bẩm sinh" },
+                      { "title": "Huynh Đệ", "description": "vị trí 11 — anh chị em ruột" }
                     ]
                   }
                 ]
@@ -848,19 +848,19 @@
             "chunks": [
               {
                 "type": "definition",
-                "text": "**Nhóm 1 (Tài lộc):** Mệnh - Tài Bạch - Quan Lộc"
+                "text": "**Nhóm 1 (Tài-Quan):** Mệnh (0) — Quan Lộc (4) — Tài Bạch (8). Trục thành công cá nhân."
               },
               {
                 "type": "definition",
-                "text": "**Nhóm 2 (Gia đình):** Phụ Mẫu - Phúc Đức - Điền Trạch"
+                "text": "**Nhóm 2 (Sinh thành):** Phụ Mẫu (1) — Nô Bộc (5) — Tử Tức (9). Quan hệ với cha mẹ, bạn bè, con cái — 3 thế hệ."
               },
               {
                 "type": "definition",
-                "text": "**Nhóm 3 (Quan hệ):** Phu Thê - Tật Ách - Huynh Đệ"
+                "text": "**Nhóm 3 (Phúc-Di-Phu):** Phúc Đức (2) — Thiên Di (6) — Phu Thê (10). Phúc khí, đi xa, hôn nhân — vận hạnh phúc."
               },
               {
                 "type": "definition",
-                "text": "**Nhóm 4 (Đối ngoại):** Thiên Di - Nô Bộc - Tử Tức"
+                "text": "**Nhóm 4 (Tích lũy):** Điền Trạch (3) — Tật Ách (7) — Huynh Đệ (11). Nhà cửa, sức khỏe, anh em — 'của để dành'."
               },
               {
                 "type": "note",
@@ -869,14 +869,14 @@
             ],
             "visual": {
               "kind": "table",
-              "caption": "4 nhóm tam hợp — bộ 3 cung cùng chiếu cho nhau",
+              "caption": "4 nhóm tam hợp — bộ 3 cung cách nhau 4 ô, cùng chiếu cho nhau",
               "data": {
-                "headers": ["Nhóm", "3 cung", "Chủ đề chung"],
+                "headers": ["Nhóm", "3 cung (vị trí)", "Chủ đề chung"],
                 "rows": [
-                  ["1", "Mệnh - Tài Bạch - Quan Lộc", "Thành công cá nhân: tài-quan"],
-                  ["2", "Phụ Mẫu - Phúc Đức - Điền Trạch", "Gia sản & phúc khí truyền lại"],
-                  ["3", "Phu Thê - Tật Ách - Huynh Đệ", "Quan hệ huyết thống & gắn bó"],
-                  ["4", "Thiên Di - Nô Bộc - Tử Tức", "Quan hệ ngoài huyết thống"]
+                  ["1 — Tài-Quan", "Mệnh (0) — Quan Lộc (4) — Tài Bạch (8)", "Thành công cá nhân: bản thân-sự nghiệp-tiền bạc"],
+                  ["2 — Sinh thành", "Phụ Mẫu (1) — Nô Bộc (5) — Tử Tức (9)", "3 thế hệ: cha mẹ-bạn bè-con cái"],
+                  ["3 — Phúc-Di-Phu", "Phúc Đức (2) — Thiên Di (6) — Phu Thê (10)", "Vận hạnh phúc: phúc khí-đi xa-hôn nhân"],
+                  ["4 — Tích lũy", "Điền Trạch (3) — Tật Ách (7) — Huynh Đệ (11)", "Của để dành: nhà cửa-sức khỏe-anh em"]
                 ]
               }
             }
@@ -980,7 +980,7 @@
           "**Tam phương** = 3 cung cách nhau 4 ô tạo tam giác đều — gồm cung gốc + 2 cung tam hợp.",
           "**Tứ chính = Tam phương + Đối xung** = 4 cung quan trọng khi đọc 1 chủ đề.",
           "**Đọc Mệnh = đọc Tứ chính Mệnh:** Mệnh + Tài Bạch + Quan Lộc + Thiên Di. Sai lầm lớn nhất là **chỉ đọc cung gốc** mà bỏ qua 3 cung kia.",
-          "**4 nhóm tam hợp** trên bàn lá số: Tài lộc (Mệnh-Tài-Quan), Gia sản (Phụ-Phúc-Điền), Quan hệ (Phu-Tật-Huynh), Đối ngoại (Di-Nô-Tử).",
+          "**4 nhóm tam hợp** trên bàn lá số (3 cung cách nhau 4 ô): Tài-Quan (Mệnh-Quan-Tài), Sinh thành (Phụ Mẫu-Nô Bộc-Tử Tức), Phúc-Di-Phu (Phúc Đức-Thiên Di-Phu Thê), Tích lũy (Điền Trạch-Tật Ách-Huynh Đệ).",
           "**Sao tọa = 80% lực**, sao chiếu (tam phương/đối xung) = **20% lực** — nhưng vẫn không thể bỏ qua."
         ],
         "mnemonic": "1 cung + 2 tam hợp + 1 đối xung = 4 cung 'tứ chính' phải đọc cùng nhau",
